@@ -1,0 +1,37 @@
+PYTHON
+    pandas
+    numpy
+    train_test_split
+       sklearn.model_selection
+    LogisticRegression
+       sklearn.linear_model
+    accuracy_score
+       sklearn.metrics
+    confusion_matrix
+       sklearn.metrics
+    tree
+       sklearn
+    RandomForestClassifier
+       sklearn.ensemble
+    svm
+       sklearn
+    GaussianNB
+       sklearn.naive_bayes
+    KNeighborsClassifier
+       sklearn.neighbors
+    GradientBoostingClassifier
+       sklearn.ensemble
+  Fonksiyonlar
+     model.fit 
+     model.predict
+     print 
+     tree.DecisionTreeClassifier 
+      dt
+        dt.predict
+        dt.fit 
+     svm.SVC
+     pred_test
+     pd.DataFrame
+     list
+
+                
