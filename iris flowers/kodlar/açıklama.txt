@@ -1,2 +1,0 @@
-
-Bu makine öğrenme algoritmasının amacı, çiçeklerin türlerini İris veri setinin özelliklerine göre tahmin etmektir. Bu model, bu özelliklere dayalı olarak veri kümesinden kalıpları öğrenmek için eğitilmiştir
