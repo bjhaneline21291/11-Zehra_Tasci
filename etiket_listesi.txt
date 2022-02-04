@@ -1,21 +1,26 @@
 PYTHON
    datasets
-     sklearn
+     iris
+    sklearn
+       sklearn.metrics
+         sklearn.metrics.accuracy_score
+    tree     
     seaborn
       boxplot
       set
-   accuracy_score
-       sklearn -> sklearn.metrics
-    tree
-      sklearn
+      sns
     numpy
-     random.permutation 
-    pyplot -> matplotlib.pyplot 
-      show 
+      random.permutation 
+    matplotlib
+      matplotlib.pyplot 
+Fonksiyonlar 
  print
  len
  tree.DecisionTreeClassifier
  iris_classify.predict
+ sns.boxplot
+ sns.set
+ plt.show
         
 
 
