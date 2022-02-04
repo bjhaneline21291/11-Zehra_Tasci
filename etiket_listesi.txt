@@ -1,0 +1,53 @@
+PYTHON
+   datasets
+     sklearn
+    seaborn 
+      sns
+    accuracy_score
+       sklearn.metrics
+    tree
+      sklearn
+    numpy
+       np 
+    matplotlib.pyplot
+       plt
+functions
+   print
+   plt.show
+   sns.boxplot
+   sns.set
+   np.random.permutation
+   len
+   tree.DecisionTreeClassifier
+   iris_classify.predict
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
