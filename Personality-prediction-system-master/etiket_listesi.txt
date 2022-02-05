@@ -1,0 +1,63 @@
+PYTHON
+     pandas
+          pd.read
+          pd.DataFrame
+    numpy         
+    Preprocessing
+       sklearn
+    datasets
+    liner_model
+        sklearn
+            LogisticRegression
+            predict
+    mean_squraed_eror
+    r2_score
+        sklearn
+               metrics
+    metrics
+        sklearn
+    train_test_split
+         sklearn
+                cross
+                    validation
+         sklearn
+                model
+                     selection
+    neighbors
+        sklearn
+
+    Döngü
+       for
+    Koşullar    
+       if
+       else
+    Syntax
+       print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+Bu projenin amacı, gelişmiş veri madenciliği kavramlarını kullanarak belirli bir insan grubunun veya 
+bir bireyin kişiliklerini analiz etmek ve sınıflandırmaktır.
