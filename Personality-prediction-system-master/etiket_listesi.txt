@@ -1,8 +1,9 @@
 PYTHON
-     pandas
+    pandas
           pd.read
           pd.DataFrame
-    numpy         
+    *
+      numpy         
     Preprocessing
        sklearn
     datasets
