@@ -1,0 +1,2 @@
+Parçalara ayrılmış kırmızı kan hücresi görüntülerinde sıtmayı otomatik olarak teşhis etmek için 
+yapay zeka destekli web uygulaması - Tensorflow.js

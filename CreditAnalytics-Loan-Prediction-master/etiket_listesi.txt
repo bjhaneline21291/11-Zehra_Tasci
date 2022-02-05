@@ -5,28 +5,25 @@ PYTHON
           pd.DataFrame 
       numpy
           np.log
-      train_test_split
-         sklearn.model_selection
-      LogisticRegression
-         sklearn.linear_model
-      accuracy_score
-         sklearn.metrics
-      confusion_matrix
-         sklearn.metrics
-      tree
-         tree.DecisionTreeClassifier
-         sklearn
-      RandomForestClassifier
-         sklearn.ensemble
-      svm
-         sklearn
+      Sklearn
+         model.selection
+         LogisticRegression
+         linear.model
+         accuracy_score
+         metrics
+         confusion_matrix
+         tree
+             tree.DecisionTreeClassifier
+         ensemble
+               RandomForestClassifier
+               GradientBoostingClassifier
+         svm
+         naive_bayes
+         neighbors
       GaussianNB
-         sklearn.naive_bayes
       KNeighborsClassifier
-         sklearn.neighbors
-      GradientBoostingClassifier
-         sklearn.ensemble
-  Fonksiyonlar
+
+   Fonksiyonlar
      model.fit 
      model.predict
      print 
