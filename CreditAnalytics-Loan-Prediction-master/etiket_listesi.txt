@@ -19,11 +19,11 @@ PYTHON
                GradientBoostingClassifier
          svm
          naive_bayes
+                   GaussianNB
          neighbors
-      GaussianNB
-      KNeighborsClassifier
-
-   Fonksiyonlar
+                 KNeighborsClassifier
+         
+    Fonksiyonlar
      model.fit 
      model.predict
      print 
