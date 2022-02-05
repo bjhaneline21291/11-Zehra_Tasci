@@ -2,37 +2,30 @@ PYTHON
     pandas
           pd.read
           pd.DataFrame
-    *
-      numpy         
+    numpy         
     Preprocessing
-       sklearn
     datasets
-    liner_model
-        sklearn
-            LogisticRegression
-            predict
-    mean_squraed_eror
-    r2_score
-        sklearn
-               metrics
-    metrics
-        sklearn
-    train_test_split
-         sklearn
-                cross
-                    validation
-         sklearn
-                model
-                     selection
-    neighbors
-        sklearn
-
-    Döngü
+    Sklearn
+           liner_model
+                      LogisticRegression
+           predict
+           metrics
+                  mean_squraed_eror
+                  r2_score
+           model
+                selection
+                         train_test_split
+           cross
+                 validation             
+            neighbors
+   
+   Fonksiyonlar
+    
        for
-    Koşullar    
+       
        if
        else
-    Syntax
+    
        print
 
 

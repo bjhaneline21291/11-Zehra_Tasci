@@ -6,22 +6,22 @@ PYTHON
       numpy
           np.log
       Sklearn
-         model.selection
-         LogisticRegression
-         linear.model
-         accuracy_score
-         metrics
-         confusion_matrix
-         tree
-             tree.DecisionTreeClassifier
-         ensemble
-               RandomForestClassifier
-               GradientBoostingClassifier
-         svm
-         naive_bayes
-                   GaussianNB
-         neighbors
-                 KNeighborsClassifier
+             model.selection
+             linear.model
+                        LogisticRegression
+             metrics
+                    accuracy_score
+                    confusion_matrix
+             tree
+                 tree.DecisionTreeClassifier
+             ensemble
+                   RandomForestClassifier
+                   GradientBoostingClassifier
+             svm
+             naive_bayes
+                        GaussianNB
+             neighbors
+                      KNeighborsClassifier
          
     Fonksiyonlar
      model.fit 
