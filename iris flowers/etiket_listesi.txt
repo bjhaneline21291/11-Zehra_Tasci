@@ -19,6 +19,7 @@ PYTHON
    SYNTAX
       print
       len
+<<<<<<< HEAD
       
         
 
@@ -40,6 +41,11 @@ PYTHON
 
 
 
+=======
+     
+   
+  
+>>>>>>> 448645c648ac053a198cc5a2d9676949a3fb8ac7
 
 
 
