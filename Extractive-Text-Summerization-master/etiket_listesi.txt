@@ -1,0 +1,31 @@
+PYTHON
+    stopwords
+             nltk
+                 cluster
+                        util
+                  corpus
+    cosine_distance
+    numpy
+         zeros
+    networkx
+            from
+            pagerank
+    
+    
+    
+    
+    Fonksiyonlar
+    print
+    list
+    
+    
+    For 
+    return
+    in 
+    
+    
+    if 
+
+
+Yardımcı teknolojiler 
+.ipynb jupyter notebook teknolojisini kullanmıştır.

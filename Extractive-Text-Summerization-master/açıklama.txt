@@ -1,0 +1,3 @@
+Özetleme sistemleri genellikle belgenin/belgelerin en önemli konularını belirtmek için kullanabilecekleri ek kanıtlara sahiptir. 
+Örneğin, blogları özetlerken, blogun hangi bölümlerinin kritik ve ilginç olduğunu belirlemek için iyi bilgi kaynakları 
+olan blog gönderisinden sonra gelen tartışmalar veya yorumlar vardır. 
