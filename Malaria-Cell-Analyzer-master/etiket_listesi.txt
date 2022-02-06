@@ -2,54 +2,54 @@ PYTHON
      seed
          numpy
               random
-    set_random_seed
-         tensorflow
     pandas
     numpy
+        matplotlib
+                  pyplot
+                        
     os
     cv2
     tensorflow
-        keras
-             models
-             layers
-             optimizers
-             metrics
-             preprocessing.image
-             callbacks
-    confusion_matrix
-       sklearn.metrics
-    train_test_split
-        sklearn
-             model.selection   
-    shuffle
-        sklearn.utils
+             keras
+                  utils
+                       set_random_seed
+                  models
+                        Model
+                  layers
+                        Dense
+                        Dropout
+                        Conv2D
+                        MaxPooling2D
+                        Flatten
+                        ZeroPandding2D
+                  optimizers
+                            Adam
+                  metrics
+                         categorical_crossentropy
+                         binary_accuracy
+                  preprocessing.image
+                                     ImageDataGenerator
+                  callbacks
+                           EarlyStopping
+                           ReduceLROnPlateau
+                           ModelCheckpoint
+                  Squential
+    sklearn
+           confusion_matrix
+           metrics
+                   roc_auc_score
+                   classification_report
+           model.selection
+                          train_test_split  
+                          StratifiedKFold 
+                          KFold
+           utils
+                shuffle
     itertools
     shutil
     pickle
-    matplotlib.pyplot
-    KFold
-        StratifiedKFold
-              sklearn
-                    model.selection
-    roc_auc_score
-        sklearn.metrics
-    classification_report
-        sklearn.metrics
-    Squential
-    Dense
-    Dropout
-    Conv2D
-    MaxPooling2D
-    Flatten
-    ZeroPandding2D
-    Adam
-    categorical_crossentropy
-    ImageDataGenerator
-    Model 
-    EarlyStopping
-    ReduceLROnPlateau
-    ModelCheckpoint
-    binary_accuracy
+  
+    
 
 
 HTML
@@ -64,11 +64,11 @@ CSS
      plt.imshow
      plt.xlabel
      len
-  Döngü
+  
     for
     return
   
-  Koşul
+  
     if
     else
      
