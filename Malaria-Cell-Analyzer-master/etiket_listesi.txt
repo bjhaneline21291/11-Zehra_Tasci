@@ -8,6 +8,7 @@ PYTHON
                   pyplot
                         
     os
+      itertools
     cv2
     tensorflow
              keras
@@ -45,7 +46,6 @@ PYTHON
                           KFold
            utils
                 shuffle
-    itertools
     shutil
     pickle
   
