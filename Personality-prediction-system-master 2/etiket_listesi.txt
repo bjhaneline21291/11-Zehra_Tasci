@@ -1,22 +1,22 @@
 PYTHON
     pandas
-          pd.read
-          pd.DataFrame
+          read
+          DataFrame
+          read.cvs
     numpy         
-    Preprocessing
     datasets
     Sklearn
+           Preprocessing
            liner_model
                       LogisticRegression
            predict
            metrics
                   mean_squraed_eror
                   r2_score
-           model
-                selection
-                         train_test_split
-           cross
-                 validation             
+           model.selection
+                          train_test_split
+           cross.validation  
+                           train_test_split           
             neighbors
    
    Fonksiyonlar
