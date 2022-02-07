@@ -8,35 +8,35 @@ PYTHON
            clip
            arange
        torch
-            load 
-            nn
-               functional
-            optim
-            utils
-                 data
-                     DataLoader
-            device
-            cuda 
+             load 
+             nn
+                 functional
+             optim
+             utils
+                  data
+                      DataLoader
+             device
+             cuda 
                  is
                    available  
-            no_grad
-            exp
-            FloatTensor
-            mean  
-            save           
-            nn
-               functional
-            optim
-        dataset
-        transforms
-        models
-              eval
-              torchvision
-         PIL
+             no_grad
+             exp
+             FloatTensor
+             mean  
+             save           
+             nn
+                functional
+             optim
+             dataset
+             transforms
+             models
+                   eval
+                    torchvision
+        PIL
             image
                  open
                  Imshow
-         json        
+        json        
 
    Fonksiyonlar     
    return
