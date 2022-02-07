@@ -1,0 +1,42 @@
+PYTHON
+   datasets
+      iris
+           data 
+           target
+           predict
+           test
+               two
+           classify
+   sklearn
+           metrics
+                  accuracy_score
+           tree
+               DecisionTreeClassifier
+    seaborn 
+      boxplot
+      set
+      sns
+         boxplot
+         set
+    numpy
+       random.permutation 
+    matplotlib
+        pyplot
+              show
+   SYNTAX
+      print
+
+      
+        
+
+
+
+
+
+
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

@@ -1,0 +1,4 @@
+Bu proje, PyTorch ile bir görüntü sınıflandırıcı uygulamak için bir Jupyter not defterinden oluşur. 
+Daha sonra bir komut satırı uygulamasına dönüştürüldü.
+
+Ağ, çiçeklerin türlerini tahmin ediyor.
