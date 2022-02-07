@@ -1,0 +1,66 @@
+PYTHON 
+      numpy
+           ceil
+           array
+           matplotlib
+                     pyplot
+                            figure
+                            subplot
+                            plot
+                            title
+                            legend
+                            grid
+                            show
+                     image
+                           mpimg 
+                                imread      
+      pandas
+            read_csv
+      os
+        listdir
+      tensorflow
+                keras
+                     models
+                           Model
+                                fit_generator
+                           load_model  
+                           Sequential
+                           add
+                           compile
+
+                     layers
+                           Flatten
+                           Dense
+                           Dropout
+                           Lambda
+                     applications
+                                 inception_resnet_v2
+                                                     InceptionResNetV2
+                                                     preprocess_input       
+                                 vgg16
+                                       preprocess_input
+                                       decode_predictions
+                                       VGG16
+                                             conv_base
+                                                       trainable
+                     optimizers  
+                                Adam
+                                RMSprop
+                     preprocessing
+                                   image
+                                        ImageDataGenerator
+                                                           eval_generator    
+                                                           train_datagen
+                                                                        flow_from_directory    
+                     callbacks
+                              ModelCheckpoint                                                   
+      cv2
+         cvtColor
+
+   
+    Fonksiyonlar
+    if
+    else
+
+Yardımcı Teknolojiler
+.ipynb jupyter notebook teknolojisini kullanmıştır.
