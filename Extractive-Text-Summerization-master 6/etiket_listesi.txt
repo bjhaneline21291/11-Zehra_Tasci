@@ -1,11 +1,12 @@
 PYTHON
-    stopwords
-             nltk
-                 cluster
-                        util
-                  corpus
-    cosine_distance
+      nltk
+          corpus
+                stopwords
+                         words
+          cluster
+                 util
     numpy
+         cosine_distance
          zeros
     networkx
             from
@@ -15,8 +16,7 @@ PYTHON
     
     
     Fonksiyonlar
-    print
-    list
+    
     
     
     For 
