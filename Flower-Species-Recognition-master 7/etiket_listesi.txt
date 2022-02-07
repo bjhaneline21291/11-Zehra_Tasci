@@ -16,7 +16,8 @@ PYTHON
                  data
                      DataLoader
             device
-            cuda.is
+            cuda 
+                 is
                    available  
             no_grad
             exp
@@ -47,4 +48,6 @@ PYTHON
 
    with 
 
+Yardımcı Teknolojiler
+.ipynb jupyter notebook teknolojisini kullanmıştır.
 
