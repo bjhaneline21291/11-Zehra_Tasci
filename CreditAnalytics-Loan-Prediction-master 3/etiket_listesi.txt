@@ -1,12 +1,16 @@
 PYTHON
       pandas
-          pd.read
-          pd.get 
-          pd.DataFrame 
+            read.cvs
+            get 
+               dummies
+            DataFrame 
       numpy
-          np.log
+           log
       Sklearn
-             model.selection
+             model_selection
+                            fit
+                            predict
+                                    test
              linear.model
                         LogisticRegression
              metrics
@@ -18,17 +22,15 @@ PYTHON
                    RandomForestClassifier
                    GradientBoostingClassifier
              svm
+                SVC
              naive_bayes
                         GaussianNB
+                                  predict
              neighbors
                       KNeighborsClassifier
+                                          fit
          
-    Fonksiyonlar
-     model.fit 
-     model.predict
-     print 
-     svm.SVC
-     pred_test
-     list
+    
+    
 
                 
