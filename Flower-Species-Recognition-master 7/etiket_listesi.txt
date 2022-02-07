@@ -1,12 +1,50 @@
 PYTHON
        os
+         path
+             isdir
+         mkdir    
        numpy
+           array
+           clip
+           arange
        torch
+            load 
             nn
                functional
-           optim
+            optim
+            utils
+                 data
+                     DataLoader
+            device
+            cuda.is
+                   available  
+            no_grad
+            exp
+            FloatTensor
+            mean  
+            save           
+            nn
+               functional
+            optim
         dataset
         transforms
         models
+              eval
               torchvision
-              
+         PIL
+            image
+                 open
+                 Imshow
+         json        
+
+   Fonksiyonlar     
+   return
+   for
+   in
+   
+   if
+   else
+
+   with 
+
+
