@@ -24,7 +24,7 @@ PYTHON
         pyplot
               show
    SYNTAX
-      print
+      print 
 
       
         
