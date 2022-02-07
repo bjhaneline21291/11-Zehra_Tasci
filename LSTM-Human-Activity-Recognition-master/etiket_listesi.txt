@@ -1,0 +1,25 @@
+PYTHON
+       numpy
+       matplotlib
+                  pyplot
+       tensorflow
+       sklearn
+                 metrics  
+       os
+         path
+             exist
+             abspath
+       subprocess
+                 call
+      
+      
+      
+      
+       Fonksiyonlar
+       print
+
+       if
+       else
+
+YARDIMCI TEKNOLOJİLER 
+.ipynb jupyter notebook teknolojisini kullanmıştır.
