@@ -1,15 +1,28 @@
 PYTHON
-     seed
-         numpy
-              random
+     numpy
+         random
+               seed 
     pandas
+           DataFrame
+           concat
     numpy
-        matplotlib
+         stack
+         matplotlib
                   pyplot
+                        figure
+                        subplot
+                        imshow
+                        xlabel
                         
     os
+      path
+          join
+      listdir
       itertools
     cv2
+       imread
+       resize
+       imwrite
     tensorflow
              keras
                   utils
@@ -36,34 +49,34 @@ PYTHON
                            ModelCheckpoint
                   Squential
     sklearn
-           confusion_matrix
            metrics
+                   confusion_matrix
                    roc_auc_score
                    classification_report
-           model.selection
+           model_selection
                           train_test_split  
                           StratifiedKFold 
                           KFold
+           tensorflow
+                     keras
+                           preprocessing_image       
+                                              ImageDataGenerator        
            utils
                 shuffle
     shutil
     pickle
-  
+    warnings
+            filterwarnings
     
 
 
 HTML
 JavaScript
-CSS     
+CSS  
+   w3   
 
   Fonksiyonlar
-     print
-     os.listdir
-     plt.figure
-     plt.subplot
-     plt.imshow
-     plt.xlabel
-     len
+
   
     for
     return
@@ -71,4 +84,5 @@ CSS
   
     if
     else
-     
+     YARDIMCI TEKNOLOJİLER
+     .jpynb jupiter notebook teknolojisi kullanmıştır
