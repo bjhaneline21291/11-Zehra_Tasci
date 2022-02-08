@@ -47,7 +47,9 @@ PYTHON
                     classification_report
                     confusion_matrix
       cv2 
-      Fonksiyonlar
+           imread
+           resize
+  Fonksiyonlar
        For 
        in 
        return
