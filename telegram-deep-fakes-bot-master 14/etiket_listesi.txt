@@ -25,9 +25,9 @@ PYTHON
                 PIPE
                 STDOUT
       os
-        remove
-        path
-            exists
+         remove
+         path
+               exists
       google.colab
                   drive      
 
@@ -37,7 +37,7 @@ PYTHON
  
  for
  in
- Yardımcı Teknolojiler 
+ 
  
 
 YARDIMCI-TEKNOLOJİLER
