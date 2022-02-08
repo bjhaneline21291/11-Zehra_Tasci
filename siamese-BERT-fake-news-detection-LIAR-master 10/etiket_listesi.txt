@@ -1,0 +1,172 @@
+PYTHON
+      torch
+           pytorch
+                  pretrained
+                            bert
+                                BertTokenizer
+                                            from_pretrained
+                                BertModel
+                                BertForMaskedLM
+                                BertConfig
+            save 
+            nn
+                functional
+                parameter
+                Dropout
+                linear
+                CrossEntropyLoss
+            optim
+                  lr_scheduler
+                  Adam
+            utils
+                  data
+                       Datasets 
+                       DataLoader      
+      numpy
+           array
+           ones
+           matplotlib
+                      pyplot
+                            plot 
+                            title
+                            ylabel
+                            xlabel
+                            legend
+                            show
+                            savefig
+                            close           
+          
+     loggiing 
+              basicConfig  
+     torchvision
+                datasets
+                models
+                transforms                               
+     time
+        time
+     os
+     copy
+         deepcopy
+     PIL
+        image
+     random
+           randrange
+     pathlib
+            Path 
+     pandas
+           read_cvs
+           set_option
+     tensorflow
+               keras
+                    backend
+                           shape
+                           pow
+                           expand
+                           Dot 
+                           concatenate
+                           permute_dimensions
+                           bactch_dot
+                           reshape
+                    regularizers
+                    engine
+                          topology
+                                   Layer 
+                    preprocessing
+                                  text
+                                       Tokenizer
+                                       text_to_word_sequence
+                                  sequence
+                                           pad_sequences
+                    utils
+                         np_utils
+                                 to_categorical
+                    layers
+                          Dense
+                          Input
+                          GlobalMaxPooling1D
+                          Conv1D
+                          MaxPooling1D 
+                          Embedding
+                          LSTM
+                          Activation
+                          Dropout
+                          Bidirectional
+                          TimeDistributed
+                          CuDNNGRU
+                          BatchNormalization
+                          Flatten
+                          GRU
+                    optimizers
+                              Adam
+                    models
+                          Model
+                          Sequential 
+                    initializers
+                                Constant 
+                    callbacks
+                             ModelCheckpoint
+                             TensorBoard
+                             Callback 
+                             EarlyStopping                                                                                  
+     sys 
+     seaborn
+     nltk
+         corpus
+               stopwords
+         util 
+              ngrams      
+         tokenize 
+                 TweetTokenizer
+     datetime
+     scipy
+          stats
+          sparse
+                hstack
+                crs_matrix
+     sklearn
+            utils 
+                 shuffle
+            model
+                 selection
+                           train_test_split
+                           cross_val_score
+            feature_extraction
+                              text
+                                   TfidfVectorizer
+            preprocessing
+                         StandardScaler
+                         OneHotEncoder
+            linear
+                  model 
+                        LogisticRegression
+            svm
+                LinearSVC 
+            multiclass
+                       OneRestClassifier 
+            metrics                                                                             
+     wordcloud
+              WordCloud 
+     collections
+                Counter                                                           
+     tqdm
+         tqdm
+     re     
+
+
+Fonksiyonlar
+for 
+in 
+return
+
+if
+elif
+else
+
+assert
+
+with
+
+sys.exit
+
+Yardımcı Teknolojiler
+ YML

@@ -2,18 +2,18 @@ PYTHON
       numpy
            ceil
            array
-           matplotlib
-                     pyplot
-                            figure
-                            subplot
-                            plot
-                            title
-                            legend
-                            grid
-                            show
-                     image
-                           mpimg 
-                                imread      
+      matplotlib
+                pyplot
+                        figure
+                        subplot
+                        plot
+                        title
+                        legend
+                        grid
+                        show
+                image
+                      mpimg 
+                              imread      
       pandas
             read_csv
       os

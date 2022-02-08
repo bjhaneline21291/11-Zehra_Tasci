@@ -1,0 +1,1 @@
+PyTorch to LIAR-PLUS veri kümesinde sahte haber sınıflandırması için Üçlü Şube BERT Siyam Ağı kullanma.
