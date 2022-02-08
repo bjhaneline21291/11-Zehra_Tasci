@@ -1,0 +1,29 @@
+PYTHON
+      pandas
+            read_csv
+                     head
+            DataFrame
+            concat
+      numpy
+           array 
+      sklearn
+             metrics
+                    accuracy_score
+             enseble
+                    RandomForestClassifier
+                                          fit 
+             model_selection
+                            train_test_split
+   
+   
+   Fonksiyonlar 
+   For 
+   in 
+   return
+
+   if
+
+
+   YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
