@@ -5,6 +5,7 @@ PYTHON
               setup
 
       numpy
+           zeros
            ones
       google.cloud
                   vision
