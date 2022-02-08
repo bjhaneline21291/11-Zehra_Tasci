@@ -63,4 +63,4 @@ PYTHON
     else
 
 Yardımcı Teknolojiler
-.ipynb jupyter notebook teknolojisini kullanmıştır.
+.ipynb jupyter notebook teknolojisini kullanmıştır . 
