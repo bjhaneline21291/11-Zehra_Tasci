@@ -28,6 +28,8 @@ PYTHON
         remove
         path
             exists
+      google.colab
+                  drive      
 
  Fonksiyonlar 
  if 
