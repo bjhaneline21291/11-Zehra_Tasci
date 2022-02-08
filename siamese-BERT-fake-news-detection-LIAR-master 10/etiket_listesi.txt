@@ -108,6 +108,8 @@ PYTHON
                              Callback 
                              EarlyStopping                                                                                  
      sys 
+        sys.exit
+
      argparse
              ArgumentParser
      seaborn
@@ -167,5 +169,4 @@ assert
 
 with
 
-sys.exit
 
