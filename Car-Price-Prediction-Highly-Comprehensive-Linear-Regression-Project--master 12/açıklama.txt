@@ -1,0 +1,4 @@
+Yeni bir girişimcinin ABD otomobil endüstrisindeki önemli fiyatlandırma faktörlerini/değişkenlerini anlamasına yardımcı olmak 
+için ABD pazarına yönelik araba fiyatlarını tahmin etmeye yönelik bir Lineer Regresyon modeli. Tüm veri temizleme, keşif, 
+görselleştirme, özellik seçimi, model oluşturma, 
+değerlendirme ve MLR varsayımları geçerlilik adımlarının ayrıntılı olarak açıklandığı oldukça kapsamlı bir analizidir.

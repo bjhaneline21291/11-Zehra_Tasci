@@ -1,0 +1,1 @@
+Rastgele bir pokemon savaşının kazananını tahmin etmek için Makine Öğrenimi'ni kullanma.

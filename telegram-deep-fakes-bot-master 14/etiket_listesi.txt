@@ -1,0 +1,42 @@
+PYTHON
+      imageio
+      numpy
+      matplotlib
+                pyplot
+                animation
+      skimage
+            img_as_ubyte
+             transform
+                       resize
+      IPython
+             display
+                    HTML
+      warnings
+              filterwarnings
+      demo
+          load_checkpoints
+          make_animation       
+      telebot
+             TeleBot
+      requests
+      shutil
+      subprocess
+                run
+                PIPE
+                STDOUT
+      os
+        remove
+        path
+            exists
+
+ Fonksiyonlar 
+ if 
+ else
+ 
+ for
+ in
+ Yardımcı Teknolojiler 
+ 
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

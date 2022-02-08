@@ -1,0 +1,1 @@
+Bu telgraf botu, derin sahte video notları üretmek için birinci dereceden modeli kullanıyor.
