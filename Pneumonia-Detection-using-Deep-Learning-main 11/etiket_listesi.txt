@@ -1,0 +1,60 @@
+PYTHON
+      os
+         path
+             join
+         listdir    
+      pandas
+      numpy
+      matplotlib
+                pyplot 
+                      imread
+                      imshow
+                      axis
+                      title 
+                      subplot
+                      tight_layout
+                      figure
+                      xticks
+                      yticks
+                      colorbar
+                      legend
+      seaborn
+             set_style
+             countplot
+             distplot
+     tensorflow         
+                keras
+                       models
+                               Sequential
+                                         add
+                                         summary
+                       layers
+                             Dense
+                             Conv2D
+                             MaxPool2D
+                             Flatten
+                             Droput
+                             Batchormalization
+                       preprocessing
+                                    image
+                                          ImageDataGenerator
+                       callbacks
+                                ReduceROnPlateau                   
+      sklearn
+             model_selection
+                             train_test_split
+             metrics
+                    classification_report
+                    confusion_matrix
+      cv2 
+      Fonksiyonlar
+       For 
+       in 
+       return
+       
+       else 
+       if
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
