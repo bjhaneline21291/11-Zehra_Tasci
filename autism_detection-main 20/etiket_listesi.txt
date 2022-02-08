@@ -1,0 +1,39 @@
+PYTHON
+        pandas
+               read_csv
+        matpotlib
+                 pyplot 
+                        figure
+        numpy
+        seaborn
+                heatmap
+        sklearn
+                model_selection
+                                train_test_split
+                                RandomizedSearchCV
+                                                  get_params
+                                                  fit 
+                                                  best_estimator_
+                ensemble
+                        RandomForestClassifier
+                metrics
+                        accuracy_score
+                preprocessing
+                              LabelEnconder
+                                           transform
+                                           fit 
+        tensorflow
+                  keras
+                        models 
+                               Sequential
+                                         add
+                                         compile
+                                         fit 
+                                         evaluate
+                        layers
+                               Dense                                     
+        xgboost
+
+ Fonksiyonlar 
+ return 
+ 

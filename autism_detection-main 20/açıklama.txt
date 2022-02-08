@@ -1,0 +1,6 @@
+Otizm, kişinin sosyal etkileşimini ve iletişimini etkileyen nörolojik bir bozukluktur. Varlığın olağandışı davranışlarına 
+ve ilgisine neden olur.Otizm ve Disleksi gibi hastalıkların kalıcı tedavisi yoktur ancak bazı uygun tedavilerle tedavi edilebilir.
+Otizm Spektrum Bozukluğu (OSB) tanısı, nörogelişimsel bozukluklarda klinik uzmanlık gerektiren öznel bir süreçtir. Bu tür uzmanlık pek çok klinikte 
+bulunmadığından, makine öğrenimi (ML) algoritmalarını kullanan otomatik tanılama, hem klinisyenler hem de görüntüleme topluluğu için tanının 
+kullanılabilirliğini ve tekrarlanabilirliğini artırırken öznelliği azaltırken büyük değere sahip olacaktır. 
+Bizim fikrimiz, corpus collosum ağırlıklarıyla otizmin tanımlanması için makine öğrenimi metodolojilerini kullanmaktır.
