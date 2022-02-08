@@ -1,0 +1,23 @@
+PYTHON
+        paramiko
+                SSSHClient
+                           ssh_client
+                                     set_missing_host_key_policy
+                                     connect
+                                     exec_command
+                                                  read
+        os
+           path 
+                expanduser
+        user_definition
+        warnings
+                filterwarnings
+YML
+Fonksiyonlar 
+if 
+
+return 
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+        

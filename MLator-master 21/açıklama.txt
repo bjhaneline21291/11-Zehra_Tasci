@@ -1,0 +1,2 @@
+MLator, Manga endüstrisine yavaş, düşük kaliteli otomatik çeviri ve pahalı 
+insan çevirisine bir alternatif sağlamak için birlikte çalıştığımız bir projedir.
