@@ -1,0 +1,16 @@
+__pycache__/
+.pytest_cache
+*.py[cod]
+*.egg-info/
+.installed.cfg
+*.egg
+*.d2v
+*.npy
+*.db
+geckodriver.log
+ghostdriver.log
+CryptoTrader/data_utils/tradingview_data/data/*
+CryptoTrader/data_utils/twitter_data/data/*
+!CryptoTrader/data_utils/twitter_data/data/static/*
+CryptoTrader/data_utils/twitter_data/logs/*
+nohup.out

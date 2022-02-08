@@ -1,0 +1,98 @@
+PYTHON
+        CryptoScaraper
+                      cryptoDownloader
+                      getAllData
+        pandas
+              read_csv
+              read_json
+              DataFrame
+                        append
+                        to_csv
+        data_utils
+                   PriceFunctions
+                                 get_pandas
+                   addData
+                   BasicFunctions 
+                                   single_plot 
+        requests
+                 get 
+        json                            
+        sklearn
+                decomposition
+                               PCA 
+        tensorflow
+                    reduce_mean
+                    placeholder
+                    name_scope
+                    Session
+                    reset_default_graph
+                    abs
+                    train
+                         import_meta_graph
+                                          restore
+                    keras
+                            layers
+                                    Input
+                                    Embedding
+                                    Average
+                                    Dense
+                                    Conv1D
+                                    MaxPooling1D
+                                    LTSM
+                                    BatchNormalization
+                                    Dropout
+                                    Activation
+                                    Flatten
+                                    LeakyReLU
+                            nn 
+                               relu 
+                               softmax        
+                            optimizers
+                                       Adam
+                            model
+                                  Model 
+                                        compile
+           
+
+        matplotlib
+                   pyplot 
+        evaluation_utils
+                         performEvaluation
+                                           calculate_accuracy
+        BackTest
+                 Backtester
+                            perform_backtest
+                            get_positions
+                            get_outcome
+                 strategyBacktest
+        os 
+           getcwd
+        numpy
+             sum
+        datetime
+                datetime
+                         utcnow
+                                strftime
+        TechnicalAnalysis
+                         TechnicalAnalysis
+                                           merge_time
+                                           get_dic
+                                           perform 
+                                           get_dataframe
+                                          
+        math                                          
+       
+                                 
+ Fonksiyonlar
+ if 
+ 
+
+ with
+
+for 
+in 
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

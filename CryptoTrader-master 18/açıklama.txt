@@ -1,0 +1,2 @@
+Kripto para birimi fiyatlarını tahmin etmek için Reddit, Twitter, Google, Tarihi, Teknik Analiz ve Blockchain tabanlı verileri 
+kullanır.Kendi kendine yapılan bir geri test modülü kullanır. ML kılavuzu da kullanılır.
