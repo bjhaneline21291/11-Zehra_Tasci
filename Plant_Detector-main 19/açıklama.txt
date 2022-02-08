@@ -1,0 +1,1 @@
+ML ve Bilgisayarla görme kullanarak bitki tespiti.

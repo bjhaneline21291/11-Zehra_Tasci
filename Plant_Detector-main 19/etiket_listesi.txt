@@ -1,0 +1,38 @@
+PYTHON
+        cv2
+            VideoCapture
+                        set
+                        read
+                        relase
+            resize
+            cvtColor
+            Laplacian 
+            imwrite
+            imshow
+            waitkey
+            destroyAllWindows     
+            nameWindow
+            resizeWindow
+            createTrackbar
+            CascadeClassifier
+                              detectMultiScale
+            getTrackbarPos
+            cvdColor
+            rectangle
+            putText
+        os
+          makedirs
+          path
+              exist
+        time
+            time 
+
+Fonksiyonlar 
+if 
+
+for 
+in 
+
+break 
+
+while
