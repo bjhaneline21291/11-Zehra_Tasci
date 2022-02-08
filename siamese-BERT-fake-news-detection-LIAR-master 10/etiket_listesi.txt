@@ -54,7 +54,7 @@ PYTHON
      pathlib
             Path 
      pandas
-           read_cvs
+           read_csv
            set_option
      tensorflow
                keras
@@ -151,7 +151,7 @@ PYTHON
      tqdm
          tqdm
      re     
-
+YML
 
 Fonksiyonlar
 for 
@@ -168,5 +168,3 @@ with
 
 sys.exit
 
-Yardımcı Teknolojiler
- YML
