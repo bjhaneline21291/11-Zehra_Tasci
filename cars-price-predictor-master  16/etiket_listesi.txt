@@ -1,0 +1,87 @@
+PYTHON
+        bs4
+              BeutifulSoup
+        request
+        pandas
+               DataFrame
+               read_csv
+               to_numeric
+               get_dummies
+        csv
+            writer
+        numpy
+             uniqe
+             poly1d
+             polyfit
+             sqrt
+
+        sklearn
+                externals
+                          joblib
+                                dump
+                                load 
+
+                model_selection
+                               cross_val_score
+                ensemble
+                         GraadientBoostingRegressor
+                linear_model
+                            LinearRegression
+                tree
+                    DecisionTreeRegressor
+                                         fit
+                                         predict
+                metrics
+                        mean_squared_error
+                        r2_score
+                neighbors
+                         KNeighborsRegressor
+                                            fit
+                                            predict
+
+                cross_validation
+                                 train_test_split
+        seaborn
+                set_style
+                stripplot
+                violinplot
+                distplot
+                barplot
+
+        matplotlib
+                    get_ipython
+                               run_line_magic
+                    patches
+                           Rectangle
+                    pyplot 
+                            scatter
+                            xlabel
+                            ylabel
+                            title 
+                            show 
+                            figure
+                            subplots
+                            plot 
+                            legend
+                            tick_params
+                            axhline
+        json
+             dumps  
+        pylab
+             rcParams                                       
+    Fonksiyonlar
+     for 
+     in
+     return
+     
+     with 
+     
+     as
+     
+     if
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+                                                             

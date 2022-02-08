@@ -1,0 +1,2 @@
+Bu proje, birçok Makine Öğrenimi modelini test ederek ve aralarında karşılaştırma yaparak, özelliklerine göre bir 
+arabanın fiyatını tahmin edebilen bir makine öğrenimi modelinin nasıl oluşturulacağını adım adım gösterir.
