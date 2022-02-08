@@ -1,0 +1,47 @@
+PYTHON
+      RPi.GPIO
+              setwarnings
+              setmode
+              setup
+
+      numpy
+           ones
+      google.cloud
+                  vision
+                        ImageAnnotatorClient
+                        types
+      
+      os
+         environ
+      sys
+      logging
+             basicConfig
+             eror
+      time
+          sleep
+      cv2
+         dilate
+         imread
+         cvtColor
+         Canny
+              image
+                   convertScaleAbs
+      requests
+              status_code
+              post
+              get
+      Adafruit_PCA9685
+                      set_pwm_freq
+                      set_pmw 
+      picamera
+              PiCamera 
+                      resolution
+                      awb
+                         mode
+                      iso 
+                      contrast
+                      brightness
+                      sharpness   
+                      start
+                            preview
+                      capture
