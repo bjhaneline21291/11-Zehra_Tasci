@@ -1,0 +1,46 @@
+PYTHON
+      numpy
+           uniqe
+      sys
+         argv
+         exist
+
+      pickle  
+            load    
+      seaborn
+              heatmap
+      pandas
+             read_csv
+      matplotlib
+                pyplot 
+                       plot 
+                       title
+                       ylim
+                       show
+      sklearn
+                model_selection
+                             train_test_split
+                linear_model
+                             LogisticRegression
+                neighbors
+                         KNeighborsClassifer
+                neural_network
+                              MLPClassifer
+                tree
+                     DecisionTreeClassifier
+                metrics
+                        classification_report
+                        confusion_metrix
+                        accuracy_score                                         
+                ensemble
+                         RandomForestClassifier
+
+    Fonksiyonlar
+    for 
+    in
+
+    if
+    else
+
+ Yardımcı Teknolojiler
+ .ipynb jupyter notebook teknolojisini kullanmıştır.
