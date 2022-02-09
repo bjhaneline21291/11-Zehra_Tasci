@@ -1,0 +1,1 @@
+Yakıt verimliliğini tahmin etmek için TF modeli.

@@ -1,0 +1,36 @@
+PYTHON
+        pathlib
+        argparse
+                  ArgumentParser
+                                 add_argument
+                                 parse_known_args
+        sys
+        numpy
+        pandas
+              read_csv
+              get_dummies
+        tensorflow
+                  version
+                   keras
+                            layers
+                                 Dense 
+                            Sequential
+                                      compile
+                            optimizers
+                                       RMSprop    
+                            callbacks
+                                      ModelCheckpoint
+                                      EarlyStopping                      
+
+        google.cloud
+                    storage
+        _future_
+                 absolute_import
+                 division
+                 print_function
+                 unicode_literals            
+
+ Fonksiyonlar 
+ if 
+ 
+ return 
