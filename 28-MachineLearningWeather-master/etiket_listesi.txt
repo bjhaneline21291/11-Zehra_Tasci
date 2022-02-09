@@ -1,0 +1,22 @@
+PYTHON 
+        sklearn
+                linear_model
+                             Ridge
+                                   fit 
+                                      coef 
+                                      intercept
+        datetime
+                datetime
+                         strftime
+                         now 
+        json
+             loads 
+
+  
+  
+  Fonksiyonlar 
+  if 
+  return
+  with
+  in
+  for               
