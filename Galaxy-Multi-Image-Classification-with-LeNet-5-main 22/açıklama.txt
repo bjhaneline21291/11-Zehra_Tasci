@@ -1,0 +1,1 @@
+Bu projenin amacı galaksileri sınıflandıran bir makine öğrenimi modeli nasıl oluşturulur.

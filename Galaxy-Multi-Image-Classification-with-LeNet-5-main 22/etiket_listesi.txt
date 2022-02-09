@@ -1,0 +1,57 @@
+PYTHON
+        astroNN
+                datasets
+                        galaxy10
+                                 galaxy10cls_lookup
+        tensorflow
+                    keras
+                            models
+                                    Sequential
+                                                add 
+                            layers
+                                     Conv2D
+                                     AveragePooling2D
+                                     Flatten
+                                     Dense
+                                     Dropout
+                            callbacks
+                                      ReduceLROnPlateau
+                            optimizers
+                                        Adam  
+                            utils                             
+        matplotlib
+                  pyplot
+                        subplot
+                        imshow
+                        title 
+                        show
+                        xlabel
+                        ylabel
+        pandas
+               DataFrame
+                          value_counts
+        seaborn
+                heatmap
+        numpy
+               argmax 
+        sklearn
+                model_selection
+                                 train_test_split
+                metrics
+                         classification_report
+                         confusion_matrix        
+
+   Fonksiyonlar 
+   For 
+   in 
+
+
+   
+
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+                               
