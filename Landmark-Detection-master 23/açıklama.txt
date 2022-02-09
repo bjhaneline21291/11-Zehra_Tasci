@@ -1,0 +1,2 @@
+Bu projede, yüzdeki yer işaretlerini tanımlayabilen bir uygulama oluşturacağız. Uygulama, yüz çevresinde toplam 68 noktayı tanımlar, 
+bu tür işlevler snapchat, instagram veya facebook gibi birçok uygulamada filtre uygulamak için kullanılır.

@@ -1,0 +1,28 @@
+PYTHON
+        cv2
+            VideoCapture
+                        read
+            cvtColor
+            destroyAllWindows
+            rectangle
+            circle
+            imshow
+            waitkey
+       numpy
+
+C++
+    dlib  
+         get_frontal_face_detector
+         shape_predictor     
+Fonksiyonlar 
+while
+for 
+in 
+
+if 
+
+break 
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
