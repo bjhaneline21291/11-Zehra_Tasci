@@ -1,0 +1,4 @@
+sadece maskeyi değil, aynı zamanda kamerada iki kişinin algılandığı mesafeyi de gösteren bir program yaptı. 
+Makine Öğrenimi için sklearn ve mesafe tahmincisi için scipy (bilimsel-python) kullandım. Program çalışma süresinde 
+maskeyi algılayacak ve iki kişinin mesafesi 25 cm'den fazlaysa (mesafe değiştirilebilir, 
+dizüstü bilgisayarın kamerasına klima ayarlandı.

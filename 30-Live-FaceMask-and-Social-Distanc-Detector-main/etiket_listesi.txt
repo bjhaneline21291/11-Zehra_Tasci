@@ -1,0 +1,47 @@
+PYTHON 
+        numpy
+                load
+                     reshape
+                zeros
+                r      
+        Sklearn 
+                svm
+                     SVC 
+                        fit
+                        predict   
+                metrics
+                       accuracy_score
+                model_selection
+                              train_test_split
+        cv2
+             VideoCapture
+             FONT_HERSHEY_COMPLEX
+             circle
+             line 
+             putText
+             rectangle
+             resize
+             imshow
+             waitkey
+             destroyAllWindows
+        scipy
+                spatial
+                       distance
+                                euclidean
+ Fonksiyonlar 
+ while 
+ for 
+
+ if
+ else 
+
+ break
+
+ YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+
+
+
+
+ 
