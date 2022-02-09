@@ -1,0 +1,35 @@
+PYTHON 
+        numpy 
+        pandas
+                read_json
+                get_dummies
+
+        matplotlib
+                  pyplot
+                        figure
+                        legend
+                        tight_layout
+        seaborn
+               scatterplot
+               boxplot
+               joinplot
+
+        datetime
+        sklearn 
+                cluster 
+                        DBSCAN
+                preprocessing
+                              MinMaxScaler           
+
+Fonksiyonlar
+for 
+in 
+
+if 
+else
+
+return 
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
