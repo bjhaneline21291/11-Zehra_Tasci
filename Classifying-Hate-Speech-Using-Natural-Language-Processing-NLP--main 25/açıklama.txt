@@ -1,0 +1,3 @@
+Din, etnik köken, milliyet, ırk, renk, soy, cinsiyet veya herhangi bir kimlik faktörüne ilişkin 
+nefret içeriği bu nedenle bu soru çok önemlidir. Bu sorunun yanıtlanması gerekir çünkü bu nefret içeriğinin 
+ana platformu sosyal medyadır ve bu, Doğal Dil İşleme kullanılarak yanıtlanabilir.
