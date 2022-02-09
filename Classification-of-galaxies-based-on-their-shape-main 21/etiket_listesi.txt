@@ -1,0 +1,69 @@
+PYTHON
+        matplotlib
+                   pyplot
+                          figure
+                          imshow
+                          title
+                          subplot
+                          plot 
+                          legend
+                          show
+        seaborn
+                 set_style
+                 countplot
+        tensorflow
+                    keras
+                            models
+                                  Sequential
+                                             add
+                                             summary
+                            layers
+                                   Dense
+                                   Conv2D
+                                   MaxPool2D
+                                   Flatten
+                                   Dropout
+                                   GlobalAveragePooling2D
+                            preprocessing
+                                          image
+                                                ImageDataGenerator
+                            optimizers
+                                        Adam
+                                             
+                            applications
+                                         MobileNetV2   
+                            losses
+                                  BinaryCrossentropy 
+                                  SparseCategoricalCrossentropy                     
+        sklearn
+                 metrics
+                          classification_report
+                          confusion_matrix
+        cv2 
+            imread
+            resize
+        os 
+            path
+                 join
+            listdir
+        numpy
+              array
+
+
+ Fonksiyonlar
+  for 
+  in
+  return 
+  
+  try
+  except
+
+  if
+  elif
+  else 
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+
+

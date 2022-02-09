@@ -1,0 +1,4 @@
+Evrende farklı şekillerde keşfedilen milyarlarca galaksi var. Bu galaksiler şekillerine göre farklı gruplara ayrılabilir. 
+Gökadaların astronomik verilerini sınıflandırmak ve şekillerini tespit etmek için makine öğrenimini kullanan algoritmayı hedefliyoruz. 
+Gözlemevleri tarafından kamuya açıklanan astronomik verileri veya sanal gözlemevlerinden gelen verileri kullanacağız. 
+Tekniğimiz, galaksilerin devasa veri kümesini doğrulukla ilgili türe sınıflandıracaktır.
