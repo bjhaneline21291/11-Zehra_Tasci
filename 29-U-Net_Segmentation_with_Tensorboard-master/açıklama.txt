@@ -1,0 +1,2 @@
+Bu proje, görüntü segmentasyonunda kullanılan U-Net mimarisini uygular ve 
+Tensorboard kullanarak öğrenme sürecini görselleştirir.

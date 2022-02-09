@@ -1,0 +1,67 @@
+PYTHON 
+        os
+           path 
+                join 
+                abspath
+                getcwd
+                isdir
+                mkdir
+                listdir
+        numpy
+             reshape
+             zeros
+             ones
+        skimage
+                io 
+                    imread
+                    imsave
+                    BytesIO
+                transform
+                          resize         
+        tensorflow
+                    Summary
+                            Image
+                            Value
+                    keras 
+                            callbacks
+                                    ModelCheckpoint
+                                    CSVLogger  
+                                    TensorBoard
+                            models
+                                   *
+                            layers
+                                   *
+                            optimizers
+                                       *
+                            backed 
+        tqdm
+             tqdm
+        PIL 
+            Image 
+        cv2 
+        scipy
+                ndimage
+                        interpolation 
+                                          map_coordinates
+                        filters
+                                gaussian_filter  
+        sys
+            path
+                 append
+
+    Fonksiyonlar 
+    for 
+    in 
+
+    yield 
+    return
+
+    if 
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+
