@@ -1,0 +1,76 @@
+PYTHON 
+        matplotlib
+                   image
+                         imread
+                   pyplot
+                         subplots
+                         plot 
+                         show 
+        numpy
+              histogram
+              concantenate
+              copy
+              ravel
+              vstack
+              float64
+              hstack
+              ones
+              zeros
+              arange
+              random
+                    randint
+              int
+              zeros_like
+              float 
+              min 
+              max 
+              clip
+              dstack
+
+        cv2
+            imread
+            imwrite
+            resize
+            cvtColor
+            xfeatures2d
+                        SIFT_create
+            rectangle  
+            putText    
+            LINE_AA      
+                        
+        skimage
+                feature
+                        hog
+        glob
+             glob
+        sklearn 
+                svm
+                      LinearSVC
+                      SVC 
+                preprocessing
+                              StandardScaler
+                model_selection
+                                train_test_split
+                                GridSearchCV     
+        pickle
+        scipy
+             ndimage
+                     measurements
+                                   label
+        moviepy
+               editor
+                         VideoFileClip
+        IPython
+                 display
+                           HTML 
+    Fonksiyonlar 
+    for 
+    return 
+    in 
+
+    if 
+    esle 
+
+    YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.                                                                                                                          
+

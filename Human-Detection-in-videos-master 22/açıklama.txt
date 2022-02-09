@@ -1,0 +1,2 @@
+Domuz, görüntü histogramı ve uzamsal özellikler aracılığıyla Özellik 
+Çıkarma, Kullanılan SVM sınıflandırıcı, Kayar pencere algoritması.
