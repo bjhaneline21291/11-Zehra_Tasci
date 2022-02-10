@@ -1,0 +1,1 @@
+Bu, bir kullanıcı herhangi bir habere tıkladığında haberleri önermek için makine öğrenimini kullanan bir Haber Sitesidir.
