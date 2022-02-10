@@ -1,0 +1,45 @@
+Python
+        numpy
+        matplotlib
+                    pyplot
+                            figure 
+                            show
+                            plot 
+                            text
+                            xticks
+                            xlabel
+                            ylabel
+                            title 
+                            rcParams
+                    cm
+                       rainbow
+        pandas 
+                read_csv 
+                        info
+                        describe
+                        hist
+                get_dummies        
+
+        warnings
+                filterwarnings
+        sklearn
+                neighbors
+                         KNeighborsClassifier
+                model_selection
+                               train_test_split
+                               cross_val_score
+                preprocessing
+                              StandardScaler                        
+
+        seaborn
+               heatmap   
+               set_style
+               countplot              
+YML
+
+Fonksiyonlar 
+for 
+in 
+
+
+

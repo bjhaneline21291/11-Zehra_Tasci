@@ -1,0 +1,2 @@
+Bu depo, "Makine Öğrenimi kullanarak Kalp Hastalığı Tahmini" projesini göstermektedir. 
+Bu proje K En Yakın Komşu Algoritması uygulanarak oluşturulmuştur.
