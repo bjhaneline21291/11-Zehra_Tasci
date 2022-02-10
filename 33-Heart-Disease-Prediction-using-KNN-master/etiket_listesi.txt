@@ -42,4 +42,8 @@ for
 in 
 
 
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+
 
