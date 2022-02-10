@@ -1,0 +1,49 @@
+Python
+        pandas
+              read_csv
+        sklearn
+                preprocessing
+                          StandardScaler
+                          OneHotEncoder
+                model_selection
+                              train_test_split
+                metrics
+                       accuracy_score  
+                       roc_auc_score
+                       precision_score
+                       roc_curve
+                       confusion_matrix   
+                neighbors
+                         KNeighborsClassifier
+                linear_model
+                          LogisticRegression
+                tree
+                    DecisionTreeClassifier
+                ensemble
+                      RandomForestClassifier
+                      GradientBoostingClassifier                                       
+        numpy
+             arange
+        matplotlib
+                  pyplot 
+                        plot 
+                        xticks
+                        hlines
+                        ylim
+                        xlabel
+                        ylabel
+                        barh
+        tensorflow
+                    keras
+                             models 
+                                    Sequential
+                    layers
+                           Dense                
+
+
+    Fonksiyonlar 
+    for 
+    in
+    
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

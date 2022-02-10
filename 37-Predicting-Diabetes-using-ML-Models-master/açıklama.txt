@@ -1,0 +1,2 @@
+Bu proje, geleneksel makine öğrenimi modellerini kullanarak bir bireyin diyabetini tahmin etme konusunu ele alıyor, böylece diyabete neden olmayacak 
+şekilde yaşam tarzını ve diyetini sağlıklı bir şekilde halledebiliyor.
