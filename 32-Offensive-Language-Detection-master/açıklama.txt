@@ -1,0 +1,1 @@
+Rahatsız edici tweetleri tespit etmek ve hedefini sınıflandırmak için Machine Learning kullanan NLP modeli.

@@ -1,0 +1,64 @@
+Python 
+        pandas
+               read_csv
+        numpy    
+              logspace 
+        tqdm
+             tqdm
+                  pandas
+        copy       
+            deepcopy      
+        re
+          sub
+        nltk
+            download 
+                     punkt
+            corpus        
+                   stopwords
+            tokenize
+                    word_tokenize           
+            stem
+                lancaster
+                        LancasterStemmer
+                        WordNetLemmatizer
+        sklearn
+                feature_extraction
+                                 text 
+                                        TfidfVectorizer
+                model_selection
+                                train_test_split
+                neighbors
+                         KNeighborsClassifier
+                svm
+                    SVC
+                naive_bayes
+                           GaussianNB
+                           MultinomialNB
+                tree
+                    DecisionTreeClassifier
+                ensemble
+                        RandomForestClassifier
+                metrics
+                       accuracy_score
+                       confusion_matrix
+                model_selection
+                                 GridSearchCV
+                linear_model
+                            LogisticRegression
+        os 
+           listdir
+        gensim
+              models 
+                    Word2Vec    
+
+    Fonksiyonlar 
+    if 
+    elif 
+    else 
+
+    for 
+    return                                                                                                    
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
