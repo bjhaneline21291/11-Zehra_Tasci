@@ -1,0 +1,56 @@
+PYTHON 
+        pandas
+              pandas_profiling
+                              ProfileReport
+              read_csv
+              get_dummies
+                        rename 
+              concat
+                    drop 
+        numpy 
+        matplotlib
+                 pyplot
+                       subplots
+                       clf 
+        sklearn
+                cluster
+                      KMeans
+                feature_selection
+                               RFE
+                                 support
+                linear_model
+                           LogisticRegression                     
+                model_selection 
+                                train_test_split
+                                KFold
+                metrics
+                       confusion_matrix
+                       classification_report
+                       accuracy_score
+                svm
+                    SVC        
+                tree 
+                    DecisionTreeClassifier
+                ensemble
+                       RandomForestClassifier                       
+        warnings
+                simplefilter
+        seaborn 
+               countplot
+               FaceGrid
+               kdeplot
+               barplot
+        statsmodels
+                   api
+                      Logit 
+
+    Fonksiyonlar 
+    for 
+    in 
+
+    if 
+    else 
+
+    
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.                

@@ -1,0 +1,3 @@
+Dünya genelinde ölümlerin başlıca nedeni yüksek ve düşük gelişmiş ülkelerdeki kalp hastalığıdır. Veri bilimcisi, özgün 
+veri kümesini verimli ve doğru bir şekilde kullanarak sağlık hastalıklarını modellemek için kendine 
+özgü makine öğrenimi tekniklerini kullanır.
