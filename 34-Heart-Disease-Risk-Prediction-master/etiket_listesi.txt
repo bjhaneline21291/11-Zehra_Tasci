@@ -1,0 +1,81 @@
+python
+        warnings
+                filterwarnings
+        numpy 
+            exp    
+            arange   
+        pandas    
+              concat
+              DataFrame
+        matplotlib
+                 pyplot
+                       figure
+                       title
+                       xlabel
+                       ylabel
+                       show
+                       bar
+                       gca      
+                       gcf
+                       subplot
+                       plot 
+                       xticks
+        operator
+                add
+        seaborn
+                 set
+                 barplot
+                 counplot
+                 heatmap
+                 pairplot
+                 color_palette
+                 set_style        
+        sklearn
+                enseble 
+                        RandomForestClassifier
+                model_selection
+                             train_test_split
+                             GridSearchCV
+                preprocessing
+                              StandardScaler
+                                         fit_transform
+                liner_model
+                         LogisticRegression
+                metrics 
+                       confusion_metrix
+                       accuracy_score
+                       f1_score
+                       classification_report
+                       recall_score
+                       precision_score
+                       roc_auc_score 
+                       roc_curve     
+                neighbors
+                         KNeighborsClassifier
+                tree
+                    DecisionTreeClassifier
+                svm 
+                  SVC                       
+        boruta
+              BorutaPY
+        statsmodels
+                  api 
+                     Logit
+        imblearn
+                over_sampling
+                             SMOTE
+                under_sampling
+                              RandomUnderSampler
+                pipeline
+                        Pipeline 
+        collections 
+                  Counter                                                           
+ Fonksiyonlar 
+ for 
+ in 
+
+if
+else 
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
