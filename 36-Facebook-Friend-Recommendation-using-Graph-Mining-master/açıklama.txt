@@ -1,0 +1,1 @@
+Bu proje, iki kullanıcının gelecekte arkadaş olup olmayacağı sosyal medya bağlantı tahminine dayanmaktadır.

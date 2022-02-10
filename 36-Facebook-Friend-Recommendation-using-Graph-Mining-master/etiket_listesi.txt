@@ -1,0 +1,112 @@
+Python
+        warnings
+              filterwarnings
+        cvs
+           isna
+           info
+           to_csv
+           duplicated
+           reader
+        pandas
+              read_csv
+              DataFrame
+              Series
+              HDFStore
+        datetime
+        time
+        numpy
+              percentile
+              array
+              sum 
+              ones
+              zeros
+              concatenate
+              sqrt
+              mean 
+              argsort
+        matplotlib
+               rcParams
+               pyplot 
+                     savefig
+                     figure
+                     plot 
+                     xlabel
+                     ylabel
+                     show
+                     boxplot
+                     subplots
+                     legend
+        seaborn   
+               set_style
+               distplot
+               despine
+               light_palette
+               heatmap
+        sklearn
+                cluster
+                      MiniBatchKMeans
+                      KMeans 
+                model_selection
+                              train_test_split
+                              RandomizedSearchCV
+                ensemble
+                        RandomForestClassifier
+                metrics
+                      f1_score  
+                      roc_curve
+                      auc                    
+        math 
+            sqrt 
+        pickle
+              dump
+              load
+        os
+          path
+              isfile
+        xgboost 
+                XGBClassifier
+        networkx
+                read_edgelist
+                info
+                DiGraph
+                spring_layout
+                weakly_connected_components
+                shortest_path_length
+                katz 
+                    katz_centrality     
+        pdb   
+        collections
+                  Counter
+        random
+        scipy
+                sparse
+                        linalg
+                               svds
+                               eigs 
+                stats
+                      randit 
+                      uniform               
+        gc
+        tqdm
+            tqdm    
+        prettytable
+                  PrettyTable 
+    Fonksiyonlar
+     for 
+     in 
+
+     if 
+     else 
+
+     return
+     except
+     
+     break
+
+     try 
+
+  
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.   
+
+                                       
