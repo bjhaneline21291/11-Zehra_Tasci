@@ -1,0 +1,63 @@
+Python 
+        numpy
+             argmax
+             sqrt
+        pandas
+        matplotlib
+               pyplot
+                   imshows
+                   colorbar
+                   xlabel
+                   ylabel
+                   shoe
+        spectral
+               *
+               io
+                 envi 
+                     envi               
+        tensorflow
+                    keras
+                        models
+                                Sequential
+                                         compile
+                                load_model
+                        layers
+                               Conv1D
+                               MaxPooling1D
+                               Dropout
+                               Flatten
+                               Dense
+                        utils
+                             to_categorical   
+                        callbacks
+                               EarlyStopping
+                               ModelCheckpoint                
+        sklearn
+                preprocessing
+                             minmax
+                model_selection
+                              train_test_split
+                metrics
+                       mean_squared_error
+                       r2_score
+                       confusion_matrix
+                       classification_report   
+                cluster
+                      KMeans                               
+        seaborn
+               heatmap
+        xgboost
+               XGRegressor        
+        plotly 
+             express
+
+ Fonksiyonlar 
+ return 
+
+for 
+in 
+
+while
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
