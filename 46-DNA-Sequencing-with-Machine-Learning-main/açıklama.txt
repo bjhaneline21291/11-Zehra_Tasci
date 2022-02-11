@@ -1,0 +1,1 @@
+Bu projenin amacı Makine Öğrenimiyle DNA Dizilemedir.

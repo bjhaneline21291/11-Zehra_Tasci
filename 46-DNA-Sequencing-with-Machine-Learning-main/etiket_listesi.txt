@@ -1,0 +1,29 @@
+Python
+        numpy
+        pandas
+            read_table
+            crosstab
+            Series
+        matplotlib
+                pyplot
+        sklearn
+                metrics 
+                     accuracy_score
+                     f1_score
+                     precision_score
+                     recall_score
+                naive_bayes
+                           MultinomialNB
+                model_selection
+                               train_test_split
+                feature_extraction
+                                CountVectorizer                               
+  Fonksiyonlar 
+   for 
+   in 
+
+   
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
