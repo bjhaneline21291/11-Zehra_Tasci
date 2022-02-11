@@ -1,0 +1,56 @@
+Python
+        pandas
+             read_csv
+             DataFrame
+        numpy
+            array
+        google.colab
+                   files
+        sklearn
+                model_selection
+                             train_test_split
+                svm
+                   SVR
+                preprocessing    
+        collections
+                 deque
+        random
+        time
+        tensorflow
+                   compat
+                         v1
+                            keras
+                                    layers
+                                         CuDNNLSTM
+                                    keras
+                                           models
+                                                   Sequential   
+                                            layers
+                                                  Dense
+                                                  Dropout
+                                                  LSTM
+                                                  BatchNormalization
+                                            callbacks
+                                                      TensorBoard
+                                                      ModelCheckpoint
+                                            optimizers
+                                                      Adam
+    Fonksiyonlar 
+     for 
+
+     if
+     else
+
+     return
+
+     
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+
+
+                                                                   
+         
