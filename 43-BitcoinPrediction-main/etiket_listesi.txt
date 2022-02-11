@@ -1,0 +1,23 @@
+Python 
+        numpy
+             array
+        pandas
+              read_csv
+        sklearn
+                model_selection
+                               train_test_split
+                svm
+                   SVR     
+                      _rbf
+                          fit     
+                          score
+                          predict
+   SYNTAX
+   print                       
+
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
