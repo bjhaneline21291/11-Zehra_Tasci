@@ -1,0 +1,37 @@
+Python
+        pandas
+            read_csv
+                    head
+                    shape
+                    isnull
+                    info
+                    describe
+            DataFrame
+        seaborn
+              countplot
+        numpy
+            number
+        sklearn
+                preprocessing
+                            LabelEncoder
+                            MinMaxScaler
+                                      fit_transform
+                model_selection
+                             train_test_split
+                linear_model
+                            LogisticRegression
+                                             fit 
+                metrics
+                accuracy_score
+                confusion_matrix
+                classification_report  
+    Fonksiyonlar 
+     for 
+     iin 
+
+     if 
+
+     
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.                                               
