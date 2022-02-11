@@ -1,0 +1,72 @@
+Python
+        google.colab
+                 drive
+        __future__
+                 print_function
+                 division
+        torch
+                nn
+                  Linear
+                  functional
+                  CrossEntropyLoss
+                optim
+                    lr_scheduler
+                device  
+                autograd
+                        Variable      
+                numpy
+                     array
+                     clip
+                     expand_dims
+                     arange
+                torchvision
+                          datasets
+                          models
+                          transforms
+                                   RandomResizedCrop
+                                   RandomHorizontalFlip
+                                   ToTensor
+                                   Normalize
+                                   Compose
+                                   Resize
+                                   CenterCrop
+                          utils
+                              make_grid  
+                              data
+                                 sampler
+                                       SubsetRandomSampler 
+                          models
+                               resnet50            
+                matplotlib
+                         pyplot
+                              ion
+                              imshow
+                              title
+                              pause
+                time
+                   time 
+                os
+                  path 
+                      join
+                copy    
+                   deepcopy            
+                PIL
+                  Image
+                json
+                seaborn
+                collections
+                         OrderedDict  
+
+  Fonksiyonlar 
+  for 
+
+  with 
+
+  if 
+  
+  return
+
+  
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
