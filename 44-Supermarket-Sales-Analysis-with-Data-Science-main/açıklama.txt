@@ -1,0 +1,6 @@
+Analizin amacı 
+1 Müşterilerin Süpermarket ile ilişkisi 
+2. Süpermarkette kullanılan ödeme yöntemleri. 
+3. Ürünlerin miktarlarla ilişkisi.
+4.Ürün çeşitleri ve satışları. 
+5.Ürünler ve derecelendirmeleri

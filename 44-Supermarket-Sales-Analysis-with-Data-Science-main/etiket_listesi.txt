@@ -1,0 +1,25 @@
+Python
+        pandas
+             read_csv
+             to_datetime
+        seaborn
+               countplot
+               boxplot
+               lineplot
+               boxenplot
+        matplotlib
+                pyplot
+                      figure
+                      style
+                           use
+                      title
+                      show
+                      xlabel   
+                      grid 
+        numpy
+        warnings
+               filterwarnings
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
