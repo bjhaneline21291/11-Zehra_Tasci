@@ -1,0 +1,47 @@
+Python 
+        numpy
+            array
+        pandas
+             read_csv
+        re 
+          compile
+          sub
+        nltk 
+           corpus
+                 stopwords
+           punkt      
+           tokenize
+                  word_tokenize
+           stem
+                 SnowballStemmer
+        sklearn
+                feature_extraction
+                                  CountVectorizer
+                model_selection
+                              train_test_split
+                naive_bayes
+                          GaussianNB
+                          MultinomialNB
+                          BernoulliNB
+                metrics
+                      accuracy_score
+        pickle
+             dump
+        tensorflow
+                  keras
+                        utils
+                             get_file                                                                 
+
+  Fonksiyonlar 
+   try
+   for 
+   in 
+
+   if 
+   else 
+
+   
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

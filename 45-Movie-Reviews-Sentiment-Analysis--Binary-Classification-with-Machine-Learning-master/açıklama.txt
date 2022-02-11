@@ -1,0 +1,2 @@
+Bu Makine Öğrenimi Projesinde, film inceleme metinlerini iki 
+kategoriden birine yerleştiren ikili sınıflandırma oluşturacağız - olumsuz veya olumlu duygu-. 
