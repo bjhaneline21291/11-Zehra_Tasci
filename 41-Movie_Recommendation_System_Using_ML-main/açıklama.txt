@@ -1,0 +1,2 @@
+ Projenin amacı İçerik tabanlı filtreleme, İşbirlikçi tabanlı filtreleme ve ayrıca Hibrit kullanarak bir Film Öneri Sistemi yaptı. 
+Filmleri önceki derecelendirmelerine göre kullanıcıya önerin.

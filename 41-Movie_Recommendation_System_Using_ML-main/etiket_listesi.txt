@@ -1,0 +1,38 @@
+Python 
+        numpy
+            array
+        pandas
+              read_csv
+              merge
+              DataFrame
+        matplotlib
+                  pyplot
+                        plot 
+                        xlabel
+                        ylabel
+                        show
+        sys
+        pickle
+        sklearn
+                feature_extraction
+                                 text
+                                      TfidfVectorizer
+                decomposition
+                            TruncatedSVD
+                                       fit_transform
+                                       explanined_variance_ratio_
+                                                                 cumsum
+                metrics
+                       pairwise
+                               cosine_similarity
+
+   SYNTAX
+    print
+    len                              
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+
+
+         
