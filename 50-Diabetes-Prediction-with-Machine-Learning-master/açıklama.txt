@@ -1,0 +1,1 @@
+Makine Öğrenimi algoritması ile Diyabet Tahmini.

@@ -1,0 +1,29 @@
+Python 
+        pandas
+           read_csv
+        numpy
+        matplotlib
+                pyplot
+        seaborn
+            countplot    
+        sklearn
+                model_selection
+                            train_test_split
+                svm
+                  SVC      
+                preprocessing
+                            MinMaxScaler
+                                      fit_transforms        
+
+Fonksiyonlar
+    columns
+    shape
+    groupby
+    info 
+    print
+    format           
+
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

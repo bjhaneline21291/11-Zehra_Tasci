@@ -1,0 +1,89 @@
+Python
+        numpy
+            max
+            array
+            newaxis
+        pandas
+             read_csv
+                    head
+                    drop
+                    rename
+                    info 
+                    groupby
+             Series   
+             DataFrame  
+             concat  
+        matplotlib
+                   pyplot
+                            rcParams
+                                 update
+                            ylabel
+                            legend
+                            show   
+                            figure
+                            imshow
+                            tight_layout  
+
+        seaborn     
+        nlkt
+            word_tokenize
+            corpus
+                  stopwords
+                          words 
+            stem
+                SnowballStemmer              
+        wordcloud
+                WordCloud 
+        string
+              punctuation
+        sklearn
+               feature_extraction
+                               text
+                                  CountVectorizer
+                                  TfidfTransformer
+                                                  transform 
+                model_selection
+                              train_test_split
+                              GridSearchCV
+                linear_model
+                           LogisticRegression
+                svm
+                  SVC
+                naive_bayes
+                           MultinomialNB
+                tree
+                    DecisionTreeClassifier
+                neighbors
+                        KNeighborsClassifier
+                ensemble
+                       RandomForestClassifier
+                       AdaBoostClasifier
+                       BaggingClassifier
+                       ExtraTreesClassifier
+                metrics
+                      accuracy_score                                                         
+                scipy
+                    sparse
+                        hstack        
+                pipeline
+                        Pipeline 
+    Fonksiyonlar
+    for 
+    in 
+    
+    return 
+
+      if 
+
+    predict
+
+    print 
+    bow_data
+    data_tfidf                                                                            
+
+    
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
