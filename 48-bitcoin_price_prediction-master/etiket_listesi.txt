@@ -19,10 +19,7 @@ Python
         tensorflow
                    compat
                          v1
-                            keras
-                                    layers
-                                         CuDNNLSTM
-                                    keras
+                               keras
                                            models
                                                    Sequential   
                                             layers
@@ -30,6 +27,7 @@ Python
                                                   Dropout
                                                   LSTM
                                                   BatchNormalization
+                                                  CuDNNLSTM
                                             callbacks
                                                       TensorBoard
                                                       ModelCheckpoint
