@@ -1,0 +1,54 @@
+Python
+       numpy
+       pandas
+             read_csv
+                     head
+                     drop
+                         label
+                               value_counts
+                     rename
+                     describe
+       nltk
+       matplotlib
+                pyplot
+       seaborn
+       string
+            punctuation
+       pprint
+             pprint
+       collections
+                  Counter
+       sklearn
+                feature_extraction
+                             text
+                                 CountVectorizer
+                                              get_feature_names
+                                              transform
+                                                      toarray
+                model_selection
+                              train_test_split
+                naive_bayes
+                            MultinominalNB
+                metrics
+                       accuracy_score
+                       precision_score
+                       recall_score
+                       f1_score                            
+   Fonksiyonlar 
+   format
+   columns
+   str 
+   print 
+   by 
+   figsize 
+   len 
+
+   for 
+   in 
+
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
