@@ -1,0 +1,95 @@
+Python
+        numpy
+            float32
+            uint8
+            array
+            mean
+            std 
+        matplotlib
+                 pyplot
+                       figure
+                       scatter
+                       title 
+                       xlabel
+                       ylabel
+                       plot 
+                       legend
+        glob
+           glob
+        cv2
+           imread
+           resize
+           GaussianBlur
+           cvtColor
+           cornerHarris
+        os
+          path
+              join
+        seaborn
+        pandas
+             DataFrame
+        skimage
+                filters
+                       gaussian
+                feature
+                       greycomatrix
+                       greycoprops
+                measure
+                        shannon_entropy
+                io
+                img_as_float        
+        tensorflow
+                  keras
+                        models
+                               Sequential
+                        layers
+                              Flatten
+                              Dense       
+        sklearn
+               preprocessing 
+                            MinMaxScaler
+                            StandardScaler
+               decomposition
+                           PCA
+                           KernelPCA    
+               svm
+                 SVC
+               metrics
+                     confusion_matrix
+                     classification_report
+                     accuracy_score    
+               linear_model
+                          LogisticRegression
+               neighbors
+                       KNeighborsClassifier
+               tree
+                   DecisionTreeClassifier
+               model_selection
+                             train_test_split   
+                             cross_val_score
+                             RepeatedStratifiedKFold 
+               datasets
+                      make_classification   
+               ensemble
+                        BaggingClassifier
+                        GradientBoostingClassifier 
+                        RandomForestRegressor
+                        VotingClassifier
+               naive_bayes
+                         GaussianNB                                                                               
+  Fonksiyonlar 
+   print 
+   for 
+   in 
+   feature_extractor
+
+   if 
+   else 
+
+   return
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

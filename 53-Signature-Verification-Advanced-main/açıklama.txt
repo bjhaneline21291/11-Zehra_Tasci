@@ -1,0 +1,3 @@
+Bu, önceden oluşturulmuş imza doğrulama kodunun gelişmiş sürümüdür, burada yalnızca temel Evrişimli Sinir Ağı'nı (CNN) kullanır, ancak burada, görüntülerinin gürültü azaltması için 
+Gauss Filtreleri ve Gauss Farkı gibi bazı Görüntü işleme tekniklerini kullandım. veri kümesinin boyutlarını daha da azaltmak için PCA ve KPCA ile birlikte özellik çıkarımı için imza ve Gri Düzey Birlikte Oluşum Matrisi. 
+Sonunda veri kümelerini eğitmek için 10 farklı Makine Öğrenimi Algoritması kullandım.

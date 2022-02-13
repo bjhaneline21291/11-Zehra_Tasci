@@ -1,0 +1,2 @@
+# Signature-Verification-Advanced
+This is the advanced version of the previously created signature verification code wherein it only used the basic Convolutional Neural Network (CNN) but here,  I have used some Image processing techniques such as Gaussian Filters and Difference of Gaussian for noise reduction of the images of the signature and Grey Level Co- occurrence Matrix for feature extraction along with PCA and KPCA for further reducing the dimensions of the dataset. At the end I have used10 different Machine Learning Algorithms for training the datasets.
