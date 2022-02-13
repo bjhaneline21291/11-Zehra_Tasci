@@ -1,0 +1,81 @@
+Python
+        os
+          path
+              join
+          getcwd
+          pardir    
+        sys
+           path
+               append
+        visualisation
+                    ipython
+                             *
+                    graphs
+                           *
+        features
+                generate_features
+                                  *
+        models
+                predict_model
+                              *
+                train_model
+                             * 
+        sklearn
+               model_selection
+                             train_test_split
+               naive_bayes
+                         GaussianNB
+               neighbors
+                       KNeighborsClassifier
+               ensemble
+                       RandomForestClassifier
+                       AdaBoostClassifier
+               metrics
+                        classification_report
+                        accuracy_score
+                        average_precision_score
+                        f1_score
+                        roc_auc_score
+                        hamming_loss  
+                        confusion_matrix     
+        xgboost
+              XGBClassifier
+              plot_importance
+        IPython 
+               display
+                       HTML                                       
+        spotipy
+              oauth2
+                     SpotifyClientCredentials
+        dotenvy
+              load_env
+              read_file
+        pandas
+             DataFrame
+             read_csv
+        numpy
+        matplotlib
+                 pyplot
+                       figure
+                       legend
+                 patches
+        seaborn         
+
+  Fonksiyonlar 
+   for 
+   in 
+
+   return 
+
+   if 
+   else 
+
+   while 
+
+   print 
+   len 
+
+   
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

@@ -1,0 +1,1 @@
+Spotify web API'sini kullanarak "iyi" ve "kötü" şarkıları sınıflandırmak için Python'da makine öğrenimi modelleri.
