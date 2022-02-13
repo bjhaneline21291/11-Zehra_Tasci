@@ -1,0 +1,54 @@
+Python
+     librosa
+             display
+                    waveplot
+             core
+                 load
+     wave
+     scipy
+         signal
+               find_peaks
+     pydub,
+         AudioSegment
+         utils
+             db_to_float
+         silence
+               split_on_silence
+               detect_silence    
+     soundfile
+     pygobject
+     Audio
+     math
+         log10
+     numpy
+          amin
+          amax
+          fft
+             fft
+          sort 
+          abs
+          argmax
+          sum  
+     google
+            colab
+                  files
+     matplotlib
+               pyplot
+                     figure
+                     subplot
+                     xlabel
+                     ylabel
+                     show
+                     close
+    
+    Fonksiyonlar
+    for 
+    in 
+
+    breaks                                             
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
