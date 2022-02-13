@@ -1,0 +1,83 @@
+Python
+        numpy
+            max 
+            random 
+                  choice
+            isin 
+            array  
+            argsort    
+        pandas
+             read_csv
+        random
+              seed
+        scipy
+            io
+        sklearn
+                preprocessing
+                            scale
+                metrics
+                        confusion_matrix            
+
+        librosa
+                display
+        matplotlib
+                   pyplot
+                         savefig 
+                         figure
+                         imshow
+                         colorbar
+                         xticks
+                         yticks
+                         tight_layout
+        os
+            path
+                exists
+            makedirs   
+            listdir
+        tensorflow
+                    keras 
+                            application
+                                        vgg16
+                                                 VGG16 
+                                                 preprocess_input 
+                            preprocessing
+                                         image
+                            models
+                                   Sequential
+                                   Model 
+                            utils
+                                   multi_gpu_model
+                            metrics
+                            optimizers       
+                            callbacks
+                                     ModelCheckpoint
+                                     TensorBoard
+        time
+            time                             
+        json  
+        itertools                                                                  
+        
+    Fonksiyonlar
+     save_melspectrogram   
+     train_test_split
+     top_5_accuracy
+     get_top_k_predictions
+     plot_confusion_matrix
+     print 
+     range 
+     format                                            
+     
+     for 
+     in 
+
+     return 
+
+     if 
+     else 
+
+     with 
+     as
+     
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

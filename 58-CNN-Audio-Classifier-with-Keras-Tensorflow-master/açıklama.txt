@@ -1,0 +1,1 @@
+ESC-50 veri kümesinde ses olayı sınıflandırıcısının özellik çıkarma ve eğitimi için ipython not defterleri oluşturma.
