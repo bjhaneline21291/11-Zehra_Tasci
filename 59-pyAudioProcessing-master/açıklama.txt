@@ -1,0 +1,1 @@
+Ses özelliği çıkarma ve sınıflandırma projesidir.
