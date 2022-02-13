@@ -1,0 +1,36 @@
+Python
+        Librosa
+              display
+        IPython
+        numpy
+             std
+             mean
+             concatenate
+        pandas
+              DataFrame
+        scipy
+        matplotlib
+                 pyplot
+                       figure
+                       colorbar
+                       title
+                       subplot
+                       semilogy
+                       xticks
+                       ylabel
+                       xlim
+                       legend
+        seaborn
+               barplot
+
+ Fonksiyonlar 
+ print
+ range
+
+ for 
+ in 
+ 
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

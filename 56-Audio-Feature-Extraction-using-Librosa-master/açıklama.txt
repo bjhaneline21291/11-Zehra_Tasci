@@ -1,0 +1,1 @@
+Bir ses dosyasındaki farklı içerik tabanlı özellikleri analiz eden bir not defteri.
