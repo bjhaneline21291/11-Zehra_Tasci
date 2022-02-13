@@ -1,0 +1,91 @@
+Python
+        numpy
+        pandas
+             read_csv
+        os
+         path
+             join 
+         listdir    
+        matplotlib
+                 pyplot
+        seaborn
+        sklearn
+                inpute
+                      SimpleImputer
+                compose
+                      CloumnTransformer
+                pipeline      
+                        Pipeline 
+                preprocessing
+                             LabelEncoder
+                             StandardScaler  
+                             MinMaxScaler
+                             PolynomialFeatures
+
+                model_selection
+                              train_test_split
+                linear_model
+                           LinearRegression
+                           LogisticRegression
+                           Ridge
+                           Lasso
+                metrics
+                       mean_squared_error
+                       r2_score   
+                svm
+                   SVR 
+                   SVC 
+                tree
+                    DecisionTreeClasssifier
+                    DecisionTreeRegressor
+                ensemble
+                       RandomForestClassifier
+                       RandomForestRegressior
+                neighbors
+                         KNeighborsClassifier
+                         KNeighborsRegressor
+                naive_bayes
+                           GaussionNB
+        xgboost
+               XGBClassifier
+               XGBRegressor
+        tensorflow
+                    keras 
+                        keras_preprocessing
+                                            Image
+                        preprocessing
+                                        Image
+                                             ImageDataGenerator
+                        optimizers
+                                  Adam
+                        callbacks
+                                 ModelCheckpoint
+                                 EarlyStopping
+                        models 
+                              Sequential
+                        applications
+                                    VGG16
+                                    InceptionResNetV2
+                                    vgg16 
+                                         preprocess_input
+                                         decode_predictions
+                        layers
+                              Dense
+                              embeddings 
+                                         Embedding
+                              LSTM
+                              GRU
+        PIL 
+           Image
+        cv2                                    
+
+
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+ 
+

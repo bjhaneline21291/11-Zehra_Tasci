@@ -1,0 +1,2 @@
+Bu projede ilaçlar için çok sınıflı sınıflandırma yapmak için Keras ve TensorFlow kullandım. Bu yarışmada Kaggles ücretsiz GPU'ları ve Veri Kümeleri kullandım. 
+Keras derin öğrenme kitaplığı, veri artırma ile birlikte işi halletmeme yardımcı oldu.
