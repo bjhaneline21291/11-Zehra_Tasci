@@ -1,0 +1,66 @@
+Python
+        os
+          path
+              join 
+        pandas
+              read_csv
+              DataFrame
+        numpy
+            asarray      
+        matplotlib
+                pyplot
+                      subplot
+                      imshow
+                      figure
+        PIL
+        tensorflow
+                  keras
+                        preprocessing
+                                   image
+                                        ImageDataGenerator
+                        utils
+                             to_categorical
+                             normalize
+                        regularizers 
+                        layers
+                             Flatten
+                             Dense
+                             Dropout
+                             BatchNormalization
+                             Conv2D
+                             MaxPooling2d
+                        models 
+                              Sequential
+                        metrics
+                              Recall
+                        optimizers
+                                  RMSprop
+                        callbacks
+                                EarlyStopping
+                                ReduceLROnPlateau                               
+        sklearn
+               model_selection
+                             train_test_split
+               metrics
+                     classification_report
+                     confusion_matrix              
+        tqdm
+            tqdm
+        seaborn
+
+ Fonksiyonlar
+  for 
+  in 
+
+  if 
+
+  range 
+  len 
+  print 
+
+  
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

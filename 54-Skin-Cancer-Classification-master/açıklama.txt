@@ -1,0 +1,1 @@
+Veri Büyütme ile birlikte kullanılan Derin Öğrenme Modeli (CNN).
