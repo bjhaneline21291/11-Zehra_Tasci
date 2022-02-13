@@ -60,7 +60,11 @@ Python
         pydub
              AudioSegment     
         codecs
-        setuptools                                  
+        setuptools  
+
+YAML 
+
+
     Fonksiyonlar 
     stFeatureExtraction 
     mtFeatureExtraction  
