@@ -2,7 +2,8 @@ Python
       os
         path 
            join 
-        mkdir   
+        mkdir 
+        walk  
       cv2
          imwrite
       numpy
@@ -12,10 +13,18 @@ Python
                            add_argument
                            parse_args
       random
+            shuffle
       sys
       pickle
             dump
       struct
+      tensorflow
+                app
+                    flags
+                         DEFINE_string
+                         DEFINE_integer
+                         DEFINE_BOOL
+                         FLAGS 
     Fonksiyonlar
     read_gnt
     file_list
@@ -24,6 +33,7 @@ Python
     main 
     open
     extractor
+    get_image_path_and_labels
    
     if 
     else 
@@ -38,4 +48,5 @@ Python
 
     break
 
-    
+    with 
+
