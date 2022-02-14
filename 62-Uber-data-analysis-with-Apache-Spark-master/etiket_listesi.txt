@@ -1,0 +1,13 @@
+Python
+       pandas
+            read_csv
+                    head 
+                    sqlContext
+                              createDataFrame     
+    Fonksiyonlar
+    type 
+    in                           
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

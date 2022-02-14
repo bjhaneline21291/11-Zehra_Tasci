@@ -1,0 +1,1 @@
+Bu proje Python ve Spark (Veri Bilimi Akademisi) ile Büyük Veri Gerçek Zamanlı Analitik dersinde mini proje-1 olarak oluşturulmuştur.
