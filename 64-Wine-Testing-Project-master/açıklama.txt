@@ -1,0 +1,1 @@
+Bu proje, şarap kalitesini tahmin edebilecek bir modeli eğitiyor.

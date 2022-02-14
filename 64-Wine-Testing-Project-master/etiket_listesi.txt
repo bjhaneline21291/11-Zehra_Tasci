@@ -1,0 +1,23 @@
+Python
+       numpy
+       pandas
+             read_csv
+       sklearn
+                model_selection
+                              train_test_split
+                              GridSearchCV
+                preprocessing
+                            scale
+                ensemble
+                        RandomForestRegressor
+                pipeline
+                       make_pipeline
+                metrics
+                      mean_squared_error
+                      r2_score
+                externals
+                         joblib
+                                       
+
+  Fonksiyonlar 
+  print 
