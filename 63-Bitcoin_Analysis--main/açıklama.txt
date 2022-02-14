@@ -1,0 +1,1 @@
+Projeyi son açılış gününde gerçekleştirdim ve proje bitiminde ertesi gün (20 Nisan) bitcoin açılış oranı gelecek tahmini yöntemi ile tahmin edildi. Bu proje yatırım tavsiyesi değildir. Bu projede son zamanlarda popüler hale gelen bir konuda zaman serilerinde yaptığım çalışmaları göstermek istedim.

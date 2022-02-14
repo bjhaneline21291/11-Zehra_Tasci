@@ -1,0 +1,47 @@
+Python
+        matplotlib
+                   pyplot
+                         figure
+                         title
+                         xlabel
+                         ylabel
+                         plot 
+                         legend
+                         show
+        tensorflow
+                    keras
+                          layers
+                                Dense
+                                Dropout
+                                LSTM
+                          models
+                                Sequential
+                          callbacks
+                                 EarlyStopping      
+        pandas
+              read_excel
+        numpy
+             reshape
+        sklearn
+                preprocessing
+                              MinMaxScaler
+                                         fit
+                metrics
+                       mean_squared_error
+                       r2_score               
+        math
+            ceil
+
+
+  Fonksiyonlar 
+  print 
+  len 
+  range 
+
+  for 
+  in 
+  
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
