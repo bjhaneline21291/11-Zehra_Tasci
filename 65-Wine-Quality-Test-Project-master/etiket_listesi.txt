@@ -1,0 +1,38 @@
+Python
+        numpy
+            round_
+        pandas
+             read_csv
+             DataFrame
+        matplotlib
+               pyplot
+                     title
+                     figure
+                     ylabel
+                     xlabel
+                     xticks
+                     legend
+        seaborn
+              heatmap
+              countplot
+              set_style
+        sklearn
+              model_selection
+                             train_test_split
+              linear_model
+                         LinearRegression 
+                                         predict
+    Fonksiyonlar 
+    for 
+    in 
+
+    if 
+    elif 
+    else 
+
+    print                                      
+        
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.                                                     
