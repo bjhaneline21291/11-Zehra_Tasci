@@ -1,0 +1,41 @@
+Python
+      os
+        path 
+           join 
+        mkdir   
+      cv2
+         imwrite
+      numpy
+           fromfile
+      argparse
+              ArgumentParser
+                           add_argument
+                           parse_args
+      random
+      sys
+      pickle
+            dump
+      struct
+    Fonksiyonlar
+    read_gnt
+    file_list
+    getDict  
+    arg_parser
+    main 
+    open
+    extractor
+   
+    if 
+    else 
+   
+    for 
+   
+    while 
+
+    return 
+
+    yield 
+
+    break
+
+    
