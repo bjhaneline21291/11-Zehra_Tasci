@@ -1,0 +1,67 @@
+Python 
+        random
+        glob
+        xml.etree
+        PIL
+        torch 
+            utils
+                  data 
+                       DataLoader
+            zeros           
+        ElementTree
+        Image
+             replace
+             open
+        ImageDraw
+        ImageFont
+        Dataset
+        ConcatDataset
+        FloatTensor
+        LongTensor 
+        stack
+        utils
+            cx_cy_to_min_max
+            min_max_to_cx_cy
+        torchvision
+                    transforms
+                               functional
+                               Compose 
+                               NormalizeBoxes
+                               Resize
+        pytorch_lightning                       
+        src 
+            models
+                    detr 
+                        DETR 
+                        SetCriterion
+                    backbone
+                            build_backbone 
+                    transformer
+                               build_transformer
+                    matcher
+                            build_matcher  
+        mask_datasets
+                    mask 
+                         ImageDataset                                          
+                             
+
+
+    Fonksiyonlar 
+    _init_
+    zip
+    draw_boxes
+    range
+    len 
+    view_dataset_batch
+    _getitem_
+    collate_fn
+    parse_annotation
+    training_step
+    train_dataloader
+    
+    for 
+
+    return     
+
+    if    
+

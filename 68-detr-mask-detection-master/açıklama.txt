@@ -1,0 +1,1 @@
+Facebook AI tarafından açıklandığı gibi PyTorch kullanan ve Algılama Dönüştürücü yaklaşımını uygulayan bir maske algılama görüntü tanıma projesi.
