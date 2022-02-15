@@ -1,0 +1,30 @@
+Python
+        datetime
+                 datetime
+        numpy
+        pandas
+              read_csv
+        xgboost
+        sklearn
+                metrics
+                         accuracy_score
+                         auc 
+                         roc_auc_score
+                model_selection
+                                train_test_split
+                XGBClassifier                
+        matplotlib
+                  pyplot
+                        bar
+                        show 
+
+   Fonksiyonlar 
+   for 
+   in 
+
+   print 
+   range 
+   len 
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

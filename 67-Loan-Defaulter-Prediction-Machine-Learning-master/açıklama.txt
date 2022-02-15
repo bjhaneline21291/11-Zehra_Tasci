@@ -1,0 +1,1 @@
+Python, Numpy, Pandas ve XGBoost kullanılarak 5L'den fazla kayda dayalı kredi temerrüdü tahmini.
