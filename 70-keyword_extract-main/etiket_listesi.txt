@@ -1,0 +1,35 @@
+Python 
+        math
+            log 
+        nltk
+            tokenize
+                    sent_tokenize  
+            corpus
+                  stopwords
+                           words
+                  wordnet
+                  download 
+            operator
+                   itemgetter
+JAVASCRIPT
+   
+Fonksiyonlar 
+   for 
+   
+   if
+   else  
+
+   break 
+
+   extract_keyword
+   check_sent 
+   split 
+   includes
+   push
+   replace
+   parseInt
+   get_top_n
+   keys 
+   map 
+   sort
+   slice 
