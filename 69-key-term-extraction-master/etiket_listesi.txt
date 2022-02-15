@@ -1,0 +1,31 @@
+Python
+        nltk
+                stem 
+                        WordNetLemmatizer
+                corpus
+                      stopwords
+        numpy
+            sort 
+            ones
+            asarray
+        itertools
+        scipy
+              sparse
+                     crs_matrix
+                     lil_matrix 
+    Fonksiyonlar 
+    if 
+    elif 
+
+    for 
+
+    with 
+
+    print 
+    sorted 
+    sum 
+    X2_test
+    len 
+    open                    
+
+
