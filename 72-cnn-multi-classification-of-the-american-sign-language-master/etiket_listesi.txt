@@ -1,0 +1,66 @@
+Python 
+        _future_
+                 print_function
+        numpy
+            array 
+            ceil 
+            argmax 
+        math 
+             ceil
+        tensorflow
+                    keras 
+                            models
+                                   Sequential
+                            layers
+                                  Dense 
+                                  Dropout
+                                  Flatten
+                                  Conv2D
+                                  MaxPooling2D
+                            backend 
+                            preprocessing
+                                         image 
+                                                ImageDataGenerator 
+                            callbacks 
+                                     ReduceLROnPlateau
+        sklearn
+               metrics
+                        confusion_matrix 
+                        classification_report
+        pathlib
+               Path 
+        itertools
+                 chain                 
+         os 
+        seaborn 
+               heatmap
+        matplotlib
+                 pyplot
+                       rcParams
+                       figure 
+                       subplot
+                       imshow 
+                       title 
+                       axis 
+                       ylabel
+                       xlabel
+                       show 
+        pandas
+
+Fonksiyonlar 
+for 
+
+
+range 
+next 
+show_batch
+calc_steps_per_epoch
+len 
+
+
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
