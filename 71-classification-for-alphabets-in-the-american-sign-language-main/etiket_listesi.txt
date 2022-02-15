@@ -1,0 +1,53 @@
+Python
+        numpy
+            argmax
+        pandas
+             DataFrame
+             read_csv
+        os 
+          listdir
+        shutil
+        glob
+        time 
+        tensorflow
+                    keras 
+                            optimizers
+                                        Adam
+                            models
+                                     Model 
+                                     load_model
+                                     Sequential
+                            backend
+                            metrics
+                                    categorial_crossentropy
+                            preprocessing
+                                         image 
+                                                ImageDataGenerator      
+                            callbacks 
+                                      EarlyStopping
+                                      ReduceLROnPlateau
+                            layers
+                                  GlobalAveragePooling2D
+                                  Dense                                                        
+        pathlib
+              Path 
+        sklearn   
+        google.colab
+                    drive
+                          mount 
+        matplotlib
+                   pyplot
+                          plot 
+                          title
+                          set_xlabel
+                          set_ylabel
+                          legend 
+        string
+YAML 
+Fonksiyonlar 
+for 
+
+range 
+len 
+
+if 
