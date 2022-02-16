@@ -1,0 +1,53 @@
+Python 
+        os 
+           path 
+               join 
+               abspath
+        re 
+          sub 
+        operator 
+                add 
+        pyspark
+                SparkConf
+                SparkContext        
+                SQLContext
+        google.colab
+                     drive 
+                          mount
+        pandas 
+              read_json 
+        sklearn 
+               feature_extraction
+                                  text 
+                                         CountVectorizer 
+                                         TfidfTransformer 
+        gzip
+            open 
+        gensim 
+        logging 
+               basicConfig    
+               info                                                               
+
+   
+   
+   
+    Fonksiyonlar 
+    get_counts
+    process_json
+    process_csv  
+    get_stop_words          
+
+    if 
+
+    for 
+
+    with 
+
+    
+
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

@@ -1,0 +1,1 @@
+Metin Madenciliği ve NLP için eşlik eden veri seti ile birlikte tam çalışma örnekleri. Mevcut kod tabanı: Gensim Word2Vec, Cümle Gömmeleri, TF-IDF ve SKlearn ile Anahtar Kelime Çıkarma, PySpark ile Kelime Sayımı
