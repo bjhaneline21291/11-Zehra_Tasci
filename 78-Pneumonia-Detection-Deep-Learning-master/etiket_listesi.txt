@@ -1,0 +1,53 @@
+Python 
+        numpy 
+        pandas 
+        os 
+           walk 
+           path
+                join 
+        torch
+                nn 
+                    functional
+                transforms
+                models  
+                utils 
+                     data 
+                         DataLoader
+                         random_split  
+                max 
+                cuda 
+                    is_available
+                device             
+        
+        torchvision
+                   datasets
+                           utils 
+                                download_url 
+                           ImageFolder              
+        tarfile 
+        tqdm
+            notebook
+                     tqdm
+        matplotlib
+                  pyplot
+                         imshow 
+                         plot 
+                         xlabel
+                         ylabel
+                         title 
+        jovian                                
+
+
+   Fonksiyonlar
+   evalutate
+   unfreeze
+   forword 
+   _init_
+    validation_epoch_end
+
+    print 
+    
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
