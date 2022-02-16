@@ -1,0 +1,35 @@
+ Python    
+    matplotlib
+               pyplot
+                     subplot
+                     cm
+                      hot  
+               Rectange 
+    numpy 
+         zeros_like 
+         clip 
+    pydicom
+           read_file 
+
+    pandas
+         read_csv
+         concat
+         merge 
+    glob
+       glob 
+    os 
+   Fonksiyonlar 
+   for 
+
+   if 
+
+   return 
+
+   get_tags
+   getattr
+   print                
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
