@@ -1,0 +1,1 @@
+CNN Kullanarak ve FLASK ile Dağıtılan Pnömoni Tespiti.

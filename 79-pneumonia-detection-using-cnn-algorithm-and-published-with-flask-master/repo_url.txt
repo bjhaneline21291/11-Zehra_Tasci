@@ -1,0 +1,1 @@
+https://gitlab.com/seeiin/pneumonia-detection-using-cnn-algorithm-and-published-with-flask
