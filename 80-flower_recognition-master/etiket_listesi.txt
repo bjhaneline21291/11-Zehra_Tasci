@@ -1,0 +1,43 @@
+Python 
+        torch 
+              functional 
+        numpy
+             transpose 
+             arange 
+        torchvision
+                   transforms 
+                            compose 
+                   datasets
+        pathlib
+               Path 
+                  absolute   
+        json 
+        matplotlib
+                  pyplot
+                         imshow 
+                         figure
+                         subplots 
+        torch 
+              utils 
+                    data 
+                        DataLoader                  
+
+  Fonksiyonlar 
+
+  predict 
+  print 
+  _init_
+ 
+  return 
+
+
+  if 
+
+  raise 
+
+  
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

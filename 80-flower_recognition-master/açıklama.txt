@@ -1,0 +1,1 @@
+Die Project'te bir CNN, bir çiçek türünü bir resim alarak ayırt etmek için eğitilmiştir.
