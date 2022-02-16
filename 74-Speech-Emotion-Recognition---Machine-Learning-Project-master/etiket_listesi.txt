@@ -1,0 +1,102 @@
+Python 
+        os 
+          listdir
+          path
+              join 
+              basename
+        glob
+        tqdm
+            tqdm
+        pandas
+             Series 
+             DataFrame 
+        numpy
+             arange 
+             mean 
+             array 
+        matplotlib
+                   pyplot
+                         show 
+                         pcolormesh
+                         imshow
+                         ylabel
+                         xlabel
+                         plot 
+        scipy
+                io 
+                    wavfile 
+                signal 
+                fftpack
+                       fft   
+        python_speech_features
+                              mfcc
+                              logfbank
+        librosa
+              load 
+              feature 
+                    mfcc
+                    melspectrogram
+                    chroma_stft 
+              display 
+                  waveplot       
+        pickle 
+        noisereduce
+        glob 
+            glob 
+        get_ipython 
+                   magic 
+        soundfile 
+                 SoundFile 
+        tensorflow 
+                    keras 
+                            layers 
+                                Conv2D
+                                MaxPool2D
+                                Flatten 
+                                LSTM 
+                                Dropout
+                                Dense 
+                                TimeDistributed
+                            models 
+                                  Sequential
+                            utils
+                                to_categorial
+        Sklearn
+                utils 
+                        class_weight
+                                   compute_class_weight
+                model_selection
+                               train_test_split
+                neural_network
+                              MLPClassifier
+                metrics
+                       accuracy_score  
+        pyaudio
+               paInt16
+                       open                                                               
+HTML
+CSS   
+JS       
+
+ Fonksiyonlar 
+ print 
+ range 
+
+ with 
+
+ for 
+
+ if 
+ else 
+
+ return 
+
+ try 
+ 
+ except 
+
+ 
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
