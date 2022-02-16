@@ -1,0 +1,41 @@
+Python 
+        numpy
+            array
+            load 
+            savez 
+        pandas
+        matplotlib
+                 pyplot
+        tersorflow
+                 keras 
+                        callbacks 
+                              Tensorboard
+                        Sequential
+                        layers
+                               Conv2D
+                               MaxPool2D
+                               Flatten
+                               Dense  
+        os 
+          getcwd 
+          path
+             join 
+          listdir   
+        cv2 
+           imread 
+        random
+              shuffle
+              shuffle    
+        time
+            time
+    Fonksiyonlar 
+     for 
+
+     except 
+
+     try 
+     
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
