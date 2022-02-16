@@ -51,6 +51,10 @@ Python
              render_template    
         glob
         re 
+ CSS
+ JS 
+ HTML 
+
  
  Fonksiyonlar 
  return 
@@ -58,4 +62,3 @@ Python
  if 
 
   model_predict
-  
