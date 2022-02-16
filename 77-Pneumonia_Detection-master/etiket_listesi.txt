@@ -1,0 +1,67 @@
+Python 
+        google.colab
+                     files 
+                          upload 
+        zipfile
+              ZipFile 
+        os
+           path 
+                join 
+           listdir      
+        pandas 
+              read_csv
+        torch 
+                utils
+                    data 
+                         Dataset
+                         DataLoader
+                         SubsetRandomSampler 
+                nn   
+                  CrossEntropyLoss
+                optim   
+                    Adam 
+                    lr_scheduler
+                                CosineAnnealingLR    
+        sklearn 
+               metrics 
+        numpy
+            array 
+            round 
+        pandas 
+        cv2
+        matplotlib 
+                  pyplot 
+                       title 
+                       imshow
+                       grid 
+                       axis
+        seaborn 
+               countplot
+               lineplot
+               set 
+        torchvision
+                   models 
+                   transforms 
+        tqdm
+             tqdm_notebook
+        PIL 
+           Image    
+                open 
+                convert           
+    Fonksiyonlar 
+    for 
+
+    range 
+    print                  
+    forward 
+    _init_
+    binary_classification_metrics
+    evaluate_model
+    compute_accuracy
+    train_model
+    get_mean_std
+
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

@@ -1,0 +1,1 @@
+X-Işınlarında pnömoniyi tahmin etmek için sinir ağı.
