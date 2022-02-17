@@ -1,0 +1,71 @@
+Python 
+        pandas
+              read_csv
+              concat 
+        numpy
+             mean 
+             std 
+        copy
+           deepcopy
+        matplotlib
+                 pyplot
+                       title
+                       xlabel
+                       ylabel
+                       show 
+                       savefig 
+        sklearn
+                    svm 
+                    linear_model
+                               LogisticRegression
+                    metrics 
+                              matthews_corrcoef
+                              confusion_matrix
+                              f1_score
+                              classification_report 
+                    model_selection
+                                     GridSearchCV
+                                     learning_curve
+                                     ShuffleSplit
+                    utils
+                          shuffle 
+                    preprocessing
+                                 StandardScaler                                           
+        tensorflow
+                    keras
+                          models 
+                                 Sequential
+                          layers
+                                 Dense        
+        os
+        datetime 
+                datetime
+        csv 
+        scipy
+             sparse 
+                    coo_matrix 
+        PIL 
+        random
+        shutill            
+    FONKSİYONLAR 
+    for 
+    in 
+
+    print 
+    open 
+    range 
+    len     
+
+    results_to_file
+    plot_hyperparameter_classifier_variation
+    update_best_classifier
+
+    if 
+    else
+
+    
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

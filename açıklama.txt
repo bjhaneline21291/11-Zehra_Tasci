@@ -1,0 +1,1 @@
+SVM, LogReg ve Neural Networks kullanarak Amerikan işaret dilini tanıma deneyi.
