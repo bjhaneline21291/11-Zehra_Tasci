@@ -1,0 +1,26 @@
+{% load static %}
+<body style="background-image: url({% static "pneumonia/image/1.jpg" %})">
+<form method="POST" action="/upload/" enctype="multipart/form-data" style="height:165px; width:430px; background:rgba(13,17,83,0.1);; 
+padding-left:40px;padding-top:40px; margin-left:425px;margin-top:155px;">
+
+    {% csrf_token %}
+    <input onchange="loadFile(event)" type="file" name="photo">
+    {% if request.user.is_authenticated %}
+    <input type="hidden" name = "uploaded_by" value = {{user.get_username}}> 
+    {% else %}
+    <input type="hidden" name = "uploaded_by" value = "Guest">
+    {% endif %} 
+    <input type="submit">
+
+    <img id="upload" width="200" />
+
+</form>
+
+
+<script>
+    var loadFile = function(event) {
+        var image = document.getElementById('upload');
+        image.src = URL.createObjectURL(event.target.files[0]);
+    };
+    </script>
+</body>

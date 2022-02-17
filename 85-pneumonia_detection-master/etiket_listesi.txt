@@ -1,0 +1,51 @@
+Python 
+        django
+            contrib
+                    admin
+                    core 
+                        management
+                                  execute_from_command_line
+                    messages 
+                    test
+                         TestCase
+                    auth
+                        models
+                                 User
+                                 CharField
+                                 DataTimeField
+                        forms 
+                                 UserCreationForm
+                                 UserRegisterForm
+                                 xray_imageForm 
+            views
+                decorrators
+                           http
+                               require_POST
+            shortcuts
+                    render
+                    redirect                                                 
+            apps
+                 AppConfig 
+            forms             
+        .models
+                xray_image  
+        os
+           rename 
+           path
+              dirname 
+           environ
+                   setdefault   
+        datetime    
+        sys
+           argv     
+HTML 
+    FONKSİYONLAR 
+    if 
+
+    for 
+
+    return 
+
+    print
+    range 
+        

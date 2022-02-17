@@ -1,0 +1,80 @@
+
+{% load static %}
+
+<link rel="stylesheet" href="{% static 'pneumonia/css/style.css' %}">
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Pneumonia Detector</title>
+  <link rel="stylesheet" type="text/css" href="{% static 'pneumonia/font-awesome-4.7.0/css/font-awesome.min.css' %}"> 
+  <!-- <link rel="stylesheet" type="text/css" href="{% static 'pneumonia/css/style.css' %}"> -->
+</head>
+<body>
+    <section id="home">
+   <div class="banner">
+      <header>
+         <div class="container">
+            <div class="logo">Pneumonia Detection</div>
+            <nav>
+               <ul>
+                  <li class="active"> <a href="index.html">Home</a></li>
+                  <li><a href="#service">Service</a></li>
+                  <li><a href="#about">About</a></li>
+                  {% if request.user.is_authenticated %}
+                    <li><a href="{% url 'pneumonia-history' %}">History</a></li>
+                    <li><a href="{% url 'pneumonia-logout' %}">Logout</a></li>
+                  {% else %}
+                    <li><a href="{% url 'pneumonia-login' %}">Login</a></li>
+                    <li><a href="{% url 'pneumonia-register' %}">Register</a></li>
+                  {% endif %}
+               </ul>
+            </nav>
+         </div>
+      </header>
+      <div class=" bg1">
+
+        <h2> "HEALTH CARE AT YOUR DESK"</h2><br>
+      </div>
+    </div>
+    </section>
+
+          
+          <section id="service" style="height: 400px; background-color: white;">
+		   	 <div class="container">
+			   	 	<div class="left">
+			          	  <h1>Our Service</h1>
+			          	 	    <div class="small">   </div>
+	                                <p>Here we have a <span>  Web application</span><br> trained to recognize Pneumonia<br> on chest X-ray on a click</p>
+	          </div>    
+                  <div class="arrow"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></div>
+                                           
+                      <div class="upload-btn-wrapper">
+                        
+                            <a class=" btn " href = "{% url 'pneumonia-image' %}" style="font-size: 20px;">Upload an Xray Image</a>
+                              
+										  </div>
+                      
+
+		     </div>
+                
+          </section>
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script >
+	$(document).ready(function(){
+  $(window).scroll(function(){
+  	var scroll = $(window).scrollTop();
+	  if (scroll > 300) {
+	    $("header").css("background" , "rgba(13, 70, 83, 0.90)");
+	  }
+
+	 
+  })
+})
+</script>
+</body>
+</html>

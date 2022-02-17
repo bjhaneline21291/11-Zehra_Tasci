@@ -1,0 +1,89 @@
+<!-- {% load bootstrap4 %}
+{% load crispy_forms_tags %}
+<html>
+    <head>
+             {% if title %}
+            <title>Pnemonia Detection - {{ title }}</title>
+        {% else %}
+            <title>Pnemonia Detection</title>
+        {% endif %} 
+    </head>
+    <title>Pnemonia Detection - Login </title>   
+    <body>
+        
+        <main role="main" class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    {% if messages %}
+                        {% for message in messages %}
+                            <div class = "alert alert-{{ message.tags}}">
+                              {{ message }}
+                            </div>
+                        {% endfor %}
+                    {% endif %}
+                    
+                </div>
+            </div>
+        </main>
+        <div class = "content-section" class="card-body">
+        <form method="POST">
+            {% csrf_token %}
+            <fieldset class="form-group">
+            <legend class = "boarder-bottom mb-4">Log In</legend>
+            {{ form|crispy }}
+            </fieldset>
+            <div class ="form-group">
+                <button class="btn btn-outline-info" type="submit">Login</button>
+            </div>
+        </form>
+        <div class="border-top pt-3">
+            <small class="text-muted">
+            Need An Account? <a class="ml-2" href="{% url 'pneumonia-register'%}">Register Now</a>
+            </small>
+        </div>
+        </div>
+    </body>
+</html>  -->
+
+{% load static %}
+{% load bootstrap4 %}
+{% bootstrap_css %}
+{% bootstrap_javascript jquery='slim' %}
+<title>
+    Pnemonia Detection-Log In
+</title>
+<body style="background-image: url({% static "pneumonia/image/1.jpg" %})">
+    <div class="container">
+    <!-- {% bootstrap_messages %} -->
+    <div class="row">
+        <div class="col-lg-4 offset-lg-4 col-sm-10 offset-sm-1">
+            <div class="card my-5" style="background-color: rgba(0,0,0,0.1);color: black;">
+                <div class="card-header text-center">
+                    Login to your account
+                </div>
+                <div class="card-body">
+                    <form method="POST" >
+                        {% csrf_token %}
+                        {{ form|crispy }}
+                            <small class="text-muted">
+                             Need An Account? <a class="ml-2" href="{% url 'pneumonia-register'%}">Register Now</a>
+                            
+                            </small>
+   
+                        </div>
+                        <div style="text-align: center;" class="form-group">
+                            <button class="btn btn-info " type="submit">Login</button>
+                        <!-- <a class = "btn btn-info " 
+                           class="float-right small" href ="{% url 'pneumonia-home' %}" type = "submit">Log In</a> -->
+                        </div>
+
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+

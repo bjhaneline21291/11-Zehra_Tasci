@@ -1,0 +1,33 @@
+{% load staticfiles %}
+{% load bootstrap4 %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <table class="table" style="margin-left: 450px;  ">
+        <tr>
+            <th style=" border: 2px solid #dddddd;
+            text-align: left;
+            padding: 8px;">DateTime</th>
+            <th  style=" border: 2px solid #dddddd;
+            text-align: left;
+            padding: 8px;">Image</th>
+          </tr>
+          {% for history in history%}
+          <tr>
+            <td style=" border: 2px solid #dddddd;
+            text-align: left;
+            padding: 8px;">{{ history.uploaded_at }}</td>
+            <td style=" border: 2px solid #dddddd;
+            text-align: left;
+            padding: 8px;"><img src="../../media/{{history.photo}} " ></td>
+          </tr>
+          {% endfor %}
+    </table>
+</body>
+</html>
