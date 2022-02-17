@@ -1,0 +1,1 @@
+OpenCV ve Python kullanarak hareket tanıma.

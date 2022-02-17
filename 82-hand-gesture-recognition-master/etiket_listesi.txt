@@ -1,0 +1,41 @@
+Python 
+        os 
+            path
+                exists
+            makedirs    
+        mss 
+           mss 
+              shot     
+        cv2
+            circle
+            rectangle
+            imshow 
+            putText
+            drawContours
+            cvtColor
+            GaussianBlur 
+            VideoCapture 
+            boundingRect
+            findContours
+            bitwise_and
+            convexHull
+            accumulateWeighted
+            absdiff
+            threshold
+        imutils
+        numpy 
+             round
+             zeros 
+        sklearn
+                metrics 
+                        pairwise 
+        Fonksiyonlar 
+        compute_running_average
+        segmentation
+        count_fingers
+        captureScreen
+
+        if 
+        else 
+
+        while 
