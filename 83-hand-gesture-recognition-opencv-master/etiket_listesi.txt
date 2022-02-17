@@ -1,0 +1,45 @@
+Python 
+       math 
+       numpy
+           zeros 
+       cv2
+          cvtColor 
+          calcHist
+          medianBlur 
+          getStructuringElement
+          filter2D
+          GaussianBlur
+          threshold
+          contourArea
+          circle 
+          line 
+          pointPolygonTest
+          putText
+       GestureAPI
+                * 
+
+
+
+
+  Fonksiyonlar
+  _init_
+  getName 
+  set_palm
+  set_finger_pos 
+  calc_angles
+  DefineGestures
+  CompareGestures
+  DecideGesture
+  hand_capture 
+  hand_contour_find
+  mark_fingers
+
+
+  if 
+  else 
+
+  for 
+  in 
+
+  return 
+
