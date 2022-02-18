@@ -1,0 +1,55 @@
+Python 
+        tensorflow 
+                  keras
+                        applications 
+                                    mobilnet_v2
+                                                preprocess_input
+                        preprocessing
+                                     image
+                                            img_to_array
+                        models
+                             load_model 
+                             Model 
+                        imutils
+                               video
+                                     VideoStream
+                        layers 
+                               AveragePooling2D
+                               Dropout
+                               Flatten      
+                               Dense       
+                               Input
+                        optimizers 
+                                  Adam 
+                                  
+        numpy 
+             expand_dims
+        time 
+            sleep
+        cv2
+           dnn
+              blobFromImage
+              readNet
+           cvtColor
+           res,ze 
+           putText
+           rectangle  
+           addWeighted
+        os 
+          getcwd
+          path
+             sep 
+                join 
+        math 
+        sys
+        threading
+                    Timer
+        shutil
+    FONKSİYONLAR 
+    detect_and_predict_mask
+    print 
+
+    for 
+
+    if 
+
