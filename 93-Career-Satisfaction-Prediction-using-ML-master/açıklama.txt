@@ -1,0 +1,1 @@
+Bu, Makine Öğrenimi tekniklerini kullanarak yazılım geliştiricilerin kariyer memnuniyetini tahmin etmek için oluşturduğum bir kaynak kodudur. Bunun için RF, SVM ve NN kullandım.
