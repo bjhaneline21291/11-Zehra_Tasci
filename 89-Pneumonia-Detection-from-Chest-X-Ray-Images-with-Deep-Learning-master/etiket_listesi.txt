@@ -1,0 +1,115 @@
+Python 
+      _future_
+              print_function
+              division
+        torch 
+             nn 
+             set_grad_enabled
+             optim
+                  lr_scheduler 
+             device 
+             utils
+                   data 
+                       DataLoader      
+        numpy
+             array 
+             clip
+        torchvision
+                   datasets
+                   models
+                   transforms
+                   utils 
+                        make_grid 
+        matplotlib
+                  pyplot
+                        title 
+                        xlabel
+                        ylabel
+                        ylim
+                        xlim
+                        legend 
+                        show 
+        time
+        os
+          mkdir 
+          path
+              exists 
+        copy 
+           deepcopy  
+        sklearn 
+                svm 
+                datasets 
+                model_selection 
+                               train_test_split 
+                metrics 
+                       avarage_precision_score
+                       precision_recall_curve  
+                       classification_report
+                       confusion_matrix
+                       roc_auc_score
+                utils 
+                     fixes 
+                          signature       
+                preprocessing
+                              label_binarize 
+                multiclass
+                          OneVsRestClassifier      
+        itertools 
+                cycle   
+        argparse  
+        sys 
+        random
+        datetime 
+        collections 
+                  Counter 
+        shutil
+        inspect
+        gc
+        re 
+        tensorflow
+                    keras
+                            models 
+                            preprocessing
+                                          image 
+                                                ImageDataGenerator 
+                            applications 
+                                         inception_v3
+                                                    InceptionV3
+                            layers 
+                                   Dense 
+                                   Dropout
+                                   GlobalAveragePooling2D
+                                   GlobalAveragePooling1D
+                                   Flatten
+                                   BatchNormalization  
+                            callbacks 
+                                      ModelCheckpoint
+                                      EarlyStopping
+                                      TensorBoard
+                                      ReduceLROnPlateau                                                  
+                            backend
+        IPython
+                                   display
+                                          display 
+        PIL 
+            image              
+        seaborn 
+        mlxted
+              plotting
+                         plot_confusion_matrix  
+                               
+
+                                                                                                                                     
+    FONKSİYONLAR 
+     train_model
+     print 
+     range
+     len 
+
+     if 
+
+     for 
+
+     
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
