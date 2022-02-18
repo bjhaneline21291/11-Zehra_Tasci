@@ -1,0 +1,3 @@
+Bu dil modellemesini rutin hayatımızda her zaman kullanırız. Örneğin, Mobil klavye metin önerisi veya Herhangi bir arama motorunda bir şey aradığımızda, birçok öneri alıyoruz ve içine yeni kelimeler yazdıkça arama bağlamımıza göre daha iyi öneriler alıyoruz. Peki nasıl olacak???
+
+Cevap, Doğal Dil İşleme (NLP) ile mümkündür. Burada, NLP'yi kullanacağız ve cümlenin sonraki kelimelerini tahmin edecek Çift Yönlü LSTM (Uzun kısa süreli bellek) Modelini kullanarak bir tahmin modeli yapmaya çalışacağız.

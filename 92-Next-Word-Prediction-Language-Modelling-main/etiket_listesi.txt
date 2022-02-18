@@ -1,0 +1,41 @@
+Python 
+      pandas
+           read_csv 
+      os 
+      numpy
+      tensorflow 
+                keras 
+                        preprocessing 
+                                   sequence 
+                                             pad_sequences
+                                   text 
+                                       Tokinzer  
+                                               fit_on_texts        
+                        layers
+                               Embedding
+                               LSTM
+                               Dense
+                               Bidirectional
+                        models 
+                              Sequential 
+                        optimizers 
+                                  Adam                      
+      matplotlib
+                pyplot
+                       xlabel
+                       ylabel
+                       show                                                
+    Fonksiyonlar 
+    print 
+    range 
+    plot_graphs 
+
+    for 
+
+    if 
+
+    break 
+
+    
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
