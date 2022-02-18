@@ -1,0 +1,7 @@
+Kaggle'dan IBM-HR-Analytics-Employee-Attrition-Performance veri kümesi.
+
+Pandalar, seaborn, matplotlib vb. gibi çeşitli kütüphaneleri kullanarak veriler üzerinde ilk olarak Keşifsel Veri Analizi yaptım.
+
+Daha sonra, özellikleri seçmek için RFE (bir sarma yöntemi) gibi özellik seçme tekniklerini de kullandım. Veriler daha sonra dengesiz sınıflarla başa çıkmak için SMOTE tekniği kullanılarak aşırı örneklenir. Ayrıca veriler daha iyi performans için ölçeklendirilir.
+
+Son olarak, tahmine dayalı modelleme için scikit-learn kitaplığından birçok ML modelini eğittim ve Precision, Recall ve diğer ölçümleri kullanarak performansı karşılaştırdım.

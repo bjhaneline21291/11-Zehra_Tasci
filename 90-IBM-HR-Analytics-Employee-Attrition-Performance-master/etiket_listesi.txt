@@ -1,0 +1,78 @@
+Python 
+        IPython.display 
+                   Image 
+        warnings 
+                filterwarnings
+        numpy
+        pandas
+        matplotlib
+                    pyplot
+        seaborn 
+              kdeplot 
+              distplot
+              factorplot
+        missingno
+        sklearn 
+                linear_model
+                            LogisticRegression
+                svm 
+                   LinearSVC
+                   SVC 
+                neighbors 
+                         KNeighborsClassifier
+                ensemble
+                         RandomForestClassifier
+                         GradientBoostingClassifier
+                tree
+                     DecisionTreeClassifier
+                naive_bayes 
+                            GaussianNB
+                model_selection 
+                               train_test_split
+                               KFold 
+                               GridSearchCV
+                metrics
+                         accuracy_score
+                         precision_score
+                         recall_score
+                         confusion_matrix
+                         roc_curve
+                         roc_auc_score   
+                preprocessing
+                               MinMaxScaler
+                               StandardScaler
+                               Imputer
+                               LabelEncoder
+                               OneHotEncoder                                      
+
+        imblearn
+                  over_sampling
+                                SMOTE
+        tensorflow
+                   keras 
+                         backend 
+                         models 
+                               Sequential
+                         layers
+                                Dense 
+                         optimizers 
+                                   Adam
+                                   SGD
+                                   Adagrad
+                                   Adadelta
+                                   RMSprop    
+                         utils 
+                             to_categorial 
+        random 
+
+FONKSİYONLAR 
+print 
+
+for 
+
+if 
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
