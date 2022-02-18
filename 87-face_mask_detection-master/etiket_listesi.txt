@@ -1,0 +1,73 @@
+Python 
+        tensorflow
+                   keras  
+                           preprocessing
+                                         image 
+                                                ImageDataGenerator
+                                                img_to_array
+                                                load_img 
+                            applications
+                                        MobilenetV2
+                                        mobilenet_v2
+                                                    preprocess_input
+                            layers
+                                  AvaragePooling2D  
+                                  Dropout
+                                  Flatten
+                                  Dense 
+                                  Input 
+                            models 
+                                   Model 
+                            optimizers
+                                       Adam 
+                            utils
+                                 to_categorical
+        sklearn
+                preprocessing
+                               LabelBinarizer
+                model_selection
+                             train_test_split 
+                metrics
+                       classification_report 
+        imutils
+               paths 
+                    list_images
+               video
+                    VideoStream 
+               resize          
+        matplotlib
+                   pyplot
+                        style
+                             use 
+                        figure 
+                        plot 
+                        title 
+                        xlabel
+                        ylabel
+                        legend 
+                        savefig      
+        numpy
+             array 
+        argparse 
+               ArgumentParser
+                            add_argument 
+        os     
+        time
+            sleep 
+        cv2
+           dnn 
+              blobFromImage 
+              readNetFromCaffe
+           resize 
+           destroyAllWindows
+    Fonksiyonlar 
+
+    for 
+
+    if 
+
+    while    
+
+    print         
+                                       
+
