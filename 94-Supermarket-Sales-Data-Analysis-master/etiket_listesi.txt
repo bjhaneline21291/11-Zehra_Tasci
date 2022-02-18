@@ -1,0 +1,34 @@
+Python 
+    numpy 
+    pandas
+          read_csv 
+          to_datetime 
+    seaborn 
+          set 
+          countplot 
+          boxplot
+          lineplot 
+          relplot
+          boxenplot
+          stripplot
+          barplot 
+          swarmplot
+          scatterplot
+    matplotlib
+              pyplot 
+    os 
+      listdir           
+    Fonksiyonlar 
+    print 
+    len 
+
+    for 
+
+    if 
+
+    type   
+
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
