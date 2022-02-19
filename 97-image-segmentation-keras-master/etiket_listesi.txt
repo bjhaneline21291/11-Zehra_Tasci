@@ -1,0 +1,32 @@
+Python 
+       numpy 
+           float32
+           rollaxis 
+           zeros 
+       cv2 
+          imread 
+          resize 
+          astype 
+          waitkey 
+       glob
+           glob 
+       itertools
+       argparse 
+              ArgumentParser 
+       Models 
+       LoadBatches 
+       tensorflow
+                 keras 
+                      model 
+                            load _model 
+       random
+             randit                      
+
+              
+          
+    Fonksiyonlar 
+    getImageArr
+    getSegmentationArr
+    imageSegmentationGenerator 
+
+    
