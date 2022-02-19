@@ -1,0 +1,53 @@
+Python 
+    PIL
+        Image 
+             open 
+    matplotlib
+             pyplot
+                    imshow 
+                    scatter 
+                    show 
+    numpy 
+        array 
+            shape 
+            reshape
+        linspace 
+        meshgrid     
+    sklearn
+        cluster 
+                KMeans 
+                DBSCAN 
+        preprocessing 
+                   StandardScaler         
+
+    yellowbrick
+              cluster
+                      KElbowVisualizer
+    pandas 
+         DataFrame 
+    math  
+    pathlib
+          Path 
+              cwd 
+    os  
+      listdir 
+
+
+
+Fonksiyonlar 
+prep_image_for_clustering
+clustering_and_kelbow_visualizer
+print_color_cluster
+get_image_coordinates
+perform_object_segmentation
+plot_segmentation_and_image
+
+for 
+in 
+
+if 
+else 
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
