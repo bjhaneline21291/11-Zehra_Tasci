@@ -1,0 +1,29 @@
+Python
+    cv2 
+       VideoCapture
+       COLOR_BGR2GRAY
+       putText
+       imshow 
+    numpy
+        linalg
+             norm 
+    dlib 
+       get_frontal_face_detector 
+       shape_predictor
+    imutils 
+          face_utils 
+            
+    FONKSİYONLAR 
+    range 
+    blinked
+    compute
+
+    if 
+    elif 
+    else 
+
+    for 
+
+    while 
+
+    

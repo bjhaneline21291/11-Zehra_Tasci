@@ -1,0 +1,1 @@
+Yüz dönüm noktası algılamaya dayalı Dlib, OpenCV Python kullanan bir proje.
