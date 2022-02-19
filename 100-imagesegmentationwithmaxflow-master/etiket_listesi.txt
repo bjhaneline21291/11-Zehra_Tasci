@@ -1,0 +1,23 @@
+Python 
+    matplotlib
+             pyplot 
+                   axis 
+                   savefig
+                   show 
+    PIL 
+       Image
+           open 
+    numpy 
+        array
+    network 
+         DiGraph 
+         draw_networkx_nodes 
+         draw_networkx_edges
+         minimum_cut 
+    Fonksiyonlar 
+    getNetwork
+    len 
+    range 
+    rgbarray2hex 
+    in2grayhex 
+    getImgArray     
