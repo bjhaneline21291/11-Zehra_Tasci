@@ -1,0 +1,31 @@
+Python 
+        cv2
+           imread
+           medianBlur
+           threshold
+           adaptiveThreshold
+           GaussianBlur
+           calcHist
+           THRESH_BINARY
+           THRESH_OTSU
+           kmeans
+        numpy
+            float32
+        matplotlib
+                  pyplot
+                        show
+                        subplot
+                        title
+                        xticks
+        google.colab 
+                    patches
+                           cv2_imshow                
+Fonksiyonlar
+for 
+in 
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

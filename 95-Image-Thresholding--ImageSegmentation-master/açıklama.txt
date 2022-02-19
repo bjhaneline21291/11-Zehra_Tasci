@@ -1,0 +1,2 @@
+Bu kod, görüntülerde global eşiklemenin ve otsu'nun eşiklemesinin temellerini uygulamak için kullanılır.
+Görüntü Segmentasyonu, K-Means Clustering OpenCV2 kullanılarak da uygulanmaktadır.
