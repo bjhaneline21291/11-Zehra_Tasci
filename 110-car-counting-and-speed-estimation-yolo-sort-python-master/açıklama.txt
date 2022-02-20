@@ -1,0 +1,2 @@
+Bu proje projede şu görevleri yerine getirmektedir:
+ 1. Araç sayımı, 2. Şerit tespiti. 3.Şerit değişikliği algılama ve 4. hız tahmini
