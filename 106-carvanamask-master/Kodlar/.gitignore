@@ -1,0 +1,44 @@
+# Compiled source #
+###################
+*.pyc
+
+# Logs, files and databases #
+######################
+*.log
+*.sqlite
+*.json
+*.csv
+*.pickle
+*.txt
+*.hdf5
+*.tags
+*.bat
+*.gz
+
+# Images and videos #
+#####################
+*.jpg
+*.png
+*.mov
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Icon
+
+# Folders #
+###########
+.idea/
+.ipynb_checkpoints/
+images/*
+
+# Excluded files #
+##################
+!requirements.txt
+!logo.png
