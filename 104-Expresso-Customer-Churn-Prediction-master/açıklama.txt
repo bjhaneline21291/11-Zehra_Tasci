@@ -1,0 +1,3 @@
+Bu havuz, müşteri kaybının nasıl tahmin edileceğini açıklar. Veri Bilimi Nijerya (DSN-AI) tarafından Expresso'nun müşteri
+kaybını tahmin etmesine yardımcı olmak için düzenlenen bir Hackathon. 2. sıradaki çözümüm, 0.246675 log_loss. Ayrıca, resmi 
+olmayan 1. sıra çözümü olabilecek 0.246643 puan almak için not defterine bir bölüm ekledim.

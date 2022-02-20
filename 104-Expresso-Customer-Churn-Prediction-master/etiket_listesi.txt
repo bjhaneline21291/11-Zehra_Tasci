@@ -1,0 +1,42 @@
+Python 
+    warnings 
+           filterwarnings
+    IPython
+         core   
+             interactiveshell
+                                InteractiveShell
+    pandas 
+         read_csv 
+         get_dummies    
+    numpy
+        mean 
+    sklearn
+        cluster 
+              KMeans 
+        metrics 
+              log_loss
+        model_selection
+                      train_test_split
+                      KFold             
+    re 
+    catboost
+            XGBClassifier
+    lightgbm
+            LGBMClassifier   
+    matplotlib
+            pyplot 
+                     
+  Fonksiyonlar
+  tenure 
+  len 
+
+  if 
+  elif 
+  else 
+
+  for 
+  in 
+
+  
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
