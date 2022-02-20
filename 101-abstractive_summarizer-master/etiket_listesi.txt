@@ -1,0 +1,54 @@
+Python 
+    pandas 
+         read_excel 
+         Series 
+    numpy
+        power
+        arange
+        newaxis 
+    tensorflow
+            keras 
+                preprocessing
+                            text 
+                               Tokenizer 
+                            sequence 
+                                  pad_sequences 
+                layers
+                     Dense 
+                     LayerNormalization
+                     Embedding 
+                     Dropout 
+                Sequential                       
+            matmul
+            math 
+               sqrt 
+               logical_not 
+            cast
+            metrics
+                  mean 
+            train 
+                 CheckpointManager         
+                                      
+    time 
+       time 
+    re
+    pickle 
+
+
+Fonksiyonlar 
+for 
+in 
+
+if 
+else 
+
+return 
+
+get_angles
+positional_encoding
+create_padding_mask
+create_look_ahead_mask
+scaled_dot_product_attention
+split_heads
+point_wise_feed_forward_network
+
