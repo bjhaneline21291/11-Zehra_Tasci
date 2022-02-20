@@ -52,3 +52,8 @@ scaled_dot_product_attention
 split_heads
 point_wise_feed_forward_network
 
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
