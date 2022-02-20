@@ -1,0 +1,95 @@
+Python 
+       albumentations
+                  torch
+                        functional      
+                        utils 
+                             data 
+                                     Dataset 
+                                     DataLoader
+                HorizontalFlip
+                IAAPerspective
+                ShiftScaleRotate
+                CLAHE
+                RandomRotate90
+                Transpose
+                ShiftScaleRotate
+                Blur
+                OpticalDistortion
+                GridDistortion
+                HueSaturationValue
+                IAAAdditiveGaussianNoise
+                GaussNoise
+                MotionBlur
+                MedianBlur 
+                IAAPiecewiseAffine
+                IAASharpen
+                IAAEmboss
+                RandomContrast
+                RandomBrightness
+                Flip
+                OneOf
+                Compose            
+                argumentations 
+                             transforms
+                                         RandomCrop 
+                optim 
+                     Adam 
+                backends
+                        cudnn
+
+
+    PIL 
+       Image 
+    cv2
+    torchvision 
+              transforms 
+                         Functional 
+                         ToTrnsor 
+                         Normalize 
+                         Compose 
+    random
+    numpy
+        unique
+        array  
+    utils
+          * 
+    os 
+        environ 
+        path 
+            pjoin 
+            exists 
+        mkdir     
+    glob
+       glob 
+    matplotlib
+               pyplot  
+                     subplots 
+                     show
+    scipy
+        stats 
+             norm  
+    datetime 
+           now 
+    json                                                    
+     Fonksiyonlar 
+     if 
+     else 
+ 
+     return 
+
+     for 
+     in 
+
+     print 
+     _getitem_
+     _len_
+     validation_binary
+     get_jaccard
+     validation_multi
+     calculate_confusion_matrix_from_arrays
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

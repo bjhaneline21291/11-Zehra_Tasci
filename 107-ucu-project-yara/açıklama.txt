@@ -1,0 +1,1 @@
+Mikroskopi Görüntülerinin Segmentasyonu. Lviv Veri Bilimi Yaz Okulu'ndaki Proje (2018).
