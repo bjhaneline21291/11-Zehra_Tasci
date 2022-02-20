@@ -1,0 +1,7 @@
+İnsan Aktivitesi Tespiti, bir kişinin sensörler kullanarak hareketlerinin izine dayanarak ne yaptığını tahmin etme problemidir. 
+"İnsan Aktivitesi Tespit Veri Kümesi", her birinin 3 dakika boyunca 18 görevi gerçekleştirmesi istenen 34 denekten toplanan 
+verileri içerir. Her deneğin baskın eline yerleştirilmiş bir akıllı saati ve cebinde bir akıllı telefonu vardı. Veri toplama, 
+akıllı telefon ve akıllı saatte çalışan özel yapım bir uygulama tarafından kontrol edildi. Toplanan sensör verileri hem akıllı 
+telefondaki hem de akıllı saatteki ivmeölçer ve jiroskoptan alındı ​​ve toplamda dört sensör elde edildi. Sensör verileri 20 Hz 
+hızında (yani her 50 ms'de bir) toplanmıştır. Akıllı telefon, Android 6.0 (Marshmallow) çalıştıran Google Nexus 5/5X veya 
+Samsung Galaxy S5 idi. Akıllı saat, Android Wear 1.5 çalıştıran LG G Watch idi.

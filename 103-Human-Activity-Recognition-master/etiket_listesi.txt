@@ -1,0 +1,57 @@
+Python 
+    _future_
+            print_function
+    matplotlib
+             pyplot 
+                    style
+                          use 
+                    show 
+                    subplots
+                    xaxis
+
+    numpy
+        unique
+        asarray
+    pandas
+         options
+               display 
+                     float_format
+         read_csv             
+    seaborn 
+           set 
+    scipy
+        stats 
+    Ipython 
+          display
+                display
+                HTML 
+    sklearn
+            metrics 
+                   classification_report
+                   confusion_matrix
+                   accuracy_score 
+            preprocessing 
+    tensorflow
+              keras 
+                    models
+                         Sequential 
+                    layers 
+                         Dense
+                         Dropout
+                         Flatten
+                         Reshape
+                         Conv2D
+                         MaxPooling2D
+                    utils 
+                        np_utils 
+
+    FONKSİYONLAR 
+    print 
+    create_segments_and_labels
+    plot_axis
+    plot_activity
+
+    for
+    in 
+
+    return  
