@@ -1,0 +1,58 @@
+Python 
+        google
+            colab
+                 drive
+        pandas
+             read_excel
+             read_csv 
+        numpy 
+            random 
+                  randint   
+        matplotlib
+                  pyplot
+                         scatter 
+        seaborn
+              barplot
+              heatmap 
+        sklearn
+                model_selection
+                              train_test_split
+                linear_model
+                           LinearRegression
+                metrics 
+                ensemble 
+                        RandomForestClassifier
+                                             fit 
+        argparse 
+               ArgumentParser 
+        imutils 
+               is_cv2
+        time 
+            time
+        cv2 
+          dnn 
+             readNetFromTensorflow
+             blobFromImage
+          VideoCapture 
+          imshow 
+          waitkey 
+          cv 
+           CV_CAP_PROP_FRAME_COUNT    
+        os 
+          path 
+              sep 
+                 join 
+
+    Fonksiyonlar 
+    for 
+    in 
+
+    if 
+
+    print 
+    range 
+    open 
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
