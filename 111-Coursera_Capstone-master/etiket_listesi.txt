@@ -1,0 +1,52 @@
+Python 
+    pandas 
+    numpy
+    matplotlib
+              pyplot 
+                   title 
+                   axis 
+                   legend 
+                   show
+    sklearn 
+           preprocessing 
+           metrics 
+                  accuracy_score
+                  f1_score,log_loss
+                  classification_report
+                  confusion_matrix
+                  jaccard_score
+          tree
+              DecisionTreeClassifier 
+          model_selection 
+                        train_test_split 
+          linear_model
+                    LogisticRegression              
+          svm 
+          neighbors 
+                 KNeighborsClassifier       
+        folium
+             plugins 
+        imblearn
+                over_sampling
+                            SMOTE      
+        webrowser            
+
+    scipy 
+    random 
+    seaborn 
+    pydotplus
+    matplotlib 
+              image
+    io
+      StringIO
+    itertools
+
+
+  Fonksiyonlar 
+  print
+
+  for 
+  in 
+
+  if 
+  else
