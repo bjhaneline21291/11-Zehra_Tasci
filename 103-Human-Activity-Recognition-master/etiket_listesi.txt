@@ -54,4 +54,10 @@ Python
     for
     in 
 
-    return  
+    return 
+
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+ 
