@@ -1,0 +1,2 @@
+IMDB film incelemeleri ve Twitter verileri üzerinden Lojistik regresyon ve Python'un makine öğrenimi 
+paketindeki Naive Bayes sınıflandırıcıları kullanılarak duygu analizi: scikit-learn.

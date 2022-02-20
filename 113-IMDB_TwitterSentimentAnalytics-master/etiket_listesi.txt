@@ -1,0 +1,41 @@
+Python 
+        _future_
+                division
+        sys 
+           argv 
+        collections 
+                  Counter 
+        sklearn 
+               naive_bayes 
+                        BernoulliNB
+                        GaussianNB
+               linear_model
+                         LogisticRegression
+        nltk
+           corpus 
+                 stopwords
+                          words 
+        random
+        datetime 
+        gensim
+              model 
+                    doc2vec 
+                           LabeledSentence
+                           Doc2Vec
+        numpy                    
+    Fonksiyonlar 
+    if 
+    else 
+
+    for 
+    in 
+
+    print 
+    exist 
+    load_data   
+    cal_per_in_list
+    feature_vecs_NLP
+    tweet_to_doc
+    feature_vecs_DOC
+    build_models_NLP
+
