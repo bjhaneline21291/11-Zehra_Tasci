@@ -1,0 +1,1 @@
+Bir Yoldaki Şerit Çizgilerini tespit etmek için OpenCV kullanmak, Kendi Kendini Sürebilen bir araba inşa etmek için en temel kavramlardan biridir.

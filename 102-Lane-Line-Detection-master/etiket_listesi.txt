@@ -1,0 +1,33 @@
+Python 
+    cv2 
+      cvtColor
+      GaussianBlur
+      Canny
+      line 
+         reshape
+      VideoCapture  
+      imshow
+      waitkey 
+    numpy
+        average 
+        polyfit 
+        zeros_like
+    matplotlib
+             pyplot
+    Fonksiyonlar 
+    while 
+
+    return 
+
+    for 
+    in 
+
+    if 
+    else 
+
+    region_of_interest
+    display_lines
+    average_slope_intercept
+    make_coordinates
+
+    
