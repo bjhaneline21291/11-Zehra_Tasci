@@ -1,0 +1,32 @@
+Python 
+     unittest
+            mock 
+                MagicMock 
+     numpy
+     pytest
+     utils 
+          detect_horizon_line     
+     argparse 
+            ArgumentParser 
+                           add_argument 
+                           parse_args
+     os
+       mkdir 
+     cv2 
+       morphologyEx
+       GaussianBlur
+       imread
+       cvtColor 
+     matplotlib 
+             pyplot   
+                  subplots  
+                  close 
+YAML
+                                  
+    Fonksiyonlar 
+    image_closed1
+    test_detect_horizon_line
+   
+    for 
+
+    if 

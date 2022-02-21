@@ -1,0 +1,1 @@
+Doğal görüntülerde ufuk çizgisini algılamak için hafif bir yardımcı program.
