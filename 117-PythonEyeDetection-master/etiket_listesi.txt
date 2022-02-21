@@ -1,0 +1,30 @@
+Python 
+    time 
+        strftime
+    cv2 
+        CascadeClassifier
+        cvtColor
+        resize
+        VideoCapture
+        imwrite
+    pupil_detect 
+    numpy 
+
+  FONKSİYONLAR
+  detect_objects 
+  __init__   
+  draw
+  mask_image_by_feature
+  find_average_brightness_of_feature
+  sort_features_by_brightness
+  draw_circle_for_feature
+  find_pupil
+
+  if 
+
+  for 
+  
+  return 
+  while
+
+  break 
