@@ -1,0 +1,29 @@
+Python 
+  numpy 
+      zeros_like 
+      array 
+      bitwise_and
+      HoughLinesP
+      copy 
+  cv2 
+    imread 
+    cvtColor 
+    GaussianBlur
+    Canny
+    line 
+    addWeighted
+    VideoCapture
+    destroyAllWindows
+
+    Fonksiyonlar 
+    if 
+    else 
+
+    break 
+
+    while 
+
+    for 
+
+    processImage
+
