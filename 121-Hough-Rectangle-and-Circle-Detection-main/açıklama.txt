@@ -1,0 +1,1 @@
+Numpy kullanılarak kodlanan bu Python projesi, çizgi, dikdörtgen ve daire Hough Dönüşümünü uygular. Bir görüntü alır, içindeki çizgileri, dikdörtgenleri ve daireleri belirler ve fotoğraftaki parayı da sayar. [Yalnızca sağlanan test setinde kalibre edilmiştir].
