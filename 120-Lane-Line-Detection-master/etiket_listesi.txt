@@ -1,0 +1,35 @@
+Python 
+    cv2 
+      cvtColor
+      GaussianBlur
+      Canny
+      line 
+      bitwise_and
+      imshow
+      destroyAllWindows
+
+    numpy 
+        zeros_like 
+        array 
+    matplotlib
+             pyplot 
+                  imshow 
+                  show 
+YAML     
+    Fonksiyonlar 
+    make_coordinates
+    average_slope_intercept
+    display_lines
+    region_of_interest
+    
+    if 
+
+    for 
+
+    return 
+
+    break
+
+    while 
+
+
