@@ -1,0 +1,40 @@
+Python 
+    bpy 
+       context 
+            scene 
+                render 
+                   resolution_x
+                   resolution_y
+                   node_tree
+      data
+         materials 
+                 user_clear 
+                 remove 
+         textures
+         objects 
+      ops
+        mesh 
+           primitive_cube_add 
+        transform
+                 rotate                            
+    math 
+        sin 
+        cos 
+        radians 
+    random 
+    time 
+    Fonksiyonlar 
+    print 
+    CreateCube
+    CreateCone
+    CreateTorus
+    CreateSphere
+
+
+
+    for 
+    in 
+
+    if                  
+
+    while 

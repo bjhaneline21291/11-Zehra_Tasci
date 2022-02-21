@@ -1,0 +1,1 @@
+Makine öğrenimi için rastgele sahne, derinlik haritası ve karşılık gelen Stereo görüntüler oluşturmak için Python Blender komut dosyası.
