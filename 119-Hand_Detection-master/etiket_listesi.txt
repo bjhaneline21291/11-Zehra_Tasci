@@ -1,0 +1,24 @@
+Python
+     cv2
+        VideoCapture
+        createTrackbar
+        dilate
+        medianBlur 
+        getStructuringElement
+        erode 
+        findContours
+        circle 
+        line 
+        destroyAllWindows
+        namedWindow
+     numpy 
+        power
+        sqrt 
+     time 
+    Fonksiyonlar 
+    if 
+
+    for 
+
+    angle 
+    findDistance 
