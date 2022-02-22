@@ -1,0 +1,2 @@
+Herhangi bir giriş görüntüsü için doğal dilde bir resim yazısı oluşturmak üzere Keras ve TensorFlow üzerine kurulmuş 
+modüler bir kitaplık.

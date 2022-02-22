@@ -1,0 +1,12 @@
+*.p
+*.pyc
+*.jpg
+*.txt
+!requirements.txt
+.DS_Store
+*.hdf5
+*.jpeg
+*.h5
+.ipynb_checkpoints/*
+.ipynb_checkpoints/
+*.ipynb
