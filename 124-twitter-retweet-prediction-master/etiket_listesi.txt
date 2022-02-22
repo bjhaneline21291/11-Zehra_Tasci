@@ -1,0 +1,59 @@
+Python 
+    numpy
+        mean 
+        asarray 
+        interp
+    pymongo
+         Connection 
+                  tweets
+                      find 
+                      remove 
+    random
+         sample 
+    pylab       
+        show
+        title
+        hist
+        xlabel
+        ylabel
+        savefig
+        figure
+    predictor 
+             buildModel
+             predictor  
+    argparse 
+          ArgumentParser 
+    sklearn 
+          svm 
+             SVR  
+    textanalysis
+              buildDictionary
+              textAnalysis   
+    numberanalysis 
+                 buildNumberModel
+    re 
+      sub 
+    datetime 
+           datetime
+    Fonksiyonlar 
+    if 
+    else 
+    elif 
+
+    for 
+    in 
+
+    return 
+
+    except 
+
+    break 
+
+    predictor
+    sum 
+    print 
+    theilsen 
+    slope 
+    median 
+    error 
+    time_to_float 
