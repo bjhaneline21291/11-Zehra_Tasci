@@ -13,7 +13,7 @@ Python
             ArgumentParser
                         add_argument 
                                    parse_args 
-    YAML 
+YAML 
     Fonksiyonlar 
     highlightFace
     print 
