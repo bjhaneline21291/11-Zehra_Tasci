@@ -1,0 +1,2 @@
+MSCOCO veri kümesinde en son teknolojiye yakın sonuçlara ulaşan CNN-LSTM resim yazısı oluşturucu mimarisinin 
+bir Tensorflow uygulaması.

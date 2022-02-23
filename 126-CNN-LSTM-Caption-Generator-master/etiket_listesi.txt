@@ -1,0 +1,46 @@
+Python 
+    pycocotools
+              coco 
+                  COCO 
+    pycocoevalcap
+                eval 
+                    COCOEvalCap
+    matplotlib
+             pyplot 
+    skimage 
+         io 
+    os
+      path 
+         isfile 
+      environ    
+    sys 
+      path 
+         insert  
+    getopt 
+    json 
+       encoder 
+             FLOAT_REPR
+    image_feature_cnn
+                   forward_cnn
+    trnsorflow 
+    model 
+        Model    
+    numpy
+       sum  
+    cPickle    
+    caffle 
+         Classifier  
+    copy
+
+    FONKSİYONLAR 
+    evaluateModel
+    main 
+    open 
+    formatPlaceHolder
+    train_data_iterator 
+    
+    for 
+
+    if 
+    elif
+    else 
