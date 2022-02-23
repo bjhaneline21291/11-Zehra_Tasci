@@ -32,7 +32,7 @@ Python
 
            
    
-   
+   YAML 
    
     Fonksiyonlar 
     pretty_blur_map
