@@ -1,0 +1,3 @@
+MATLAB Simulink kullanılarak örnek bir güç sistemi modellendi ve altı tip arızanın tümü güç sisteminin 
+iletim hattına tanıtıldı. 8 tip model kullanan bir ML sınıflandırıcısı sklearn kullanılarak gerçekleştirilmiş ve 
+her bir problem için son model olarak uygun bir model seçilmiştir.

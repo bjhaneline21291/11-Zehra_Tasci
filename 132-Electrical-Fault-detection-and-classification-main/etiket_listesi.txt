@@ -1,0 +1,46 @@
+Python 
+    pandas 
+         read_excel
+         read_csv 
+    numpy 
+        array 
+    sklearn 
+        linear_model
+                LinearRegression
+                LogisticRegression  
+        metrics 
+            mean_squared_error      
+            accuracy_score
+            f1_score
+        preprocessing 
+                    PolynomialFeatures
+        pipeline 
+                make_pipeline
+        neural_network       
+                   MLPClassifier
+        naive_bayes 
+                  GaussianNB
+        tree 
+              DecisionTreeClassifier
+        model_selection
+                      train_test_split      
+        svm 
+            LinearSVC
+            SVC
+        neighbors 
+                  KNeighborsClassifier                                                      
+    matplotlib 
+             pyplot 
+                   subplots 
+    Fonksiyonlar 
+    for 
+    in 
+
+    print 
+
+    
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
