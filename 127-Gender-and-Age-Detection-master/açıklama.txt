@@ -1,0 +1,1 @@
+Bir resimdeki veya web kamerası aracılığıyla kişinin (yüzün) OpenCV'sini kullanarak cinsiyet ve yaş tespit edebilen bir Python projesi.

@@ -1,0 +1,32 @@
+Python 
+    cv2 
+       dnn 
+          blobFromImage
+          readNet
+       rectangle  
+       VideoCapture
+       waitkey
+       putText
+       imshow 
+    math 
+    argparse 
+            ArgumentParser
+                        add_argument 
+                                   parse_args 
+    YAML 
+    Fonksiyonlar 
+    highlightFace
+    print 
+    max 
+    min 
+
+    if 
+    else 
+
+    for 
+    in 
+
+    while 
+
+    break 
+
