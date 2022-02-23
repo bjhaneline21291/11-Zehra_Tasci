@@ -1,0 +1,56 @@
+Python 
+        cv2 
+           resize 
+           cvtColor
+           Laplacian
+           blur 
+           medianBlur 
+           COLOR_BGR2GRAY
+           CV_64F
+           imread 
+           imshow 
+           waitkey 
+        numpy 
+            array  
+            float32
+            var 
+        sys 
+          version_info
+        argparse
+                 ArgumentParser 
+                             add_argument 
+        logging
+              info  
+        pathlib 
+               Path 
+                   is_file
+                   suffix
+                   is_dir 
+                   rglob 
+        json 
+            dump 
+
+           
+   
+   
+   
+    Fonksiyonlar 
+    pretty_blur_map
+    estimate_blur
+    fix_image_size
+    parse_args 
+    find_images 
+    print 
+
+    if 
+    else 
+
+    for 
+    in 
+
+    with 
+
+    assert
+
+    yield 
+
