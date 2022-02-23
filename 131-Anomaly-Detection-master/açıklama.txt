@@ -1,0 +1,1 @@
+Python'da anormallik algılama algoritması uygulaması

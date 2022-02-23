@@ -1,0 +1,41 @@
+Python 
+    matplotlib 
+                pyplot 
+                      rcParams
+                      xlabel
+                      ylabel
+                      plot 
+                      show 
+                     style 
+                          use       
+
+    numpy 
+       genfromtxt  
+       mean 
+       cov   
+       arange 
+       nditer          
+    scipy
+         stats 
+            multivariate_normal
+    sklearn 
+         metrics 
+               f1_score   
+         svm 
+              OneClassSVM 
+YAML                         
+    Fonksiyonlar 
+    read_dataset
+    feature_normalize
+    estimateGaussian
+    multivariateGaussian
+    selectThresholdByCV
+
+    for 
+    in 
+
+    if 
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
