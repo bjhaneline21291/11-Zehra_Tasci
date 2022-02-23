@@ -1,0 +1,77 @@
+Python 
+    pytest
+    requests 
+           get
+           Response 
+    json
+       dumps
+    os 
+      path 
+          join 
+          isfile
+      makedirs
+      environ        
+    pathlib
+            Path 
+    contextlib 
+             redirect_stdout 
+    io
+      StringIO
+    httpretty
+           HTTPretty
+                   register_uri
+           httprettified  
+    aioresponses
+              aioresponses
+    Wappalyzer
+            WebPage
+                   new_from_url
+                   html
+                   new_from_url_async
+            Wappalyzer
+                       latest
+            _main_
+                get_parser
+                main 
+    argparse 
+           ArgumentParser
+                        add_argument  
+    aiohttp
+             ClientSession  
+             TCPConnector      
+    typing 
+          Callable
+          Dict
+          Iterable
+          List
+          Mapping
+          Any
+          Set     
+    logging       
+           getLogger
+    re
+      compile  
+    datetime 
+            datetime
+            timedelta                
+YAML    
+    Fonksiyonlar 
+    async_mock
+    test_new_from_url      
+    test_new_from_url_async
+    test_analyze_no_technologies
+    test_get_implied_technologies
+    test_analyze_with_versions_and_categories
+    _get_implied_technologies
+    
+    if 
+    else
+    elif 
+
+    for 
+    in 
+    
+    return 
+
+    except 
+

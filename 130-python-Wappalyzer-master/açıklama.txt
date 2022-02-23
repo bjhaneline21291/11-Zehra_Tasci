@@ -1,0 +1,1 @@
+Bir web uygulaması algılama aracı olan Wappalyzer için Python sürücüsü.
