@@ -1,0 +1,32 @@
+Python 
+    cv2
+      cvtColor 
+      imread
+      CascadeClassifier
+      rectangle
+    matplotlib
+                pyplot 
+                      imshow 
+    time
+       time  
+    numpy 
+        copy 
+   
+HTML    
+   
+    Fonksiyonlar 
+    convertToRGB
+    detect_faces
+    
+    for 
+    in 
+
+    if
+
+    return 
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
