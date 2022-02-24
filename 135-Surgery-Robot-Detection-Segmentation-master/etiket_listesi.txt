@@ -1,0 +1,110 @@
+Python 
+      numpy
+          fromstring
+          uint8
+          dstack 
+          minimum 
+          zeros 
+          reshape 
+      cv2 
+        cvtColor
+        waitKey
+        destroyAllWindows
+      primesense 
+               openni2 
+               _openni2 
+                      initialize 
+                      Device 
+                          open_any
+      os 
+        path 
+            join 
+            abspath 
+      math 
+          ceil
+      datetime 
+      re 
+      logging 
+      collections 
+            OrderedDict
+      multiprocessing
+      skimage
+           transform 
+           color 
+           io 
+
+      tensorflow 
+                keras 
+                    backend 
+                    layers 
+                    engine 
+                    models
+                    datasets 
+                             mnist 
+                    preporessing 
+                               image 
+                                      ImageDataGenerator           
+      mrcnn 
+          utils 
+          config 
+                Config 
+          model 
+          visualize        
+      distutils
+               version 
+                       LooseVersion     
+      shutil
+      warnings
+      urllib 
+           request     
+      mathplotlib 
+              pyplot 
+                   xlabel
+                   ylabel 
+      surgery
+      random 
+      glob 
+        glob                                
+      pip  
+        _ver
+            split
+      pkg_resources  
+                 get_distribution                                      
+                                            
+    Fonksiyonlar 
+    _parse_requirement
+    load_mask
+    image_reference
+    load_mask_hc
+    train
+    color_splash
+    detect_and_color_splash
+    rle_decode
+    mask_to_rle
+    display_images
+    random_colors
+    display_instances
+    display_differences
+    display_top_masks
+    plot_precision_recall
+    print 
+
+    if 
+    else 
+    elif 
+
+    for 
+    in 
+
+    return 
+
+    
+
+
+
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

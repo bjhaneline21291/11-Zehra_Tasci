@@ -1,0 +1,1 @@
+Python 3, Keras ve TensorFlow üzerinde Mask-RCNN kullanan bir cerrahi robot için nesne algılama ve segmentasyon.
