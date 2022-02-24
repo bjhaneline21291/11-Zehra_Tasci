@@ -1,0 +1,47 @@
+Python 
+    matplotlib 
+                pyplot 
+                    imshow
+                    imsave  
+                image 
+                   imread 
+
+    numpy 
+       zeros_like
+       zeros 
+       array 
+    cv2
+       cvtColor 
+       Canny 
+       GaussianBlur
+       fillPoly
+       bitwise_and
+       line 
+       addWeighted
+       inRange
+
+    math    
+    os 
+     listdir  
+     path
+        join 
+     moviepy
+           editor 
+                 VideoFileClip
+     IPython
+            display
+                  HTML                      
+
+    FONKSİYONLAR 
+    process_image 
+    detectLaneLine_image
+    filter_colors  
+    weighted_img       
+    hough_lines  
+    region_of_interest 
+    gaussian_blur
+    canny
+    grayscale
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

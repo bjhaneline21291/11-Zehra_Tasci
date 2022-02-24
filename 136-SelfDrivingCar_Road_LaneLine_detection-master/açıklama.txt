@@ -1,0 +1,1 @@
+Görüntü ve videolardan yoldaki şerit çizgilerini bulma.
