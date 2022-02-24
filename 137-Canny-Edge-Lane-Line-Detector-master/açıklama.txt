@@ -1,0 +1,2 @@
+Beyaz ve sarı şerit çizgilerini çıkarmak için Hough dönüşümleriyle birlikte Canny-Edge algılamayı kullanan bir şerit 
+çizgisi dedektörü.

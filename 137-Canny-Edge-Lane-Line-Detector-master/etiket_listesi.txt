@@ -1,0 +1,33 @@
+Python 
+    matplotlib
+              pyplot
+                   imshow 
+              image 
+                  imread 
+    numpy
+       asarray 
+       zeros_like 
+       array 
+    cv2  
+      cvtColor
+      Canny
+      GaussianBlur
+    math  
+    moviepy
+            editor 
+                  VideoFileClip
+    IPython
+           display
+                HTML
+    FONKSİYONLAR 
+    process_image
+
+    for 
+    in 
+
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+

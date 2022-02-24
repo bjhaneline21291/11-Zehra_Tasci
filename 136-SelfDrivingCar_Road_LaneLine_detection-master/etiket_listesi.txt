@@ -42,6 +42,14 @@ Python
     gaussian_blur
     canny
     grayscale
+    
+    if 
+    else 
+
+    for 
+    in 
+
+    return 
 
 YARDIMCI-TEKNOLOJİLER
 .ipynb jupyter notebook teknolojisini kullanmıştır.
