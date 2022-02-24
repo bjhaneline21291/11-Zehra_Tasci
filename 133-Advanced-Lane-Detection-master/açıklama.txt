@@ -1,0 +1,2 @@
+OpenCV Görüntü İşleme, Kamera Kalibrasyonu, Perspektif Dönüşümü, Renk Maskeleri, Sobels ve Polinom Uyum kullanarak 
+yol eğriliği ve şerit araç ofsetini hesaplamak için Bilgisayarla Görme algoritması.

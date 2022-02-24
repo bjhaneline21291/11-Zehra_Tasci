@@ -1,0 +1,65 @@
+Python 
+    numpy
+       zeros 
+       float32
+       mgrid 
+       absolute
+       zeros_like
+       dstack
+       sum 
+       argmax 
+       int 
+       linspace 
+    cv2 
+       imread
+       cvtColor 
+       drawChessboardCorners
+       destroyAllWindows
+       warpPerspective
+       getPerspectiveTransform
+       bitwise_or
+    glob
+       glob
+    matplotlib 
+             pyplot
+                   imshow  
+                   plot   
+             image 
+    os 
+      listdir 
+    moviepy 
+         editor 
+             VideoFileClip          
+
+
+    Fonksiyonlar 
+
+    lane_finding_pipeline
+    project_lane_info
+    measure_position_meters
+    find_lane_pixels_using_prev_poly
+    draw_poly_lines
+    fit_poly
+    find_lane_pixels_using_histogram
+    binary_thresholded
+    warp
+    distortion_factors
+
+    if 
+    else 
+
+    for 
+    in 
+
+    return 
+
+    except 
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+
+
+
