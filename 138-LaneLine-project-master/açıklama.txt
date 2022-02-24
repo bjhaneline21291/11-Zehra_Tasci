@@ -1,0 +1,1 @@
+Udacity Otonom Araba Mühendisi Nanodegree. Proje: Uyarlanabilir ROI ve çizgi titreşim yumuşatma ile şerit çizgisi algılama

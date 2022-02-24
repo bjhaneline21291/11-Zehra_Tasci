@@ -1,0 +1,52 @@
+Python 
+    matplotlib
+             pyplot 
+                  imshow 
+             image 
+                 imread
+    numpy 
+        zeros_like 
+        units8 
+        copy 
+    cv2    
+      cvtColor
+      Canny 
+      GaussianBlur
+      fillPoly
+      bitwise_and
+      line 
+      HoughLinesP
+      addWeighted
+    math 
+       isnan 
+    os 
+    moviepy
+          editor
+             VideoFileClip
+    IPython
+           display 
+                 HTML 
+
+    FONKSİYONLAR 
+    process_image
+    image_process
+    reset_params_720p
+    reset_params_540p
+    draw_lanes
+    weighted_img
+    hough_lines
+    region_of_interest
+    grayscale
+    print 
+
+    return 
+
+    if 
+    else 
+
+    for
+    in 
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
