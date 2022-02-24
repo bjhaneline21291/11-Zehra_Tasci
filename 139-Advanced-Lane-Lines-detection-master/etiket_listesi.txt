@@ -1,0 +1,66 @@
+Python 
+    numpy 
+       float32
+       nonzero
+       argmax 
+       where
+       sum 
+       transpose 
+       array 
+       polyfit
+       argsort 
+       append 
+       mean 
+    cv2 
+       cvtColor 
+       imread
+       drawChessboardCorners 
+       undistort
+       getPerspectiveTransform
+       warpPerspective
+       addWeighted
+    glob 
+      glob
+    matplotlib 
+             pyplot 
+                  subplots 
+             image
+    moviepy 
+          editor 
+                 VideoFileClip
+    collections 
+              deque 
+    IPython 
+          display
+                HTML           
+    Fonksiyonlar 
+
+    tranformImageColor
+    calibrateCamera
+    identifyChessboardCorners
+    undistort
+    apply_thresholds
+    fill_lane
+    get_intercepts
+    sort_vals
+    radius_of_curvature
+
+
+
+    if 
+    else 
+
+    return 
+
+    for 
+    in 
+    
+
+    
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
