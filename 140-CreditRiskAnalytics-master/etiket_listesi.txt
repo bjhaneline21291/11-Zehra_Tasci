@@ -1,0 +1,72 @@
+Python 
+    pandas
+          read_csv 
+          DataFrame 
+    numpy
+    seaborn 
+           boxplot 
+           heatmap
+    matplotlib
+              pyplot
+                   rcParams 
+                   title 
+                   show 
+                   xlim
+                   ylim 
+                   legend 
+                   xlabel
+                   ylabel 
+                   style
+                       use 
+    scipy
+        stats
+    statsmodels
+               formula
+                      api 
+               stats 
+                    outliers_influence 
+                                   variance_inflation_factor         
+    sklearn 
+            model_selection 
+                            train_test_split
+                            GridSearchCV 
+                            cross_validate
+            linear_model
+                        LogisticRegression
+            metrics 
+                 accuracy_score
+                 classification_report 
+            tree 
+                DecisionTreeClassifier 
+                export_graphviz
+            pipeline 
+                   make_pipeline 
+            externals
+                    six 
+                       StringIO          
+    patsy 
+        dmatrices 
+    IPython 
+          display 
+                Image  
+    pydotplus       
+    pickle            
+        
+    Fonksiyonlar 
+    outlier_capping
+    BivariateAnalysisPlot
+    print 
+
+    if 
+
+    for 
+    in 
+
+    return 
+
+
+                                          
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
