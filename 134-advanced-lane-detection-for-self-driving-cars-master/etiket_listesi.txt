@@ -1,0 +1,78 @@
+Python 
+      numpy 
+          zeros 
+          mgrid 
+      cv2
+        imread 
+        cvtColor 
+        drawChessboardCorners
+        imshow 
+        waitkey 
+        destroyAllWindows
+        undistort
+      glob 
+         glob
+      matplotlib
+               pyplot 
+               image 
+      argparse 
+          ArgumentParser 
+                      add_argument 
+                             parse_args 
+      guiutils 
+            EdgeFinder
+            LaneDetector    
+      camera_calibration 
+                   calib
+                   undistort
+      threshold
+             get_combined_gradients 
+             get_combined_hls
+             combine_grad_hls
+      line 
+          Line, get_perspective_transform
+          get_lane_lines_img
+          illustrate_driving_lane
+          illustrate_info_panel
+          illustrate_driving_lane_with_topdownview       
+      PIL 
+         Image 
+      moviepy.editor 
+                 VideoFileClip
+
+    Fonksiyonlar 
+
+    abs_sobel_thresh
+    mag_thresh 
+    dir_thresh
+    get_combined_gradients
+    channel_thresh
+    channel_thresh
+    combine_grad_hls
+    th_sobelx_X
+    onchange_th_mag_Y
+    threshold1
+    filterSize
+    edgeImage
+    smoothedImage
+    onchangeThreshold1
+     __init__
+     print 
+     main 
+
+     if 
+     else 
+     elif 
+
+     for 
+     in 
+
+     return 
+
+     
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+
+
