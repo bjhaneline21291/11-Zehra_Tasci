@@ -1,0 +1,2 @@
+Hamoye Datascience Staj 2021 için bir grup projesi. Bu projede kredi kartı onay verileri analiz edildi ve kredi kartı 
+talebinin onaylanmasını tahmin etmek için bir makine öğrenme modeli geliştirildi.

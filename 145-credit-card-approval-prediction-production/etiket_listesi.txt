@@ -1,0 +1,50 @@
+Python 
+       streamlit 
+       pandas 
+            read_csv 
+            crosstab 
+       pickle
+            dump
+       numpy 
+       seaborn
+            pairplot
+            heatmap 
+       matplotlib 
+                  pyplot 
+                         xticks
+                         figure 
+                         legend 
+       sklearn 
+              preprocessing 
+                           LabelEncoder 
+                           MinMaxScaler
+              ensemble 
+                     ExtraTreesRegressor 
+              model_selection 
+                           train_test_split
+                           RepeatedStratifiedKFold
+                            GridSearchCV  
+              linear_model
+                          LogisticRegression
+              metrics 
+                     confusion_matrix
+                     accuracy_score
+                     precision_score
+                     recall_score
+                     f1_score                                           
+
+    Fonksiyonlar 
+    user_input
+    prediction
+    
+    if 
+    else 
+
+    for 
+    in 
+
+    return 
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
