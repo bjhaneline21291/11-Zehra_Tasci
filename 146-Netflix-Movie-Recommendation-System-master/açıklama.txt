@@ -1,0 +1,1 @@
+Ortak filtrelemeye ve içerik tabanlı filtrelemeye dayalı filmlerin Öneri Sistemi için bir Makine Öğrenimi Vaka Çalışması.

@@ -1,0 +1,62 @@
+Python 
+    datetime 
+            datetime
+                   now 
+    pandas 
+         read_csv 
+         to_datetime
+         read_pickle 
+    numpy
+       unique 
+       zeros
+    seaborn 
+           set_style
+           countplot 
+    os 
+      path 
+         isfile 
+    random 
+    matplotlib 
+             pyplot
+                  title
+                  xlabel
+                  ylabel
+                  show 
+                  figure 
+                  subplots 
+    scipy 
+        sparse 
+    sklearn 
+            metrics 
+                  pairwise 
+                          cosine_similarity
+                  mean_squared_error
+    xgboost 
+    surprise 
+            Reader
+            Dataset
+            BaselineOnly 
+            KNNBaseline 
+            SVD 
+            SVDpp
+            model_selection 
+                           GridSearchCV               
+    Fonksiyonlar 
+    print 
+    getUser_UserSimilarity
+    get_sample_sparse_matrix
+
+    for 
+    in 
+
+    if 
+    else  
+
+    with 
+
+    return                        
+
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
