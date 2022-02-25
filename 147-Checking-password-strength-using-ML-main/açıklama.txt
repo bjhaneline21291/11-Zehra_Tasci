@@ -1,0 +1,1 @@
+Burada şifrelerinizin güçlü mü, zayıf mı olduğunu kontrol ediyoruz.

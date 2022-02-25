@@ -1,0 +1,41 @@
+Python
+        warnings 
+                filterwarnings 
+        pandas
+             read_csv 
+             DataFrame 
+        numpy  
+           array 
+        random 
+              shuffle 
+        seaborn 
+              set_style 
+              countplot
+        sklearn 
+                feature_extraction 
+                                   text
+                                        TfidfVectorizer
+                model_selection 
+                                train_test_split 
+                linear_model
+                             LogisticRegression
+                naiive_bayes 
+                           MultinomialNB
+                                        fit 
+                                        score              
+        xgboost  
+               XGBClassifier                                                                                             
+    FONKSİYONLAR
+    word_divide_char 
+    print 
+    
+    for 
+    in 
+
+    return 
+
+    
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
