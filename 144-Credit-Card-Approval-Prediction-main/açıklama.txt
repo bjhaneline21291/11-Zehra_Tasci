@@ -1,0 +1,4 @@
+Ticari bankalar kredi kartları için çok sayıda başvuru almaktadır. Birçoğu, örneğin yüksek kredi bakiyeleri, düşük gelir 
+seviyeleri veya bir bireyin kredi raporuyla ilgili çok fazla sorgulama gibi birçok nedenden dolayı reddedilir. 
+Bu uygulamaları manuel olarak analiz etmek sıradan, hataya açık ve zaman alıcıdır (ve vakit nakittir!). Neyse ki, bu görev 
+makine öğreniminin gücüyle otomatikleştirilebilir ve günümüzde hemen hemen her ticari banka bunu yapıyor.

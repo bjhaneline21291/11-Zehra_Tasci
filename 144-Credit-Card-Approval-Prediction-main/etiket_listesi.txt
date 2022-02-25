@@ -1,0 +1,42 @@
+Python 
+        numpy 
+        pandas
+             read_csv 
+        matplotlib
+                 pyplot
+                      figure 
+                      plot 
+                      xlim
+                      ylm 
+                      xlabel
+                      ylabel
+                      legend 
+                      show 
+        seaborn 
+        sklearn 
+                preprocessing 
+                              LabelEncoder 
+                                      fit_transform  
+                              MinMaxScaler                     
+                model_selection 
+                              train_test_split 
+                              GridSearchCV
+                linear_model
+                         LogisticRegression
+                                         fit       
+                metrics   
+                       confusion_matrix  
+                       roc_auc_score                                  
+    Fonksiyonlar 
+    print 
+    _max_width_   
+    user_input_features
+
+    for 
+    in 
+
+    if 
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
