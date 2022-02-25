@@ -1,0 +1,61 @@
+Python 
+    numpy
+       zeros 
+       mgrid
+       array 
+       dstack 
+       hstack
+       arctan2
+       zeros_like
+       sqrt
+       float32 
+    cv2 
+       imread
+       cvtColor
+       findChessboardCorners
+       waitkey
+       destroyAllWindows 
+       warpPerspective
+       calibrateCamera
+       undistort
+       putText
+
+    glob 
+       glob
+    matplotlib
+             pyplot 
+                  figure
+                  subplot
+                  imshow 
+                  title
+                  xticks
+                  yticks  
+    math 
+    os  
+    moviepy
+            editor 
+                 VideoFileClip
+    IPython 
+          display 
+                HTML                      
+    FONKSİYONLAR 
+    warper
+    undistort 
+    _init_
+    update_fits
+    update_curvature
+    get_position_from_center
+    set_values
+    mag_thresh
+    threshold
+
+    if 
+    else 
+
+    for 
+    in 
+
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
