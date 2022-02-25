@@ -1,0 +1,36 @@
+R 
+  devtools
+  tm
+  quanteda 
+  qdapRegex
+  rlang
+  purr
+  ggplot2
+         geom_histogram
+         geom_vline
+         geom_point
+         geom_emoji
+  syuzhet
+  lexicon
+  emo
+  emoGG
+
+ Fonksiyonlar 
+ stringAsFactors      
+ as
+   Date
+   list
+   character 
+   numeric 
+ gsub
+ set
+    seed   
+ summary   
+ data
+     frame  
+ tokens_select
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
