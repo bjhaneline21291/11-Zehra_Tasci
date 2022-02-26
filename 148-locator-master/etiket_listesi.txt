@@ -1,0 +1,127 @@
+Python 
+        argparse
+                ArgumentParser 
+                             add_argument
+                                       parse_args 
+                                                seed 
+                                                gpu_number   
+        scipy
+        pandas
+             read_csv
+             DataFrame 
+                     to_csv 
+             merge  
+        os
+          environ 
+        numpy 
+            argwhere
+            amax 
+            mean 
+            sum
+            sort 
+            cumsum  
+            quantile
+            random
+                 binominal 
+                 choice  
+                 seed 
+        matplotlib 
+                 pyplot 
+                       savefig
+        zarr 
+            open_group 
+        math
+            sin 
+            cos 
+            sqrt
+            atan2 
+            radians 
+        sklearn 
+              neighbors 
+                        KernelDensity
+                                  score_samples 
+        mlp_toolkits 
+                    axes_grid1
+                               inset_locater 
+                                            inset_axes 
+        warnings
+               catch_warnings 
+               filterwarnings 
+        allel
+            vcf_to_zarr 
+        re
+        tensorflow 
+                  keras 
+                       models 
+                             Sequential 
+                       layers 
+                             core 
+                                 Lambda 
+                             Dense      
+                       backend 
+                               sqrt 
+                               sum 
+                               square  
+                       callbacks 
+                               EarlyStopping 
+                               ReduceLROnPaleteu
+                               ModelCheckpoint                         
+        sys
+           exist 
+        time 
+            time 
+        subprocess
+        copy 
+           deepcopy 
+        gnuplotlib 
+        json 
+           dump                                                      
+    Fonksiyonlar
+    kdepred
+    centroid
+    distance_km
+    distance
+    get_closest
+    euclidean_distance_loss
+    load_genotypes
+    load_network
+    load_callbacks
+
+R 
+    data 
+       table 
+    scales 
+    raster 
+    sp 
+    MASS
+    rgeos 
+    plyr
+    progress
+    argparse
+    ggplot2 
+
+    Fonksiyonlar
+    as 
+      Data
+          Frame 
+      matrix       
+    list 
+       files 
+    is 
+      null
+    merge 
+    print 
+    length 
+    na 
+      omit 
+    max 
+    min 
+    diff   
+
+
+
+
+
+
+
+
