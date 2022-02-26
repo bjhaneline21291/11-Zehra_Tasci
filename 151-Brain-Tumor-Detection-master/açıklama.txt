@@ -1,0 +1,1 @@
+Evrişimsel Sinir Ağlarını Kullanarak Beyin Tümörü Tespiti.

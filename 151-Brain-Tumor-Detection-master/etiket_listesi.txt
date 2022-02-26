@@ -1,0 +1,69 @@
+Python 
+        tensorflow 
+                    keras 
+                            layers 
+                                   Conv2D
+                                   Input
+                                   ZeroPadding2D
+                                   BatchNormalization
+                                   Activation
+                                   MaxPooling2D
+                                   Flatten
+                                   Dense    
+                            models 
+                                   Model 
+                                   load_model
+                            callbacks 
+                                      TensorBoard
+                                      ModelCheckpoint 
+                            model_selection 
+                                            train_test_split 
+                            metrics 
+                                    f1_score 
+                            utils 
+                                 shuffle 
+                            preprocessing 
+                                         image 
+                                                 ImageDataGenerator      
+        cv2 
+           cvtColor 
+           GaussianBlur
+           threshold
+           erode
+           dilate
+           findContours
+        imutils
+              grab_contours
+        numpy 
+             array 
+             argwhere
+             where 
+        matplotlib
+                pyplot 
+                     figure 
+                     subplots 
+                     imshow 
+                     tick_params 
+                     title 
+                     show 
+        time 
+            time
+        os 
+          listdir  
+    FONKSİYONLAR
+    crop_brain_contour
+    load_data
+    plot_sample_images
+    split_data
+    compute_f1_score
+    build_model
+    
+    if 
+    else
+
+    for 
+    in 
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
