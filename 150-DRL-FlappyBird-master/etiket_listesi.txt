@@ -1,0 +1,55 @@
+Python 
+        pygame 
+             iamge
+                  load 
+             mixer 
+                   Sound 
+             locals 
+                   *
+             surfarray 
+             time 
+                Clock   
+             display 
+                    set_caption                  
+        sys 
+           path 
+               append 
+        numpy
+            stack  
+            reshape
+        random 
+             sample 
+        itertools 
+                 cycle 
+        tensorflow 
+                multiply
+                nn 
+                  relu 
+                reshape 
+                matmul 
+                Variable   
+        collections 
+                   deque
+        cv2 
+            cvtColor 
+            threshold
+            
+    Fonksiyonlar 
+    copyTargetQNetwork 
+    createTrainingMethod   
+    trainQNetwork
+    setInitState
+    weight_variable
+    bias_variable 
+
+    if 
+    else 
+
+    for 
+    in 
+
+    return
+
+    while 
+
+    
