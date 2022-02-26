@@ -1,0 +1,46 @@
+Python 
+        google
+              colab 
+                    drive
+                        mount
+        sys
+        os 
+        pandas
+             set_option
+             read_csv
+        numpy
+            array
+            mean
+            std
+        tensorflow 
+                  keras
+                        models 
+                              Sequential
+                        layers
+                               Dense
+                               Dropout
+                               Activation
+                               Flatten
+                               Conv2D
+                               MaxPooling2D
+                               BatchNormalization
+                               AveragePooling2D
+                        losses
+                              categorical_crossentropy
+                        optimizers
+                                    Adam
+                        utils
+                             np_utils  
+                                      to_categorical                             
+    Fonksiyonlar 
+    for 
+    in 
+
+    if 
+    elif 
+    
+    print 
+    open 
+
+    YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
