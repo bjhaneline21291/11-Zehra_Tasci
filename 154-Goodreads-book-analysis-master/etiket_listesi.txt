@@ -1,0 +1,80 @@
+Python 
+    bs4 
+        BeautifulSoup
+    urllib 
+          request 
+                  get 
+    pandas
+          DataFrame
+                  from_dict 
+          read_csv
+          isna 
+    time 
+    os 
+      path 
+          exists
+      listdir     
+    wget
+        downland   
+    langdetect
+              detect
+    string
+          ascii_letters
+    cufflinks
+              go_offline
+    collections
+              defaultdict
+    google
+            colab
+                  files
+    matplotlib
+              pyplot
+    PIL
+        Image
+    tensorflow
+               keras
+                    models
+                            Sequential 
+                    layers
+                          Dense
+                          Dropout
+                          Embedding
+                          LSTM
+    IPython
+           core
+               display
+                        HTML        
+    torch
+          utils
+                 data
+                    dataset
+                            Dataset
+                            Subset
+                    DataLoader
+          nn 
+            functional                     
+
+  Fonksiyonlar 
+  print 
+
+  if 
+  elif
+  else
+
+  for 
+  in 
+
+  genre_binarizer
+  eng_desc
+  add_space_case
+  remove_punctuation
+  df_cleaner
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+
+        
