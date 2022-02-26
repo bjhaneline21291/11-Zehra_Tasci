@@ -1,0 +1,90 @@
+Python 
+        pandas
+              read_csv 
+              DataFrame
+        re 
+        string 
+        json 
+            loads
+        nlkt 
+             stem 
+                snowball
+                         SnowballStemmer
+             word_tokenize            
+        sklearn 
+               feature_extraction
+                                  text 
+                                      CountVectorizer
+                                      TfidfTransformer
+               cross_validation 
+                             cross_val_score 
+               model_selection 
+                                train_test_split 
+               ensemble 
+                       VotingClassifier   
+                       RandomForestClassifier
+                       ExtraTreesClassifier   
+                       GradientBoostingClassifier 
+                       AdaBoostClassifier     
+               metrics 
+                         roc_curve
+                         auc
+                         roc_auc_score
+                         f1_score 
+                         confusion_matrix         
+               linear_model     
+                            LogisticRegressionCV
+               svm 
+               neural_network         
+                            MLPClassifier   
+               preprocessing 
+                            StandardScaler 
+                                         transform  
+                            label_binarize 
+               multiclass
+                          OneVsRestClassifier                                                                            
+        numpy 
+             asarray    
+        math 
+        collections 
+                   defaultdict 
+        csv                                             
+        stanfordcorenlp
+                        StanfordCoreNLP
+        mlxtend
+                  classifier
+                         StackingCVClassifier                
+        lightgbm 
+        xgboost
+               XGBClassifier  
+        matplotlib 
+                  pyplot 
+                         plot 
+                         xlim
+                         ylim 
+                         xlabel
+                         ylabel
+                         title 
+                         legend 
+                         show 
+        itertools 
+                 cycle 
+        scipy 
+             interp                            
+    Fonksiyonlar 
+
+    print 
+
+    if 
+    else 
+
+    for 
+    in 
+
+    return 
+
+    
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

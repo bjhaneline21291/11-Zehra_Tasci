@@ -1,0 +1,1 @@
+Çeşitli Makine Öğrenimi ve NLP tekniklerini ve etiketli Twitter verilerini kullanan nefret söylemi ve saldırgan dil algılama modeli
