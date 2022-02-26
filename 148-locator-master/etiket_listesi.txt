@@ -87,6 +87,12 @@ Python
     load_network
     load_callbacks
 
+    if 
+    else 
+
+    for 
+    in 
+
 R 
     data 
        table 
@@ -116,7 +122,13 @@ R
       omit 
     max 
     min 
-    diff   
+    diff  
+
+    if 
+    else 
+
+    for 
+    in  
 
 
 
