@@ -1,0 +1,1 @@
+Bu Uygulama, AWS ile dağıtılan ML modellerini kullanarak bir kitabın türünü tahmin eder-sınıflandırır.

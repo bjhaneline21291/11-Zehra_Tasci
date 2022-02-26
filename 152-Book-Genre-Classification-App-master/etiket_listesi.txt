@@ -1,0 +1,69 @@
+Python 
+        warnings 
+                filterwarnings
+        pandas 
+                read_csv 
+                DataFrame 
+        numpy 
+        seaborn
+               countplot 
+               barplot 
+        matplotlib
+                   pyplot 
+                          xticks 
+                          show 
+        re 
+           sub 
+        nltk 
+            FreqDist
+            corpus 
+                  stopwords 
+                             words 
+            stem 
+                  WordNetLemmatizer
+                  PorterStemmer 
+            downland                         
+        collections 
+        sklearn 
+                feature_extraction 
+                                  text 
+                                        TfidfVectorizer
+                                        CountVectorizer  
+                model_selection
+                                train_test_split
+                tree 
+                    DecisionTreeClassifier
+                ensemble      
+                        RandomForestClassifier
+                naive_bayes 
+                       GaussianNB
+                       MultinomialNB     
+                svm 
+                    SVC 
+                metrics 
+                preprocessing 
+                              LabelEncoder 
+        pickle 
+              dump 
+HTML 
+                                   
+    Fonksiyonlar
+    print 
+    range 
+    len 
+    test
+    stemming 
+    lematizing
+    removestopwords
+    showmostfrequentwords
+    cleantext
+    
+    for 
+    in 
+
+    if 
+    else 
+
+    
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
