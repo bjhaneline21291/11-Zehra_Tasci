@@ -1,0 +1,85 @@
+Python 
+        numpy 
+            mean 
+            median 
+        pandas 
+             read_csv 
+             get_dummies 
+             concat 
+             cut 
+             DataFrame 
+        sklearn
+                metrics 
+                        *
+                        confusion_matrix 
+                        classification_report
+                datasets 
+                          make_classification 
+                ensemble
+                         ExtraTreesClassifier
+                preprocessing 
+                            LabelEncoder
+                            Imputer
+                model_selection 
+                             train_test_split 
+                             cross_val_score
+                tree 
+                     DecisionTreeClassifier    
+                     export_graphviz 
+                feature_selection 
+                                SelectFromModel                                                    
+        Ipython 
+               core 
+                    display 
+                            Image
+                            display
+        lightgbm 
+               plot_importance
+        scipy 
+             stats
+                  mode 
+        re 
+        datetime 
+                 datetime
+        warnings 
+                filterwarnings 
+        bs4 
+            BeautifulSoup
+        request 
+        airpy
+             agd 
+                 * 
+             merge 
+                  * 
+             data 
+                 *         
+        gc 
+        matplotlib 
+                 pylot 
+                      show           
+
+
+   Fonksiyonlar 
+   pre_age_set_data
+   pre_gen_predict_data
+   predict_age_LightGBM
+   remove_word
+   sessions_detail_add
+   submit_kaggle
+   print 
+
+   for 
+   in 
+
+   if 
+   else 
+
+   return 
+
+   
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+
+
