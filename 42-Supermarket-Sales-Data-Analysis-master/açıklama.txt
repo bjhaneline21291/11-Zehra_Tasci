@@ -1,3 +1,0 @@
-Çoğu kalabalık şehirlerde süpermarketlerin büyümesi artıyor ve pazar rekabetleri de yüksek. 
-Bu veri seti, 3 farklı şubede 3 aylık veri kaydı yapan süpermarket şirketinin tarihsel satışlarından biridir. 
-Tahmine dayalı veri analitiği yöntemlerinin bu veri kümeleriyle uygulanması kolaydır.

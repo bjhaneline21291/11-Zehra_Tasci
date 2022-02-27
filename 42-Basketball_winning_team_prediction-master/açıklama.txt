@@ -1,0 +1,1 @@
+Bu kurs, edx üzerinde Python IBM ile Makine Öğrenimi kursunun bitirme projesinin bir parçası olarak tamamlanmıştır.

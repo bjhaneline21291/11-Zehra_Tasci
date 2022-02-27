@@ -1,0 +1,57 @@
+Python 
+    itertools 
+    numpy 
+       linspace
+       zeros   
+    matplotlib 
+                pyplot 
+                       show
+                       hist
+                       plot
+                       legend
+                       ylabel
+                       xlabel
+                       tight_layout
+                       imshow 
+                       colorbar  
+                ticker
+                     NullFormatter
+    pandas 
+         read_csv 
+    sklearn 
+           preprocessing 
+           model_selection 
+                          train_test_split 
+           metrics 
+                  accuracy_score
+                  classification_report
+                  confusion_matrix
+                  log_loss
+           neighbors 
+                    KNeighborsClassifier
+           metrics 
+           tree 
+                DecisionTreeClassifier  
+           svm                          
+           linear_model
+                         LogisticRegression
+
+    seaborn 
+           FacetGrid        
+    Fonksiyonlar
+    jaccard_index 
+    plot_confusion_matrix
+    print 
+
+    if 
+    else 
+
+    for 
+    in 
+
+    return 
+
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
