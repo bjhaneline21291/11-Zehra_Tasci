@@ -1,1 +1,0 @@
-Kredi başvurusunda bulunanların uygunluğunu çeşitli faktörlere dayalı olarak tahmin etmek için çeşitli makine öğrenimi algoritmalarını kullanan tahmine dayalı bir model.

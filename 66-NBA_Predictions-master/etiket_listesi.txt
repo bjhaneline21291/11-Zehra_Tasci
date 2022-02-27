@@ -1,0 +1,59 @@
+Python
+        os 
+          path 
+              exists
+              join 
+          makedirs     
+        re 
+        timeit
+        numpy
+            random 
+                  rand 
+            zeros 
+        logging 
+              basicConfig 
+        pandas 
+             set_option 
+        src
+           GA_Funs
+           utils
+               get_data 
+               save_frame2table 
+           config 
+                 config          
+        resources 
+                 website_sources 
+        matplotlib 
+                  pyplot 
+        json 
+        datetime
+               datetime
+                      now 
+               timedelta                     
+        itertools 
+        twython 
+              Twython 
+        sqlite3 
+        lxml
+           html 
+        bs4 
+            BeautifulSoup    
+          
+      
+
+    Fonksiyonlar 
+    return_websites
+    create_population
+    get_fitness
+    get_schedule_stats
+    mutate_individual
+    get_GA_nums
+
+    for 
+    in 
+
+    if 
+    else 
+    elif 
+
+    return 
