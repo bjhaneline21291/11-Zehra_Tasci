@@ -1,0 +1,55 @@
+Python 
+        numpy 
+        scipy 
+        matplotlib 
+                   cm 
+                   pyplot 
+                           figure 
+                           hist 
+                           xlabel
+                           ylabel
+                           title
+                           legend 
+                           show 
+        pandas 
+             set_option
+             read_excel
+             DataFrame  
+        seaborn 
+               set_style 
+               context 
+        csv 
+        json 
+        collection
+                 Counter 
+        ast                              
+        datetime 
+               datetime
+               date 
+        time 
+        missing
+        statsmodels
+                  formula
+                          api
+                                glm
+                                ols
+    Fonksiyonlar 
+    for 
+    in 
+    
+    if 
+    else 
+
+    return 
+
+    main 
+    realign_polar_xticks
+    plot_clock
+    hour_formatAM
+    hour_formatPM
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
