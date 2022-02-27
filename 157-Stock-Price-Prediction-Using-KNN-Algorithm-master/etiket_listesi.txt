@@ -1,0 +1,48 @@
+Python 
+    pandas
+    pandas_datareader
+                    data 
+                        DataReader
+    matplotlib
+               pyplot 
+                     plot 
+                     legend 
+                     show
+                     figure 
+                     title  
+    plotly
+          plotly
+          graph_objs  
+    csv
+    random 
+    math 
+    operator 
+    datetime 
+           datetime
+                    strptime
+           data
+               today 
+    json 
+       loads 
+    Fonksiyonlar
+    loadDataset
+    euclideanDistance
+    getNeighbors
+    getResponse
+    getAccuracy
+    predictFor
+    predict_and_get_accuracy
+    main
+
+    for 
+    in 
+
+    if 
+    else 
+
+    return 
+
+    
+
+
+
