@@ -1,0 +1,1 @@
+Çevrimiçi verilere dayalı etkinlikler için müzik türünü tahmin edin. Python, Jupyter, scikit-learn, gensim.

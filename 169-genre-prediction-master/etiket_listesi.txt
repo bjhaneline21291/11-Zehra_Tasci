@@ -1,0 +1,58 @@
+Python 
+        json 
+        random
+        collection
+                   defaultdict
+        tqdm
+        numpy
+            isnan 
+        pandas 
+              read_csv 
+        matplotlib 
+                pyplot
+                       plot 
+                       xlim 
+                       ylim 
+                       xlabel
+                       ylabel
+                       title
+                       legend
+                       show
+        sklearn
+                preprocessing
+                               LabelBinarizer
+                cross_validation 
+                tree 
+                ensemble
+                svm
+                   LinearSVC
+        nltk 
+              stem
+                    snowball
+                               SnowballStemmer
+        gensim                            
+    Fonksiyonlar
+    fill_id 
+    find_all_categories
+    print    
+    ticket_status_feature
+    artist_feature
+    cost_feature
+    prepare_description
+    description_feature
+
+    for 
+    in 
+
+    if 
+    else 
+
+    yield 
+
+    return 
+
+    
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
