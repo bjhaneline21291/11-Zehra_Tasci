@@ -1,0 +1,31 @@
+Python 
+        numpy 
+        pandas 
+             read_csv 
+        sklearn 
+                model_selection
+                                train_test_split 
+                preprocessing 
+                                StandardScaler 
+                neighboors 
+                          KNeighborsClassifier
+                metrics 
+                        confusion_matrix       
+                        f1_score
+                        accuracy_score
+        seaborn 
+                heatmap
+                countplot 
+        matplotlib
+                   pyplot   
+                          figure 
+                          show
+    Fonksiyonlar 
+    print    
+    
+    for 
+    in                       
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

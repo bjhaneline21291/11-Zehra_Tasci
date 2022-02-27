@@ -1,0 +1,1 @@
+Bir kişinin diyabetli olup olmayacağını tahmin etmek için KNN Algoritmasını kullanma
