@@ -1,0 +1,33 @@
+Python 
+        numpy 
+        pandas 
+              series 
+        seaborn 
+               set 
+               distplot
+               boxplot 
+        matplotlib 
+                   ticker 
+                   pyplot 
+                         figure 
+                         subplots 
+        sklearn 
+                   preprocessing 
+                                     MinMaxScaler
+                   model_selection 
+                                  train_test_split 
+                   metrics 
+                   ensemble 
+                          RandomForestClassifier
+    Fonksiyonlar 
+    for 
+    in 
+
+    if 
+    elif 
+    else 
+
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.                                                                        

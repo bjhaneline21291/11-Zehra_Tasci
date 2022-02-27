@@ -1,0 +1,1 @@
+Rastgele orman kullanarak Churn Tahmini yapmak ve doğruluğu bulmak.
