@@ -1,0 +1,82 @@
+Python 
+        numpy
+        pandas
+             read_csv
+             get_dummies
+             concat
+        seaborn
+              set_style
+        matplotlib
+                  pyplot
+                       style
+                            use 
+                       grid
+                       legend
+                       ylabel
+                       plot   
+                       bar
+                       title
+                       xticks
+                       show  
+        scipy
+             stats 
+        math
+        csv
+        google
+             colab
+                  drive
+        sklearn
+                linear_model
+                             LinearRegression
+                             Ridge
+                             Lasso
+                             ElasticNet
+                             RidgeCV
+                             LassoCV
+                             ElasticNetCV 
+                             LogisticRegression
+                model_selection
+                              cross_val_score
+                              train_test_split
+                metrics
+                       mean_squared_error
+                       accuracy_score
+                feature_selection
+                                 RFE
+                ensemble
+                         RandomForestClassifier
+                         RandomForestRegressor
+                         ExtraTreesClassifier
+                         ExtraTreesRegressor
+                         GradientBoostingClassifier
+                         GradientBoostingRegressor
+                         AdaBoostRegressor
+                svm
+                   SVR         
+                neighbors
+                         KNeighborsClassifier
+    Fonksiyonlar 
+    if 
+    elif 
+    else 
+
+    for 
+    in 
+
+    return 
+
+    win
+    lose
+    TeamData
+
+
+
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+
+
