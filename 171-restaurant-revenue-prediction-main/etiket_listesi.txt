@@ -1,0 +1,81 @@
+Python 
+        os 
+        numpy
+            round 
+            mean 
+            std  
+        pandas 
+             read_csv 
+                       shape 
+                       head 
+                       describe 
+             option_context
+             to_datetime  
+             get_dummies        
+        matplotlib 
+                  pyplot 
+                          subplots
+                          figure 
+                          suptitle 
+                          show
+        seaborn 
+                countplot
+                distplot 
+                heatmap
+                pairplot 
+        scipy 
+              stats 
+        sklearn 
+                preprocessing 
+                metrics        
+                       r2_score
+                       mean_squared_error
+                model_selection
+                                train_test_split 
+                                RandomizedSearchCV    
+                                RepeatedStratifiedKFold 
+                                StratifiedKFold 
+                                KFold
+                                GridSearchCV
+                                cross_val_score
+                                RepeatedKFold
+                experimental 
+                              enable_iterative_imputer   
+                impute
+                      IterativeImputer 
+                linear_model                  
+                            Ridge          
+                            Lasso
+                            ElasticNetCV
+                            ElasticNet
+                            LinearRegression
+                neighbors
+                          KNeighborsRegressor    
+                ensemble 
+                        RandomForestRegressor 
+                        StackingRegressor
+                datasets
+                        make_regression 
+        xgboost
+                  XGBRegressor
+                  plot_importance
+        datetime 
+                 datetime    
+        lightgbm
+               LGBMRegressor                 
+    Fonksiyonlar
+    display_all 
+    evaluate_model
+    get_models
+    get_stacking
+    print 
+
+    for 
+    in 
+
+   return 
+
+   
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
