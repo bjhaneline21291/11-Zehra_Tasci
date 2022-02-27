@@ -1,0 +1,22 @@
+Python 
+        numpy
+        matplotlib 
+                  pyplot
+        pandas
+              read_csv        
+              DataFrame 
+        apyori
+               apyori  
+    Fonksiyonlar 
+    inspect
+    range 
+    zip 
+    print 
+
+    for 
+    in 
+
+               
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
