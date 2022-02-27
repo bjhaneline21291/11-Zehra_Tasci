@@ -1,0 +1,34 @@
+Python 
+    tkinter
+             * 
+    numpy
+    pandas 
+          read_csv 
+    sklearn 
+            tree 
+                DecisionTreeClassifier 
+            ensemble 
+                    RandomForestClassifier 
+                                           fit 
+            naive_bayes 
+                       GaussianNB
+
+    Fonksiyonlar 
+    sorted 
+    range 
+    len 
+    NaiveBayes
+    randomforest
+    DecisionTree
+
+    if 
+    else 
+
+    for 
+    in                                               
+
+    
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

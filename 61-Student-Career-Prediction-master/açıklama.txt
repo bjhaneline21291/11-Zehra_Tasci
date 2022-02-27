@@ -1,0 +1,1 @@
+Öğrenciler için ilgi alanlarına göre en iyi kariyeri tahmin etmek için bir Python ve ML programı. Kariyer/kursu tahmin etmek için DecisionTree, NaiveByes ve Random Forest Tree'yi kullandım.
