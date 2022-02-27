@@ -1,0 +1,32 @@
+Python 
+    pandas
+          read_csv 
+    numpy 
+    matplotlib 
+            pyplot
+                   title
+                   ylabel
+                   xlabel
+                   show
+    sklearn 
+            preprocessing 
+                            LabelEncoder 
+            model_selection 
+                              train_test_split 
+            tree 
+                DecisionTreeClassifier 
+                                     fit 
+                                     predict
+            metrics 
+                  confusion_matrix                                            
+            linear_model
+                       LogiaticRegression
+                                         predict
+    seaborn 
+          heatmap                    
+    Fonksiyonlar 
+    print 
+    
+    
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
