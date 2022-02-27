@@ -1,0 +1,1 @@
+Google Colab ile Tensorflow 2.0 + Python ile satış gelirini tahmin etmek için Mini Yapay Sinir Ağı

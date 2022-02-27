@@ -1,0 +1,34 @@
+Python 
+    tensorflow
+            keras 
+                 Sequential
+                 layers 
+                       Dense
+                 optimizers
+                           Adam       
+    pandas
+         read_csv
+    seaborn
+          scatterplot
+    matplotlib
+              pyplot
+                    plot
+                    title
+                    xlabel
+                    ylabel
+                    legend
+                    show
+                    scatter
+    sklearn
+            linear_model
+                          LinearRegression                
+    google
+         colab
+               drive
+                     mount                      
+    Fonksiyonlar 
+    print
+
+    
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.                  
