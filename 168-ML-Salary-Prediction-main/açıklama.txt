@@ -1,0 +1,1 @@
+Maaş veri kümesine dayalı olarak bireyin Maaş Aralığını sınıflandırmak için Makine Öğrenimi kullanıldı

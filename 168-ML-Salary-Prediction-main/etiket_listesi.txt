@@ -1,0 +1,72 @@
+Python 
+    numpy 
+        hstack
+    pandas
+          options
+                  mode
+                        chained_assignment
+          read_csv  
+          DataFrame              
+    matplotlib
+              pyplot 
+                    show 
+                    figure 
+                    title
+                    xlabel
+                    ylabel
+                    subplots 
+    seaborn
+          heatmap
+          barplot 
+          violinplot
+          jointplot
+          countplot
+          distplot
+    warnings 
+            filterwarnings 
+    copy 
+        deepcopy 
+    sklearn 
+           preprocessing 
+                        StandardScaler
+                        LabelBinarizer 
+           metrics 
+                   accuracy_score
+                   roc_auc_score
+                   roc_curve
+                   precision_recall_curve
+                   confusion_matrix
+                   classification_report  
+           linear_model
+                      LogisticRegression
+                      SGDClassifier
+           tree 
+                 DecisionTreeClassifier
+           ensemble 
+                    RandomForestClassifier
+           neighbors   
+                    KNeighborsClassifier
+           neural_network
+                         MLPClassifier 
+           model_selection 
+                        GridSearchCV   
+                        validation_curve   
+
+    Fonksiyonlar 
+    enumerate
+    plot_roc_curve
+    plot_precision_vs_recall
+    performance_sum
+    cv_sum
+    print 
+    range 
+
+    for 
+    in 
+
+    if 
+    else 
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
