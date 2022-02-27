@@ -1,0 +1,77 @@
+Python 
+    _future_
+             print_function 
+    colorsys 
+    multiprocessing 
+    sys 
+    collections 
+             Counter
+             namedtuple
+    operator 
+            itemgetter
+            mul
+            attrgetter       
+    PIL 
+       Image 
+       ImageChops
+       ImageDraw
+    colormath 
+            color_conversions 
+                             convert_color 
+            color_diff
+                       delta_e_cmc
+            color_objects 
+                          sRGBColor
+                          LabColor     
+    backports 
+             functools_lrucache 
+                                 lru_cache
+    optparse
+    colorific
+             config 
+             palette 
+                    extract_colors
+                    print_colors
+                    save_palette_as_image
+                    color_stream_mt
+                    color_stream_st
+    os   
+      path 
+           real
+           join 
+
+    plartform
+    setuptools
+             setup 
+    distutils 
+            core 
+                  setup                     
+YAML 
+   
+   
+    Fonksiyonlar 
+    color_stream_mt
+    color_process
+    convert_sRGB
+    distance
+    rgb_to_hex
+    extract_color
+    detect_background
+    save_palette_as_image
+    create_option_parser
+
+    for 
+    in 
+
+    if
+    else 
+
+    return 
+
+    
+
+
+
+
+
+
