@@ -1,0 +1,1 @@
+Bir sorunun olumlu oylarını tahmin etmek için bir makine öğrenimi modeli eğitti.

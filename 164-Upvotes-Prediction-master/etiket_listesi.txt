@@ -1,0 +1,66 @@
+Python 
+        numpy 
+             sqrt
+        pandas
+              read_csv 
+              concat 
+              merge  
+        matplotlib 
+                    pyplot 
+                           plot 
+                           xticks
+                           title 
+                           legend 
+                           tight_layout
+                           ylabel 
+                           subplots
+
+        seaborn 
+             heatmap 
+        sklearn 
+                preprocessing 
+                                  StandardScaler
+                                  PolynomialFeatures  
+                model_selection 
+                                 train_test_split 
+                                 learning_curve
+                                 cross_val_score
+                                 validation_curve
+                                 train_test_split
+                                 KFold
+                metrics 
+                      mean_squared_error
+                      r2_score  
+                linear_model
+                           LinearRegression
+        skopt
+             BayesSearchCV
+        xgboost
+                XGBRegressor
+                plot_importance
+        statsmodels
+                   api         
+        statsmodels
+                   stats
+                          outliers_influence
+                                            variance_inflation_factor                  
+        joblib 
+    Fonksiyonlar 
+    remove_by_vif
+    plot_validation_curve
+    print 
+    range 
+
+    for 
+    in 
+
+    if 
+    else 
+    elif 
+
+    return
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
