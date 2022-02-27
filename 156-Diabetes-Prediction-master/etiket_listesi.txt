@@ -1,0 +1,76 @@
+Python 
+        numpy 
+        pandas
+              read_csv
+              series
+              tools
+                   plotting 
+                            scatter_matrix   
+        flask
+            Flask
+            request
+            jsonify
+            render_template
+        pickle 
+             load
+             dump
+        sklearn 
+                preprocessing 
+                            MinMaxScaler     
+                                       fit_transform  
+                model_selection
+                              train_test_split 
+                svm 
+                   SVC 
+                linear_model
+                            LogisticRegression
+                metrics 
+                        accuracy_score
+                        confusion_matrix
+                        classification_report
+                neighbors 
+                         KNeighborsClassifier 
+                naive_bayes 
+                           GaussianNB
+                tree    
+                   DecisionTreeClassifier
+                ensemble 
+                       RandomForestClassifier                                                                          
+        seaborn 
+               countplot
+               pairplot 
+               heatmap 
+        matplotlib 
+                 pyplot 
+                        subplots 
+                        title 
+                        show 
+                        xticks 
+                        xlabel
+                        ylabel
+                        grid 
+        warnings 
+                filterwarnings  
+        itertools                  
+
+HTML 
+CSS     
+   
+    Fonksiyonlar 
+    print 
+    open 
+    predict
+
+    for 
+    in 
+
+    if 
+    else 
+    elif 
+
+    return 
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
