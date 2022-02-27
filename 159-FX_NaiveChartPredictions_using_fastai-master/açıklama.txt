@@ -1,0 +1,1 @@
+Son teknoloji görüntü tanıma algoritmaları kullanılarak yapılan FX ticareti için uzun/kısa pozisyon tahminleri

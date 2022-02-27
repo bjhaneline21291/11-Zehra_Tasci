@@ -1,0 +1,66 @@
+Python 
+        fastai
+                imports 
+                           *
+                transforms 
+                           *           
+                conv_learner 
+                             *
+                model
+                      *
+                sgdr 
+                    *
+                plots 
+                        *
+        matplotlib 
+                    pyplot 
+                            style 
+                                    use 
+                            imread
+                            imshow 
+                            figure          
+        torch 
+                cuda
+                     is_available 
+                     device_count 
+                     current_device
+                     set_device
+                backends
+                        cudnn
+                               enabled 
+        os
+          listdir    
+        numpy 
+             random 
+                    choice 
+             where
+             stack
+             array 
+             mean   
+        pandas 
+                DataFrame 
+                date_range 
+                option_concext
+        oandapy  
+        copy 
+           deepcopy  
+        ipywidgets 
+                  FloatProgress
+        IPython
+                 display
+                          display 
+    Fonksiyonlar 
+
+    for 
+    in 
+
+    if 
+    elif 
+    else 
+
+    print  
+    display_all
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.                                                                                                                                                     
