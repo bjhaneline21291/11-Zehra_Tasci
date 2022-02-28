@@ -1,0 +1,1 @@
+Bu, Hastalarda Diyabet varlığını tahmin eden bir Makine Öğrenimi modelidir.

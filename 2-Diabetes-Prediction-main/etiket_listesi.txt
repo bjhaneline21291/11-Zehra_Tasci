@@ -1,0 +1,37 @@
+Python 
+    pandas 
+         read_csv 
+    numpy 
+    matplotlib
+            pyplot 
+                   plot 
+                   ylabel
+                   xlabel
+                   legend 
+    seaborn
+            countplot  
+    warnings 
+            filterwarnings         
+    sklearn 
+            model_selection 
+                            train_test_split 
+            preprocessing 
+                          StandardScaler
+                                       fit_transform
+            neural_network 
+                            MLPClassifier              
+            neighbors 
+                     KNeighborsClassifier
+    Fonksiyonlar 
+    print 
+    range 
+
+    for 
+    in                     
+
+    
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
