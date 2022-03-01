@@ -1,0 +1,41 @@
+Python 
+        pyspark
+               sql 
+                  SparkSession
+                  Row 
+                  types
+                       *
+        h5py
+        io
+        time 
+        matplotlib
+                   pyplot
+                          ylim
+                          title
+                          legend 
+                          show 
+    Fonksiyonlar
+    song_str 
+    ask_for_song
+    ask_for_margins
+    same_artist
+    similar_tempo
+    similar_loudness
+    similar_hotness
+    similar_danceability
+    similar_model1
+    list_bin_to_str
+    print 
+
+    for 
+    in 
+
+    if 
+    else 
+
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+
