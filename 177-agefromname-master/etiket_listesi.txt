@@ -1,0 +1,61 @@
+Python 
+    unittest
+            TestCase
+    pandas
+    agefromname
+                age_from_name 
+                             AgeFromName
+                             InvalidSexException 
+                generation_from_name 
+                                    GenerationFromName
+                                    InvalidGenerationBirthYearDefinition             
+    collections 
+               Counter 
+    os 
+    datetime 
+           datetime
+    numpy 
+    statsmodels
+              stats 
+                    proportion
+                             proportion_confint      
+    urllib 
+           request 
+                  urlopen
+    zipfile
+           ZipFile 
+    bs4 
+         BeautifulSoup                                                    
+               
+    Fonksiyonlar
+    test_get_argmax
+    test_get_all_name_female_prob
+    test_get_all_name_male_prob
+    test_get_argmax_default
+    test_argmax_not_current_year
+    test_get_estimated_distribution
+    test_get_estimated_counts
+    _decade_mortality_table
+    regenerate_birth_counts
+    regenerate_decade_mortality_table
+    print 
+
+    if 
+    else 
+
+    for 
+    in 
+
+    return 
+
+    
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+
+
+
+
