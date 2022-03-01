@@ -1,0 +1,38 @@
+Python 
+        pandas 
+               read_csv 
+        sklearn
+                neural_network
+                                MLPClassifier
+                svm 
+                     LinearSVC
+                linear_model
+                            LogisticRegression
+                ensemble
+                         RandomForestClassifier      
+        os 
+          environ 
+                 setdefault
+        sys 
+        yaml
+            load_all                                                
+    Fonksiyonlar 
+    createDict   
+    oneHotEncode 
+    prediction  
+    predictWinner   
+    buildModel
+    getPrediction 
+    setAverage
+    print 
+
+    if 
+    else 
+
+    for 
+    in 
+    
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
