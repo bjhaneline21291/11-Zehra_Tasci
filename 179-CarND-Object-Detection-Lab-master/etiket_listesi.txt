@@ -1,0 +1,67 @@
+Python 
+    tensorflow 
+            layers 
+                    conv2d
+                    batch_normalization 
+            nn 
+              relu  
+            Session         
+            constant  
+            variable_scope
+    numpy
+        prod
+        expand_dims
+        squeeze
+        zeros 
+        random
+               randn
+    matplotlib 
+            pyplot
+                  style
+                       use 
+                  figure 
+                  imshow 
+                  title
+                  ylabel
+
+    PIL 
+        Image
+        ImageDraw
+        ImageColor
+                  colormap
+    time 
+        time
+    scipy
+         stats
+              norm    
+    moviepy
+           editor  
+                VideoFileClip
+    Ipython
+          display 
+                HTML                               
+    
+YAML 
+    
+    
+    Fonksiyonlar
+    vanilla_conv_block 
+    mobilenet_conv_block
+    filter_boxes
+    to_image_coords
+    draw_boxes
+    load_graph
+    time_detection
+    print 
+
+    for 
+    in 
+
+    if 
+
+    return 
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
