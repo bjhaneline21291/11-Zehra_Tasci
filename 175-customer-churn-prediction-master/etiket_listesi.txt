@@ -1,0 +1,35 @@
+Python 
+    pandas
+          set_option
+          read_csv
+          concat 
+    numpy
+    matplotlib 
+             pyplot 
+                    matshow 
+                    xlabel
+    sklearn 
+            preprocessing 
+                          StandardScaler 
+            model_selection 
+                           train_test_split 
+            feature_selection
+                            SelectFromModel 
+            ensemble
+                    RandomForestClassifier
+            linear_model
+                         LogisticRegression
+    Fonksiyonlar 
+    print    
+    changeColumnsToString  
+
+    if 
+    else 
+
+    for 
+    in 
+
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.                                                                   

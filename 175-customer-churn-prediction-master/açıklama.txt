@@ -1,0 +1,1 @@
+Telekom şirketinin müşteri kaybını tahmin etmek için makine öğrenimi uygulaması
