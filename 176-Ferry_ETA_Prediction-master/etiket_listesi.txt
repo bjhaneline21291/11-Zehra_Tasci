@@ -1,0 +1,79 @@
+Python 
+    json 
+    pandas
+          DataFrame
+          to_datetime
+    os
+      chidir 
+    glob
+        glob
+    time
+        time  
+    numpy
+        corrcoef
+    datetime 
+            datetime
+    sklearn 
+           linear_model
+                      LinearRegression  
+           ensemble 
+                   RandomForestRegressor
+           neighbors 
+                    KNeighborsRegressor
+           metrics 
+                  mean_absolute_error
+                  mean_squared_error
+                  explained_variance_score
+                  r2_score
+           feature_selection 
+                            SelectFromModel
+                                            get_support
+                                            transform
+           preprocessing                         
+    scipy 
+         stats 
+               mode               
+
+    matplotlib 
+            pyplot 
+                  figure 
+                  subplots_adjust
+                  gca 
+                  title
+                  xlabel
+                  ylabel
+                  plot 
+                  legend 
+                  grid
+                  axvline  
+            ticker 
+            patches 
+                   Rectangle 
+    Fonksiyonlar
+    MergeFiles
+    CleanOrigData
+    RemoveProblemTrips
+    CreateFerryData
+    readData
+    readData_ForMultiFiles
+    runRegression
+    GenerateSubPlot
+    GenerateScorePlot
+    print 
+
+    if 
+    else 
+    elif 
+
+    for 
+    in 
+
+    
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+
+
+
