@@ -1,0 +1,2 @@
+
+Bu makalenin amacı, geleneksel makine öğrenimi (ML) regresyon algoritmalarının daha fazla analizinin yanı sıra, internet arama sorgularını borsa tahminlerine uygulama konusundaki son fenomenleri araştırmaktır.

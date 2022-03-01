@@ -1,0 +1,58 @@
+Python 
+    yfinance 
+    pandas
+    numpy
+         sum 
+    matplotlib
+                pyplot
+    os 
+    glob 
+    pytrends
+            request 
+                       TrendReq   
+            dailydata
+    datetime 
+           datetime   
+    collections 
+              OrderedDict
+    spacy
+         lang
+               en
+                   stop_words
+                              STOP_WORDS
+         load 
+            Defaults
+                     stop_words                     
+    wikipedia  
+              search         
+              page              
+
+
+HTML 
+
+    
+    
+    Fonksiyonlar 
+    check_trends 
+    __init__
+    set_stopwords
+    sentence_segment
+    get_vocab
+    get_token_pairs
+    symmetrize
+    get_matrix
+    print 
+
+    if 
+    else 
+
+    for 
+    in 
+
+    return 
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
