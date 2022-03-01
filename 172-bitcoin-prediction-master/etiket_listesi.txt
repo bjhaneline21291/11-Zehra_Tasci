@@ -1,0 +1,33 @@
+Python 
+        pandas
+               read_csv
+               date_range
+               DataFrame
+        time 
+        seaborn
+                set_style  
+        matplotlib 
+                    pyplot 
+                            legend 
+        datetime
+                datetime
+                timedelta
+        numpy 
+               sqrt 
+        sklearn 
+                preprocessing 
+                model_selection
+                                train_test_split
+                ensemble
+                         RandomForestClassifier
+                metrics     
+                         mean_absolute_error     
+    Fonksiyonlar 
+    print 
+
+    
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

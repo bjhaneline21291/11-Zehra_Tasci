@@ -1,0 +1,1 @@
+Bitcoin fiyatlarını tahmin etmek için rastgele bir orman modeli geliştirin
