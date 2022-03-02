@@ -1,0 +1,38 @@
+R 
+    UsingR
+    sampling
+    stringr
+    tidyverse
+    stats
+    prob
+    dtplyr
+    dbplyr
+
+    Fonksiyonlar 
+    as.numeric 
+    which 
+    is.na
+    data.frame 
+    round 
+    paste 
+    barplot
+    hist 
+    as.vector
+    sum
+    head 
+    rbind
+    margin.table
+    mosaicplot
+    sample 
+    mean
+    renameCity
+
+HTML 
+
+
+
+
+
+
+
+
