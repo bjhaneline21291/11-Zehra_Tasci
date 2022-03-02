@@ -1,0 +1,74 @@
+Python 
+    flask
+        Flask
+        render_template
+        request
+        jsonify
+    tensorflow
+            Session 
+            python 
+                    plartform 
+                               gfile
+                                   Exists
+                                   GFile 
+            get_variable
+            reshape
+            nn
+               sampled_softmax_loss
+    execute
+    _future_
+            absolute_import 
+            division
+            print_function 
+    os 
+       path 
+            join 
+    re 
+       compile
+       sub  
+    six
+        moves 
+               urllib 
+               xrange 
+    time 
+    numpy 
+        random
+                random_sample 
+                choice 
+    data_utils
+               initialize_vocabulary
+    seq2seq_model
+
+
+
+    Fonksiyonlar
+    reply
+    index
+    basic_tokenizer
+    create_vocabulary
+    initialize_vocabulary
+    sentence_to_token_ids
+    data_to_token_ids
+    prepare_custom_data
+    init_session
+    decode_line
+    seq2seq_f
+
+    if
+    else 
+
+    for 
+    in 
+
+    return 
+
+CSS
+
+JQUERY
+
+HTML 
+
+
+
+
+     
