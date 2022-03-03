@@ -1,0 +1,1 @@
+PyTorch'ta LSTM'leri kullanarak Rüzgar Hızı Tahmini
