@@ -1,0 +1,114 @@
+Python 
+    os 
+      listdir 
+      remove 
+      path 
+          join
+          dirname 
+    re 
+    pandas 
+         read_csv 
+    datetime 
+    numpy 
+        asarray
+        set_printoptions
+        zeros 
+        set_printoptions
+    itertools 
+             groupby
+    skimage 
+           measure 
+           data 
+               imread 
+    random 
+         choice            
+    PIL 
+       Image  
+    pycocotools
+                   mask  
+    json 
+    fnmatch  
+    pycococreatortools 
+                        pycococreatortools              
+    matplotlib
+                pyplot 
+                         imshow 
+                         show 
+                         axis 
+    warnings 
+            filterwarnings 
+    pycocotools
+                coco 
+                    COCO 
+                           loadCats
+                           getCatIds
+    pylab
+        rcParams 
+    detectron
+            utils
+                    collections 
+                                AttrDict 
+                    io    
+                       cache_url
+                    logging 
+                          setup_logging
+                    timer 
+                          Timer 
+                    c2 
+                      import_detectron_ops
+                      ocl
+                        setUseOpenCL
+                    vis                          
+            core
+                  config 
+                            assert_and_infer_cfg   
+                            cfg 
+                            merge_cfg_from_file  
+                   test_engine   
+            datasets
+                       dummy_datasets                             
+    collections 
+                defaultdict  
+    argparse 
+    cv2 
+    glob 
+    logging 
+    sys 
+    time 
+    pycocotools
+              mask 
+    caffe2
+            python 
+                    workspace                                                                                                       
+    _future_
+            absolute_import
+            division
+            print_function
+            unicode_literals
+    
+    Fonksiyonlar 
+    resize_binary_mask       
+    close_contour      
+    binary_mask_to_rle
+    create_image_info
+    create_annotation_info
+    get_coco_dataset
+    print 
+    open
+    parse_args 
+    __init__
+    extract_result
+    convert_from_cls_format
+
+    if 
+    else 
+
+    for 
+    in 
+
+    return 
+
+YAML 
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
