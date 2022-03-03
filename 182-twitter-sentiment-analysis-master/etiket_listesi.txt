@@ -1,0 +1,160 @@
+Python 
+        re 
+          sub 
+        string 
+        
+        nltk
+            corpus 
+                  stopwords 
+                        words
+            stem
+                PorterStemmer 
+            tokenize
+                    TweetTokenizer    
+                                texts_to_sequences       
+        numpy
+            mean 
+            std 
+            array 
+
+        pandas 
+             read_csv 
+             concat
+             DataFrame  
+        matplotlib
+                pyplot 
+                    subplots 
+                    savefig
+                    show 
+                    xlabel
+                    ylabel
+                    title 
+                    figure 
+                    legend 
+        sklearn 
+                naive_bayes 
+                            MultinomialNB
+                feature_extraction 
+                                text 
+                                    CountVectorizer
+                                     TfidfVectorizer
+                                     HashingVectorizer
+                model_selection 
+                               learning_curve
+                               StratifiedKFold
+                               train_test_split
+                               learning_curve
+                svm 
+                   SVC 
+                ensemble              
+                       RandomForestClassifier
+                linear_model
+                            LogisticRegression
+                            SGDClassifier      
+                metrics 
+                      classification_report
+                      f1_score
+                      confusion_matrix                   
+        warnings 
+                filterwarnings 
+        seaborn 
+              set 
+              catplot 
+              barplot 
+              displot 
+        plotly
+              graph_objs
+        wordcloud
+                  WordCloud
+        lightgbm 
+                  LGBMClassifier
+                  predict 
+        gensim
+               downloader
+        config 
+        preprocessing       
+        
+        tensorflow
+                    keras 
+                            models 
+                                    Model 
+                                    load_model
+                            callbacks 
+                                      Earlystopping 
+                            preprocessing 
+                                        text 
+                                            Tokinzer 
+                                        sequence 
+                                                 pad_sequences
+                                        layers 
+                                               Dense
+                                               Input
+                                               LSTM
+                                               Embedding
+                                               Dropout
+                                               Activation
+                                               Bidirectional 
+                            initializers
+                            regularizers
+                            constraints
+                            optimizers
+                            Sequential
+                                       add 
+                                       compile 
+                            backend
+                                   sum 
+                                   round                
+        os 
+           environ
+           path
+               exists
+           makedirs      
+        
+        pickle
+             dump
+             load  
+        features
+        data_cleaning 
+                       relabel_target
+        gradio
+        
+        src 
+           config
+           preprocessing       
+                       clean_tweet        
+                                                                                                                                            
+    
+    
+    Fonksiyonlar 
+    
+    plot_learning_curve
+    process_tweet 
+    get_word2vec_enc
+    my_LSTM
+    predict_test
+    open 
+    predict
+    print 
+    enumerate
+    stratified_kfold
+    target_relabel
+    clean_tweet
+    range 
+
+    if 
+    else 
+
+    for 
+    in 
+
+    return 
+    
+
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
+
+
