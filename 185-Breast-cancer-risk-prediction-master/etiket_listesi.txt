@@ -1,0 +1,93 @@
+Python 
+        numpy
+             average 
+        pandas 
+              read_csv 
+        matplotlib 
+                  pyplot 
+                         rcParams 
+                         title
+                         subplots
+                         plot 
+                         xlim
+                         ylim
+                         xlabel
+                         ylabel
+                         axes
+                         xticks
+                         yticks  
+                         style 
+                              use 
+                  colors 
+                      ListedColormap
+        scipy 
+             stats
+                   norm 
+        seaborn 
+                set_style 
+                diverging_palette 
+                heatmap 
+                PairGrid  
+        sklearn 
+                preprocessing 
+                            LabelEncoder  
+                            StandardScaler
+
+                model_selection 
+                                train_test_split
+                                cross_val_score 
+                                GridSearchCV  
+                decomposition 
+                              PCA     
+                                 fits  
+                svm 
+                   SCV   
+                metrics 
+                       confusion_matrix   
+                       classification_report
+                       roc_curve
+                       auc
+                feature_selection 
+                                SelectKBest
+                                f_regression    
+                pipeline
+                          make_pipeline  
+                feature_selection
+                                  SelectKBest
+                                  f_regression    
+                decomposition
+                                PCA       
+                                     fit 
+                                     transform 
+                cross_validation 
+                                cross_val_score
+                                KFold                     
+                datasets
+                linear_model 
+                                LogisticRegression   
+                tree 
+                      DecisionTreeClassifier    
+                neighbors
+                        KNeighborsClassifier  
+                discriminant_analysis
+                                    LinearDiscriminantAnalysis    
+                naive_bayes 
+                            GaussianNB                                                                                              
+        IPython
+                display 
+                          Image
+                          display                       
+    Fonksiyonlar
+    decision_plot
+    enumerate 
+
+    for 
+    in 
+
+    if 
+
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
