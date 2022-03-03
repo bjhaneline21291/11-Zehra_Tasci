@@ -1,0 +1,59 @@
+Python 
+    os 
+      path 
+           dirname 
+           realpath
+    numpy
+        array 
+        random
+               seed   
+        arange 
+        reshape
+        asscalar             
+    pandas
+           read_csv 
+    matplotlib 
+                pyplot 
+                         plot 
+                         legend 
+                         xlabel 
+                         ylabel 
+                         show 
+    math 
+        sqrt 
+    sklearn 
+        preprocessing 
+                        MinMxScaler 
+        metrics 
+                mean_squared_error
+
+    tensorflow 
+                keras 
+                    models 
+                           Sequential
+                           load_model
+                    layers 
+                            Dense 
+                            Activation 
+                            LSTM 
+    preprocessing 
+    config 
+          DATA_PATH 
+    seaborn 
+           set 
+           relplot 
+
+    Fonksiyonlar 
+    create_dataset
+    print 
+
+    for 
+    in 
+
+    if 
+    else 
+    elif
+
+    return 
+    
+

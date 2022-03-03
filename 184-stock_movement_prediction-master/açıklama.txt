@@ -1,0 +1,1 @@
+TensorFlow ve Keras kullanarak Gelecekteki Hisse Senedi Fiyat Hareketi için Tahmin Modeli
