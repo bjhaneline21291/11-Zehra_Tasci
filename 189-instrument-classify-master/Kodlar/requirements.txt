@@ -1,0 +1,8 @@
+csv
+ffmpeg
+matplotlib
+numpy
+pandas
+pydub
+scipy
+soundfile

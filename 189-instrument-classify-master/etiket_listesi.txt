@@ -1,0 +1,59 @@
+Python
+    cv2 
+    matplotlib 
+            pyplot 
+                title
+                xlabel
+                xticks 
+                legend 
+                savefig 
+                show
+                figure 
+                xlim 
+                xscale
+                grid 
+                plot
+                close   
+    numpy 
+    os 
+       path 
+            isfile
+            join  
+    pandas 
+        DataFrame 
+    collections 
+            defaultdict
+    scipy
+        fft
+           fft
+           fftfreg
+        io 
+          wavfile
+        signal 
+             find_peaks    
+    analyzedata
+              analyze_all_peaks
+    clean 
+         clean_all
+    towav 
+        all_to_wav 
+    pydub 
+        AudioSegment
+                    from_file
+    soundfile 
+
+    Fonksiyonlar 
+    analyze_peaks
+    compute_fft
+    compute_all_ffts
+    mp3_to_wav
+
+    for 
+    in 
+
+    if 
+    else 
+
+    return 
+    
+
