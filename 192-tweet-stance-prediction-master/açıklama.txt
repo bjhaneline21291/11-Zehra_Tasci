@@ -1,0 +1,1 @@
+Bir konuya yönelik Tweet duruşunu tahmin etmek için NLP aktarımı öğrenme tekniklerini uygulamak

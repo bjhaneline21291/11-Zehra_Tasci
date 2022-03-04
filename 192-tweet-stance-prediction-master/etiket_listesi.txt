@@ -1,0 +1,93 @@
+Python 
+    numpy
+    pandas 
+          read_csv 
+          set_option
+    wordcloud 
+              WordCloud
+                      to_file 
+              STOPWORDS
+    pathlib 
+            Path    
+    matplotlib 
+              pyplot 
+                      imshow 
+                      axis
+                      show 
+                      figure 
+    os 
+    json 
+    sklearn 
+            metrics 
+                      accuracy_score 
+            utils
+                shuffle 
+            model_selection
+                            train_test_split               
+    datasets
+             _rocstories   
+    cvs 
+    tqdm
+        tqdm
+    torch   
+        nn 
+           functional 
+           parameter 
+           utils 
+                clip_grad_norm_
+        optim 
+             Optimizer          
+    copy 
+    re 
+    collections
+    sys 
+    ftfy 
+    time
+    fastai 
+           *
+           text 
+               * 
+    functools 
+                partial 
+    spacy 
+    model_pytorch 
+                  DoubleHeadModel
+                load_openai_pretrained_model 
+    opt 
+          OpenAIAdam     
+    text_utils 
+            TextEncoder     
+    utils 
+             encode_dataset
+             iter_data
+             ResultLogger make_path    
+    loss 
+          ClassificationLossCompute
+          MultipleChoiceLossCompute                     
+
+
+    Fonksiyonlar 
+    clean_ascii
+    stance
+    __init__
+    forward
+    split_heads
+    merge_heads
+    load_openai_pretrained_model
+    output_predictions
+    print 
+
+    if 
+    else
+
+    for 
+    in 
+
+    return 
+
+   
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.  
+
+
