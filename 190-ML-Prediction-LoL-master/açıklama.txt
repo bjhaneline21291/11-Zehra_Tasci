@@ -1,0 +1,1 @@
+Bu projede, bir League of Legends oyununun sonucunu tahmin etmek için iki makine öğrenimi algoritması uyguladım.

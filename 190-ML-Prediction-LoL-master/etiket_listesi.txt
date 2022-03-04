@@ -1,0 +1,117 @@
+Python 
+    
+    bs4 
+        BeautifulSoup
+    
+    requests
+              request
+              get  
+    
+    json 
+        dump 
+    
+    time 
+        sleep
+        time
+    
+    sys     
+        stdout
+                    write
+                    flush
+    
+    csv
+    
+    joblib 
+         dump
+    
+    pymongo
+        MongoClient  
+    
+    numpy 
+    
+    scipy
+        stats 
+    
+    os 
+        getevn
+    
+    dotenv 
+            load_dotenv
+    
+    riotwatcher
+                LolWatcher   
+    
+    api_calls 
+                get_winrates
+                get_past_matches
+                get_masteries  
+    
+    dotenv 
+            load_dotenv 
+    
+    streamlit 
+            header 
+            subheader 
+            markdown 
+            write
+    
+    predict  
+            get_current_match_prediction
+            get_last_match_prediction   
+    
+    pandas 
+        read_csv 
+        concat 
+    
+    sklearn 
+            ensemble        
+                    GradientBoostingClassifier
+            model_selection  
+                        StratifiedKFold
+            metrics   
+                    accuracy_score
+                    confusion_matrix
+                    classification_report
+    
+    tensorflow 
+                keras    
+                    initializers 
+                                HeNormal   
+                models 
+                        Sequential  
+                layers 
+                            Dense
+                            Dropout
+                            BatchNormalization     
+    
+    matplotlib 
+            pyplot 
+                   subplot
+                   title 
+                   plot 
+                   legend 
+                   show                                                    
+                                                                                                 
+    Fonksiyonlar 
+    get_masteries
+    get_winrates
+    get_live_match
+    add_stats
+    process_mongo_data
+    get_randoms_summoners
+    get_all_masteries
+    print 
+
+    if 
+    else 
+
+    for 
+    in 
+
+    return 
+
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
