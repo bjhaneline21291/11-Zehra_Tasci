@@ -1,0 +1,125 @@
+Python 
+        
+        joblib 
+                    load 
+                          shape 
+        
+        sklearn 
+                model_selection
+                                train_test_split 
+                preprocessing 
+                                OneHotEncoder
+                                OrdinalEncoder
+                                StandardScaler
+                                FunctionTransformer 
+                pipeline 
+                         Pipeline 
+                compose 
+                        ColumnTransformer
+                        make_column_selector   
+                impute   
+                        SimpleImputer                
+        
+        statistics 
+                    mean
+        
+        sklearn_pandas
+                        DataFrameMapper  
+        
+        tensorflow 
+                    keras
+                           Sequential 
+                                     add 
+                           Input 
+                           layers 
+                                    Dense 
+                                    Dropout 
+                           models 
+                                 load_model         
+                    random
+                            set_seed                
+        
+        pandas 
+              read_csv 
+              read_excel
+              isna  
+              DataFrame 
+              option_context
+              api 
+                  types 
+                        CategoricalDtype
+        
+        numpy 
+              where 
+              random
+                     seed 
+       
+        matplotlib 
+                  pyplot 
+                         axis 
+                         title 
+                         show 
+        
+        seaborn  
+               kdeplot 
+        
+        re 
+           search 
+        
+        datetime 
+                datetime
+                date 
+        
+        spacy 
+        
+        pathlib 
+                Path  
+        
+        tqdm 
+             tqdm 
+        
+        dill      
+            dump_session
+            load_session      
+        
+        flask 
+                Flask
+                Request
+                request
+                render_template  
+        
+        werkzeug
+                datastructures
+                                   ImmutableOrderedMultiDict                      
+                                                                 
+    
+    Fonksiyonlar 
+    
+    run_pipeline 
+    replace_list_value
+    clean_desc
+    generate_cat_encoder
+    on_train_end
+    run_pipeline
+    plot_loss_metrics
+    loan_risk_predict
+    print
+    predict
+    invert  
+     
+    if
+    else 
+    elif 
+
+    for 
+    in 
+
+    return 
+
+    except  
+
+HTML 
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
