@@ -1,0 +1,49 @@
+\documentclass[border=5mm]{standalone}
+\usepackage{pgfplots}
+
+\begin{document}
+\makeatletter
+\pgfplotstableread{ % Taken from the python implementation found in the notebook
+0 46.01	46.26	42.20	42.65
+1 80.73	79.11	81.07	81.18
+2 93.70	93.83	94.57	94.90
+3 94.26	94.47	95.76	96.57
+}\dataset
+\begin{tikzpicture}
+\begin{axis}[ybar,
+        width=13cm,
+        height=8cm,
+        ymin=40,
+        ymax=100,
+        enlarge y limits=0.15,
+        xtick=data,
+        xticklabels = {
+      	    2,
+            5,
+            10,
+            50
+        },
+	      xlabel={Tree Depth},
+	      ylabel={Accuracy \%},
+        major x tick style = {opacity=0},
+        minor x tick num = 1,
+        minor tick length=2ex,
+        nodes near coords,
+        point meta=y,
+        every node near coord/.append style={
+                anchor=west,
+                rotate=90,
+        },
+        legend style={at={(0.5,-0.20)},
+            anchor=north,legend columns=-1},
+        axis lines*=left,
+        clip=false,
+        ]
+        \legend{S, M, L, XL},
+\addplot[draw=black,fill=blue] table[x index=0,y index=1] \dataset; %Data1
+\addplot[draw=black,fill=red] table[x index=0,y index=2] \dataset; %Data2
+\addplot[draw=black,fill=green!80!black] table[x index=0,y index=3] \dataset; %Data3
+\addplot[draw=black,fill=orange] table[x index=0,y index=4] \dataset; %Data4
+\end{axis}
+\end{tikzpicture}
+\end{document}
