@@ -1,0 +1,48 @@
+Python 
+        util
+              bagOfWords
+        sklearn 
+                dataset
+                       load_files 
+                metrics
+                cross_validation
+                svm 
+                naive_bayes
+                feature_extraction
+                                text 
+                                     TfidfTransformer
+                neighbors
+                        KNeighborsClassifier
+        colorama 
+                init
+        termcolor
+                 colored 
+        sys
+           stdin 
+                  readline  
+        os
+          path 
+               exists
+               join 
+          makedirs
+          rename 
+          rmdir 
+                       
+        glob 
+           glob
+    FONKSİYONLAR 
+    main
+    main_test
+    remove_incompatible_files
+    test_classifier
+    split_test_classifier
+    KNN_parameter
+    plot_results
+
+    for 
+    in 
+
+    if 
+    else 
+
+    
