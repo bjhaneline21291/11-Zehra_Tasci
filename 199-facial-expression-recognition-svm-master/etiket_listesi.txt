@@ -1,0 +1,60 @@
+Python 
+    numpy 
+         matrix 
+    pandas 
+         read_csv 
+    os
+        makedirs 
+        path 
+              exists 
+    argparse
+            ArgumentParser 
+                        add_argument 
+    errno
+        EEXIST
+    scipy
+            misc
+    dlib
+    cv2
+    skimage
+            feature 
+                    hog 
+    parameters 
+               DATASET
+               HYPERPARAMS
+    time 
+        time
+    pprint 
+    hyperopt 
+            fmin
+            tpe
+            hp
+            STATUS_OK
+            Trials
+    sys 
+        version_info
+    pickle 
+    sklearn 
+            svm
+                  SVC 
+            metrics 
+                   accuracy_score     
+    data_loader 
+            load_data       
+    Fonksiyonlar 
+    print 
+    evaluate  
+    function_to_minimize    
+
+    if 
+    elif 
+    else
+
+    for 
+    in 
+
+    return 
+    
+                              
+
+

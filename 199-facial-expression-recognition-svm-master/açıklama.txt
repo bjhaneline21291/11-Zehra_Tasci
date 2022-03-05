@@ -1,0 +1,1 @@
+Fer2013 veri setinde insan ifadelerini (duygularını) tanımak için SVM sınıflandırıcı eğitimi
