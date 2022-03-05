@@ -1,0 +1,32 @@
+Python 
+        PIL 
+            Image 
+                  open 
+        numpy 
+            array
+        pickle 
+             dump 
+             load     
+    Fonksiyonlar 
+    __name__
+    round 
+    min
+    sorted 
+    range 
+    len    
+    normalizeDatabase
+    normalizeNot
+    normalizeBinary
+    openDatabase
+    print 
+
+    for 
+    in 
+
+    if 
+    else 
+
+    return 
+YAML 
+
+
