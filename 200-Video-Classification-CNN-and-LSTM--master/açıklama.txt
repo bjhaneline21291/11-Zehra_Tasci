@@ -1,0 +1,1 @@
+Arka uç olarak tensorflow ile keras kitaplığını kullanarak videoyu çeşitli sınıflara sınıflandırmak.

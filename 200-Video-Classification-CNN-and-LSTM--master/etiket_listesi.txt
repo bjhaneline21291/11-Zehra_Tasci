@@ -1,0 +1,53 @@
+Python 
+        numpy 
+              array 
+        os 
+          listdir
+        pandas 
+        cv2 
+           imwrite 
+        scipy
+               msic
+                     imread 
+                     imresize 
+        pickle 
+        tensorflow 
+                    keras 
+                            models 
+                                    Sequential
+                            layers 
+                                Dropout
+                                Flatten
+                                Dense 
+                                LSTM      
+                            applications 
+                                        vgg16
+                                             VGG16 
+                            optimizers 
+                                    SGD 
+                            preprocessing 
+                                          image 
+                                               ImageDataGenerator
+                            callbacks 
+                                      EarlyStopping
+                                      ModelCheckpoint                             
+        sklearn 
+                utils 
+                      shuffle 
+        glob
+            glob              
+
+    Fonksiyonlar
+    bring_data_from_directory 
+    load_VGG16_model
+    extract_features_and_store
+    test_on_whole_videos
+    print
+
+    if 
+    else 
+
+    for 
+    in 
+
+    return 
