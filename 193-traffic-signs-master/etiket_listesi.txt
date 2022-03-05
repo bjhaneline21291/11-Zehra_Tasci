@@ -1,0 +1,71 @@
+Python 
+    numpy
+        random
+               choice 
+    matplotlib
+            pyplot 
+                  bar 
+                  xlabel
+                  ylabel
+                  xlim
+                  show 
+                  legend 
+                  ylim
+                  yscale 
+            gridspec      
+    tensorflow 
+    pickle
+         dump
+    pandas 
+         io 
+            parsers 
+                    read_csv      
+    sys 
+    random 
+    time 
+        time 
+        strftime 
+    sklearn 
+           utils 
+                shuffle 
+           cross_validation 
+                            train_test_split 
+           model_selection 
+                          train_test_split                      
+    skimage
+           exposure
+           transform 
+                     rotate
+                     warp
+                     ProjectiveTransform 
+    warnings 
+    nolearn
+            lasagne 
+                    BatchIterator  
+    collections 
+             namedtuple 
+    os 
+    clouding 
+           Clouding  
+
+    Fonksiyonlar 
+    print
+    plot_image_statistics   
+    get_top_k_predictions      
+    get_accuracy_and_loss_in_batches   
+    train_model 
+    plot_learning_curves    
+    plot_curve  
+    fully_connected       
+    log_parameters         
+    _call__     
+    __init__
+
+    for 
+    in 
+
+    if 
+    else 
+    
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.                                  
