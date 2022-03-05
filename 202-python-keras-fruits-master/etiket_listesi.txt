@@ -1,0 +1,60 @@
+Python 
+        os
+        random
+        math 
+        pprint 
+            pprint
+        datetime 
+                datetime
+        numpy 
+                random 
+                        seed 
+                unique         
+        keras 
+                preprocessing
+                                image
+                                        ImageDataGenerator
+                Sequential 
+                layers
+                        Conv2D  
+                        BatchNormalization 
+                        Activation 
+                        SpatialDropout2D      
+                        MaxPooling2D 
+                        Flatten 
+                        Dense           
+        matplotlib 
+                pyplot 
+                        style 
+                                use  
+                        subplots 
+                        plot 
+                        xticks 
+                        title 
+                        ylabel
+                        xlabel
+                        legend 
+                        show 
+                lines 
+                    Line2D 
+                patches
+                        Rectangle 
+                        Circle
+    Fonksiyonlar
+    add_mapping
+    add_layer_with_omission
+    add_layer
+    build_model
+    get_subplot_grid
+    print 
+
+    for 
+    in 
+
+    if
+    else 
+
+    return 
+    
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
