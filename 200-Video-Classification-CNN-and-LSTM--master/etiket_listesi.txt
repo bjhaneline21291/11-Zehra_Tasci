@@ -37,6 +37,7 @@ Python
         glob
             glob              
 
+
     Fonksiyonlar
     bring_data_from_directory 
     load_VGG16_model
@@ -51,3 +52,6 @@ Python
     in 
 
     return 
+
+
+YAML 
