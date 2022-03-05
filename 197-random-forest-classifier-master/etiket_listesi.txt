@@ -1,0 +1,37 @@
+Python 
+        _future_
+                  division 
+        random
+        numpy
+              array 
+        scipy 
+            stats
+                mode 
+        utilities 
+                information_gain
+                entropy
+                shuffle_in_unison 
+        decisiontree
+                    DecisionTreeClassifier
+        collections 
+                    Counter            
+                          
+    Fonksiyonlar
+    __init__
+    predict
+    build_tree 
+    find_split
+    shuffle_in_unison
+    entropy
+    information_gain
+    print 
+
+    for 
+    in 
+
+    return 
+
+    while 
+
+    if 
+    else 
