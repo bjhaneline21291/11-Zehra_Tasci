@@ -1,0 +1,42 @@
+Python 
+        fastai
+                vision
+                        *
+                metrics 
+                        error_rate 
+        patlib
+            Path 
+        glob2 
+                glob
+        sklearn 
+                metrics
+                       confusion_matrix
+        pandas 
+               DataFrame
+        numpy 
+        os 
+            listdir
+            getcwd
+            path 
+                  join 
+        zipfile 
+        shutil 
+             move 
+        re 
+        seaborn 
+               heatmap 
+    Fonksiyonlar 
+    split_indices
+    get_names
+    move_files
+    print 
+
+    for 
+    in 
+
+    if 
+
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.

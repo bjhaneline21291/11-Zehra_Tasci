@@ -1,0 +1,1 @@
+Tek kullanımlık malzemeler için Python ile yazılmış bir görüntü sınıflandırıcı
