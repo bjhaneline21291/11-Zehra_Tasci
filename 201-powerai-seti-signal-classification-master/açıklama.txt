@@ -1,0 +1,1 @@
+Uzaydan gelen radyo sinyallerini sınıflandırmak için PowerAI ile TensorFlow ve evrişimli sinir ağlarını kullanın

@@ -1,0 +1,80 @@
+Python 
+        sys 
+            path
+                insert
+            stdout
+                    write  
+                    flush   
+        requests
+        json 
+        numpy 
+            argmax
+        matplotlib 
+                  pyplot 
+                        imshow
+                        rcParams
+        tensorflow 
+                placeholder
+                variable_scope
+                name_scope
+                summary
+                        scalar
+        pickle 
+        time 
+        os 
+            path 
+                exists
+                join  
+            makedirs 
+            stat     
+        sklearn 
+                metrics 
+                        confusion_matrix 
+        six 
+            moves 
+                    urllib 
+                              request
+                                         urlretrieve
+        tarfile
+        PIL 
+            Image 
+        math 
+            ceil 
+        datetime 
+        SETI
+            read_data_sets
+                        train
+                            images
+                                    shape 
+        utils1 
+                tile_raster_images  
+        zipfile 
+        collections 
+                    defaultdict   
+        io 
+            StringIO 
+        ibmseti 
+            compamp
+                    SimCompamp
+        array 
+            array 
+    Fonksiyonlar 
+    maybe_download_and_extract
+    _progress
+    evaluate
+    print 
+
+    if 
+    else 
+
+    for 
+    in 
+
+    return 
+    
+
+
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
+
