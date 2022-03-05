@@ -1,0 +1,36 @@
+Python 
+        os
+            path 
+                exists 
+        shutil
+                rmtree
+        pandas
+            read_csv 
+        numpy 
+        tensorflow
+                contrib
+                        layers
+                                real_valued_column 
+                                DNNClassifier
+                logging
+                        set_verbosity                
+        sklearn 
+                model_selection 
+                                train_test_split 
+        urllib
+                request
+                        urlopen 
+    Fonksiyonlar 
+    clean_run
+    download_data
+    replace_classification_labels
+    load_tensor_data
+    get_inputs
+    construct_net
+    fit_model
+
+    for 
+    in 
+
+    if 
+    else 
