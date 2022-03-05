@@ -1,0 +1,44 @@
+Python 
+        os 
+            getcwd
+        argparse 
+               ArgumentParser
+                            add_argument 
+        sklearn 
+               externals 
+                       joblib
+               model_selection 
+                             train_test_split         
+        numpy
+        matplotlib
+                   pyplot 
+        scipy 
+             msic 
+             ndimage 
+        utils 
+               resize
+               validate
+               path_validation
+               h
+               sigmoid
+               model_score
+        config 
+               MODEL_PATH
+               WIDTH
+               HEIGHT
+               RADIUS    
+        _future_
+                 print_function                                
+    Fonksiyonlar
+    predict_preprocess 
+    main
+    data_preprocess
+    print 
+
+    for 
+    in 
+
+    if 
+    else 
+
+    return 
