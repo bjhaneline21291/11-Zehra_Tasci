@@ -1,0 +1,44 @@
+Python 
+        sklearn 
+                datasets 
+                        fetch_20newsgroups
+                        fetch_mldata
+                feature_extraction
+                                text 
+                                        CountVectorizer 
+                                                        fit_transform
+                naive_bayes
+                            MultinomialNB     
+                pipeline 
+                        Pipeline 
+                linear_model 
+                            SGDClassifier           
+                feature_extraction
+                                text 
+                                    TfidfTransformer  
+                                    CountVectorizer
+                metrics                                                                                 
+        numpy 
+             mean 
+        matplotlib 
+                    pyplot 
+                             imshow 
+                             show 
+        random                                  
+    Fonksiyonlar 
+    print 
+    range 
+    len   
+
+    if 
+    else 
+    elif 
+
+    for 
+    in 
+
+    return 
+    
+
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.  

@@ -1,0 +1,1 @@
+sklearn ve 20 haber grubu veri seti kullanılarak saf bayes metin sınıflandırmasını gösteren python not defteri.
