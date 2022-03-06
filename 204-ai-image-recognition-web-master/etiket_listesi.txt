@@ -1,0 +1,55 @@
+Python 
+    requests
+            post 
+            file 
+    keras 
+        application 
+                    ResNet50
+                    imagenet_utils
+        preprocessing 
+                    image 
+                        img_to_array
+    PIL 
+        Image 
+                open 
+    flask
+         Flask
+         render_template
+         request
+         jsonify
+         send_from_directory  
+         config   
+    io 
+    werkzeug 
+    datetime
+    numpy 
+         expand_dims 
+    os
+        path 
+            dirname 
+            realpath  
+            exists 
+            join 
+        makedirs 
+        environ 
+                get 
+    Fonksiyonlar 
+    create_new_folder
+    allowed_file
+    load_model 
+    prepare_image
+    print 
+
+    for 
+    in 
+
+    if 
+    else 
+
+    return 
+
+
+CSS 
+HTML     
+
+                                             
