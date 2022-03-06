@@ -1,0 +1,12 @@
+asteroids
+mercury
+venus
+moon
+neptune
+spiral
+saturn
+jupiter
+elliptical
+earth
+uranus
+mars

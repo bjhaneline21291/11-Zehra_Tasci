@@ -1,0 +1,7 @@
+pyyaml
+tensorflow-cpu==2.5.3
+wikipedia
+flask
+flask-wtf
+Pillow
+gunicorn
