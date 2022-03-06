@@ -1,0 +1,43 @@
+Python 
+        os
+        keras 
+            backend 
+            models
+                   model_from_json 
+        numpy 
+            array
+            copy
+            squeeze 
+        pandas 
+              DataFrame 
+        pylab
+        matplotlib 
+                cm 
+        math 
+        scipy 
+            misc
+            stats
+                  pearsonr  
+        util   
+        sklearn 
+                metrics 
+                      accuracy_score
+                      precision_score
+                      recall_score 
+        mpl_toolkits
+                    axes_grid1 
+                            make_axes_locatable                  
+    Fonksiyonlar
+    img_data_generator 
+    generate_predictions
+    show_filter_responses
+    print 
+
+    if 
+    else 
+
+    for 
+    in 
+
+    return 
+    while 
