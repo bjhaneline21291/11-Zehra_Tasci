@@ -1,0 +1,65 @@
+Python 
+        pickle 
+             load 
+        numpy
+             float32
+        cv2 
+            normalize
+            getAffineTransform
+            warpAffine
+        csv
+           reader  
+        random
+        sklearn 
+                model_selection
+                                train_test_split 
+                utils 
+                      shuffle 
+        matplotlib
+                  image 
+                  pyplot
+                        subplots 
+                        text
+                        imshow
+                        axis 
+                        figure 
+                        bar
+                        xlabel
+                        ylabel
+                        show 
+                  gridspec
+        tensorflow 
+                  contrib 
+                         layers 
+                  Variable
+                  nn 
+                      max_pool       
+        flatten 
+        keras
+             datasets 
+                      cifar10
+        IPython
+                display 
+                        Image
+    Fonksiyonlar 
+    plot_images
+    convNet
+    transform_image
+    normalize_and_blur
+    plot_data_with_labels
+    plot_sample_images
+    print 
+    range 
+    len 
+
+    if 
+    else 
+
+    for 
+    in 
+
+    return 
+
+    
+YARDIMCI-TEKNOLOJİLER
+.ipynb jupyter notebook teknolojisini kullanmıştır.
