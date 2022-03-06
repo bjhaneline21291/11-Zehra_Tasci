@@ -1,0 +1,1 @@
+Konvolüsyonel sinir ağlarını kullanarak görüntüleri sınıflandırmak için kısa bir şablon.
